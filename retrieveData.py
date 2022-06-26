@@ -38,7 +38,7 @@ for i in urlList:
     
     text = html2text.HTML2Text()
     text.ignore_links = True
-    f = open("article%d.txt" % articleCount, 'w', encoding="utf-8")
+    f = open("articles/article%d.txt" % articleCount, 'w', encoding="utf-8")
 
     for line in text.handle(str(soup)):
         try:

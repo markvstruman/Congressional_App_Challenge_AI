@@ -8,7 +8,7 @@ without styles and JavaScript.
 
 Advertisement
 
-![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=728x90&c=1276762458&t=pos%3Dtop%26type%3Darticle%26artid%3Dd41586-022-01492-7%26doi%3D10.1038/d41586-022-01492-7%26subjmeta%3D222,326,4130,454,479,596,631,648,689,706%26kwrd%3DGovernment,Politics,Publishing,SARS-
+![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=728x90&c=-1228050138&t=pos%3Dtop%26type%3Darticle%26artid%3Dd41586-022-01492-7%26doi%3D10.1038/d41586-022-01492-7%26subjmeta%3D222,326,4130,454,479,596,631,648,689,706%26kwrd%3DGovernment,Politics,Publishing,SARS-
 CoV-2)
 
 ![Nature](//media.springernature.com/full/nature-
@@ -343,7 +343,7 @@ Download PDF
   * Government
   * Publishing
 
-![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=300x250&c=1034946026&t=pos%3Dright%26artid%3D/articles/d41586-022-01492-7)
+![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=300x250&c=1406813710&t=pos%3Dright%26artid%3D/articles/d41586-022-01492-7)
 
 ## Sign up to Nature Briefing
 

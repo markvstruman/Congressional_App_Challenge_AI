@@ -1,0 +1,372 @@
+Subscribe
+
+The Guardian - Back to homeThe Guardian: news website of the year
+
+  * News
+  * Opinion
+  * Sport
+  * Culture
+  * Lifestyle
+
+Rishi Sunak announces £5bn windfall tax on energy firms to ease cost of living
+crisis – video
+
+Rishi Sunak
+
+# Rishi Sunak announces £5bn windfall tax on energy firms
+
+‘Temporary, targeted’ levy part of £15bn package intended to soften impact of
+cost of living crisis
+
+  * **Today’s politics news – live updates**
+
+Heather Stewart Political editor
+
+Thu 26 May 2022 08.17 EDT
+
+  * Share on Facebook
+  * Share on Twitter
+  * Share via Email
+
+1 month old
+
+Rishi Sunak has announced a £15bn package of support for households struggling
+with the cost of living crisis, part-funded by a £5bn windfall tax on energy
+companies.
+
+The chancellor set out what he called a “significant set of interventions” to
+help offset the impact of rocketing inflation.
+
+These will include a £650 one-off payment for families on means-tested
+benefits, and an extra £200 for all energy bill payers that will not have to
+be repaid.
+
+The package will be partly funded by what Sunak called a “temporary, targeted
+energy profits levy” – a windfall tax.
+
+Rishi Sunak announces cost of living measures – key points at a glance
+
+“The oil and gas sector is making extraordinary profits, not as the result of
+recent changes to risk-taking or innovation or efficiency, but as the result
+of surging global commodity prices driven in part by Russia’s war,” he said.
+
+He therefore announced what he called a “temporary, targeted energy profits
+levy” of 25% but with a 90% tax relief for firms that invest in oil and gas
+extraction in the UK.
+
+Sunak said he was also “urgently evaluating” the scale of excess profits made
+by electricity generators.
+
+Responding to Sunak’s statement in the House of Commons, the shadow
+chancellor, Rachel Reeves, said his adoption of a windfall tax showed Labour
+was “winning the battle of ideas in Britain”.
+
+“Today it feels like the chancellor has finally realised the problems that the
+country is facing. We first called for a windfall tax on oil and gas producers
+nearly five months ago to help struggling families and pensioners. Today he
+has announced that policy but he can’t dare say the words. It’s a policy that
+dare not speak its name,” she said.
+
+Sunak told MPs: “The high inflation we are experiencing now is causing acute
+distress for the people of this country.” Annual inflation hit 9% in April,
+the highest rate for 40 years.
+
+He said the public would understand that ministers could not offset all of the
+increase in prices. But he said: “This government will never stop trying to
+help people”, adding: “We will get through this.”
+
+“We will send directly to around 8 million of the lowest-income households a
+one-off cost of living payment of £650 – support worth over £5m – to give
+vulnerable people certainty that we are standing by them at this challenging
+time,” the chancellor said.
+
+He also announced that more than 8 million pensioner households that receive
+the winter fuel payment would receive an extra £300, while 6 million disabled
+people would get a one-off payment of £150.
+
+He said one-third of households would receive the targeted support, which is
+worth £9bn in total.
+
+In addition to the targeted support, all households would receive an extra
+£200 discount on their fuel bills in October, in addition to the £200 already
+promised.
+
+But in a U-turn on the rebate scheme announced in February, Sunak said
+households would now not need to repay this £400 in the coming years.
+Previously, they had been expected to repay the discount over the coming five
+years.
+
+Sunak said spending measures to tackle the crisis had to be “timely, temporary
+and targeted” to avoid stoking inflation.
+
+He set out the plans just two months after giving a spring statement that was
+criticised across the political spectrum for failing to do enough for the
+poorest households.
+
+The energy regulator, Ofgem, warned earlier this week that the annual price
+cap limiting household power bills was likely to rise by a further £800 in
+October, after the £700 increase in April.
+
+Several cabinet ministers, including the energy secretary, Kwasi Kwarteng, had
+previously expressed opposition to a windfall tax, an idea that has been
+advocated by Labour and the Liberal Democrats.
+
+But the Treasury and No 10 have increasingly warmed to the idea as it became
+clear they would have to take more action to offset the once-in-a-generation
+increase in household energy bills.
+
+{{#ticker}}
+
+{{topLeft}}
+
+{{bottomLeft}}
+
+{{topRight}}
+
+{{bottomRight}}
+
+{{#goalExceededMarkerPercentage}}
+
+{{/goalExceededMarkerPercentage}}
+
+{{/ticker}}
+
+## {{heading}}
+
+{{#paragraphs}}
+
+{{.}}
+
+{{/paragraphs}}{{highlightedText}}  
+{{#choiceCards}}
+
+  
+
+SingleMonthlyAnnual
+
+  
+
+Other
+
+{{/choiceCards}}
+
+{{#cta}}{{text}}{{/cta}}
+
+Email address
+
+Please enter a valid email address
+
+Please enter your email address
+
+Set a reminder
+
+Sorry we couldn't set a reminder for you this time. Please try again later.
+
+We will send you a maximum of two emails in . To find out what personal data
+we collect and how we use it, view our Privacy Policy.
+
+We will be in touch to remind you to contribute. Look out for a message in
+your inbox in . If you have any questions about contributing, please contact
+us.
+
+Topics
+
+  * Rishi Sunak
+
+  * Cost of living crisis
+  * Tax and spending
+  * Energy bills
+  * Household bills
+  * Energy industry
+  * Consumer affairs
+  * news
+
+  * Share on Facebook
+  * Share on Twitter
+  * Share via Email
+  * Share on LinkedIn
+  * Share on WhatsApp
+  * Share on Messenger
+
+View on theguardian.com
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+  * About us
+  * Contact us
+  * Complaints and corrections
+  * Securedrop
+  * Work for us
+  * Privacy settings
+  * Privacy policy
+  * Cookie policy
+  * Terms & conditions
+  * Help
+
+  * All topics
+  * All writers
+  * Modern Slavery Act
+  * Digital newspaper archive
+  * Facebook
+  * Twitter
+
+  * Advertise with us
+  * Search jobs
+  * Patrons
+  * Discount Codes
+
+Support The Guardian
+
+Contribute
+
+Subscribe
+
+Back to top __
+
+© 2022 Guardian News & Media Limited or its affiliated companies. All rights
+reserved.
+
+{{ #topLevelSections }}
+
+  * ##  __{{ title }}
+
+{{ #subSections }}
+
+    * {{ title }} 
+{{ /subSections }}
+
+{{ /topLevelSections }}
+
+{{ #readerRevenueLinks }}
+
+  * {{ title }} 
+{{ /readerRevenueLinks }}
+
+  * Sign in / Register 
+
+##  __Switch edition
+
+{{ #editions }}
+
+  * {{ displayName }} 
+{{ /editions }}
+
+{{ #secondarySections }}
+
+  * {{ title }} 
+{{ /secondarySections }}
+

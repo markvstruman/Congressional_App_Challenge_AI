@@ -1,0 +1,341 @@
+Subscribe
+
+The Guardian - Back to homeThe Guardian: news website of the year
+
+  * News
+  * Opinion
+  * Sport
+  * Culture
+  * Lifestyle
+
+Show captionA girl pays her respects at a memorial for the 19 children and two
+adults shot dead in Uvalde, Texas. Photograph: Marco Bello/Reuters
+
+# The fixation with guns is an American nightmare
+
+Letters
+
+The scourge of gun violence goes beyond the mass shootings that make the
+headlines, writes **Peter Squires**. Plus letters from **Neil A Wynn** and
+**Tony Waterston**
+
+Thu 2 Jun 2022 12.55 EDT
+
+  * Share on Facebook
+  * Share on Twitter
+  * Share via Email
+
+I have been researching gun violence and its prevention for more than 25
+years, and much as I accept Jonathan Freedland’s analysis of the deep
+structures, party politics and ideological delusions that sustain this gun
+culture (America, how long will you sacrifice your children on the altar of
+gun worship?, 27 May), I often feel that there’s a mismatch between problems
+and responses.
+
+After all, America has three gun violence problems. In order of victim
+magnitude these are: gun suicides, some 60% of all shooting deaths, mainly
+white middle-aged men; gun homicides, as many as 18,000 victims a year,
+disproportionately young African-American men; and mass shootings, producing
+around 1% of annual gun homicide victims.
+
+It is undoubtedly the mass shootings that punctuate, focus and drive the “gun
+debate”, but strategies to tackle just one of these problems are unlikely to
+have much purchase on the others.
+
+A sizeable majority of mass shootings are carried out with legally owned
+weapons, increasingly assault rifles, yet the daily carnage on the streets of
+inner cities, where the overwhelming majority of America’s young people are
+shot and killed, is dominated by illegal handguns. The fight will inevitably
+be a long and hard one, and gun-control measures are certainly a major part –
+though not the whole – of that. But we do need well-evidenced, credible
+policies that address the actual issues. There is no panacea here.  
+ **Peter Squires**  
+ _Professor emeritus of criminology and public policy, University of Brighton_
+
+• I found Jonathan Freedland’s excellent article saddening, not just because
+of the horror of the latest mass shooting but also the wider demise of
+America’s “promise of possibility” that the awful events in Uvalde and
+elsewhere reflect.
+
+Like many people of my generation, I was attracted in my teens to the US by
+the promise and hope of its history, politics, music, film and literature – a
+promise that existed even amid the turmoil of the civil rights and anti-war
+protests of the 1960s and 1970s. We taught American history and American
+studies and focused on the American dream – the belief that a society could,
+in Freedland’s words, “form anew, free of the past”, a dream of endless
+possibility. But what hope now for America in the post-Trumpian era with a
+militant rightwing and seemingly all-powerful gun lobby? Maybe Malcolm X was
+right all along: “I don’t see any American dream; I see an American
+nightmare.”  
+ **Neil A Wynn**  
+ _Emeritus professor of 20th-century American history, University of
+Gloucestershire_
+
+• As a member of Extinction Rebellion, I think the answer to Jonathan
+Freedland’s appeal must be direct action by the victims, specifically parents
+and children. As with climate change, marching and writing to politicians
+about gun control has had no effect, despite widespread support by the public.
+
+The politicians responsible for non-action (leading Republicans such as Ted
+Cruz and Mitch McConnell) must be targeted with blockades of their homes and
+offices by parents and children with graphic banners; the National Rifle
+Association should be sued for millions of dollars for the deaths that its
+lobbying has led to. No doubt this is already being done or considered, and it
+is arrogant for non-Americans to give their advice – but I’m not making any
+apologies.  
+ **Tony Waterston**  
+ _Newcastle upon Tyne_
+
+ **• _Have an opinion on anything you’ve read in the Guardian today? Please_**
+** _email_** ** _us your letter and it will be considered for publication._**
+
+{{#ticker}}
+
+{{topLeft}}
+
+{{bottomLeft}}
+
+{{topRight}}
+
+{{bottomRight}}
+
+{{#goalExceededMarkerPercentage}}
+
+{{/goalExceededMarkerPercentage}}
+
+{{/ticker}}
+
+## {{heading}}
+
+{{#paragraphs}}
+
+{{.}}
+
+{{/paragraphs}}{{highlightedText}}  
+{{#choiceCards}}
+
+  
+
+SingleMonthlyAnnual
+
+  
+
+Other
+
+{{/choiceCards}}
+
+{{#cta}}{{text}}{{/cta}}
+
+Email address
+
+Please enter a valid email address
+
+Please enter your email address
+
+Set a reminder
+
+Sorry we couldn't set a reminder for you this time. Please try again later.
+
+We will send you a maximum of two emails in . To find out what personal data
+we collect and how we use it, view our Privacy Policy.
+
+We will be in touch to remind you to contribute. Look out for a message in
+your inbox in . If you have any questions about contributing, please contact
+us.
+
+Topics
+
+  * US gun control
+
+  * US politics
+  * letters
+
+  * Share on Facebook
+  * Share on Twitter
+  * Share via Email
+  * Share on LinkedIn
+  * Share on WhatsApp
+  * Share on Messenger
+
+View on theguardian.com
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+  * About us
+  * Contact us
+  * Complaints and corrections
+  * Securedrop
+  * Work for us
+  * Privacy settings
+  * Privacy policy
+  * Cookie policy
+  * Terms & conditions
+  * Help
+
+  * All topics
+  * All writers
+  * Modern Slavery Act
+  * Digital newspaper archive
+  * Facebook
+  * Twitter
+
+  * Advertise with us
+  * Search jobs
+  * Patrons
+  * Discount Codes
+
+Support The Guardian
+
+Contribute
+
+Subscribe
+
+Back to top __
+
+© 2022 Guardian News & Media Limited or its affiliated companies. All rights
+reserved.
+
+{{ #topLevelSections }}
+
+  * ##  __{{ title }}
+
+{{ #subSections }}
+
+    * {{ title }} 
+{{ /subSections }}
+
+{{ /topLevelSections }}
+
+{{ #readerRevenueLinks }}
+
+  * {{ title }} 
+{{ /readerRevenueLinks }}
+
+  * Sign in / Register 
+
+##  __Switch edition
+
+{{ #editions }}
+
+  * {{ displayName }} 
+{{ /editions }}
+
+{{ #secondarySections }}
+
+  * {{ title }} 
+{{ /secondarySections }}
+

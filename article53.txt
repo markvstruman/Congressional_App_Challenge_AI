@@ -1,0 +1,335 @@
+Subscribe
+
+The Guardian - Back to homeThe Guardian: news website of the year
+
+  * News
+  * Opinion
+  * Sport
+  * Culture
+  * Lifestyle
+
+Show captionPrince Charles and Prince William leave the Order of the Garter
+Service at St George's Chapel, Windsor, 13 June 2022. Photograph: WPA/Getty
+Images
+
+Opinion
+
+# Get ready for King Charles, the monarch who speaks his mind
+
+Simon Jenkins
+
+He has described as ‘appalling’ the Tories’ plans to deport asylum seekers to
+Rwanda. Don’t expect him to change
+
+Mon 13 Jun 2022 13.03 EDT
+
+  * Share on Facebook
+  * Share on Twitter
+  * Share via Email
+
+The government’s decision to deport asylum seekers to Rwanda faces more
+serious opposition than from the Prince of Wales. It has come from
+international lawyers, Amnesty International, civil service unions, the weight
+of liberal opinion and now the court of appeal. Even so, for the prince to
+reportedly declare the prime minister’s policy on migration to be “appalling”
+is unusual. Is it significant?
+
+The answer is no. A mountain of constitutional pomposity envelops Britain’s
+monarchy, as if stepping an inch out of line presages a republican coup.
+Prince Charles is not the monarch and even if he were, he would have no power
+over policy. He may generate a headline or two when an aide or friend breaks
+confidence in anonymous collusion with a newspaper. In the Rwanda case,
+widespread support for the prince is due to the fact that many people happen
+to agree with him. But anyway – so what?
+
+Heirs to the throne have no duty other than to stay alive. The thesis put
+forward by the constitutional historian Vernon Bogdanor that they “must never
+say or do anything that would embarrass” the monarch is mere public relations.
+It has long been breached, notably by the heirs to Queen Victoria and to
+virtually every one of the Georges, not least the future Edward VIII during
+the Great Depression. Prince Charles has long voiced opinions on matters as
+diverse as architecture, medicine and the environment. He has strong views and
+mostly steers them clear of partisan politics, except perhaps for his reputed
+(private) enthusiasm for the Social Democratic party in the 1980s. Somehow
+monarchy retains its dignity, even amid the harmless, B-movie “thank you” of
+this month’s jubilee celebrations.
+
+Prince Charles criticises ‘appalling’ Rwanda migrant scheme – reports
+
+Which leaves open how the prince as king means to interpret the full range of
+Bagehot’s constitutional duties imposed on the monarch, to “counsel, encourage
+and warn”. He has adamantly asserted that as monarch he will be detached from
+politics. In appointing ministers, summoning parliaments and signing bills, he
+must do so robotically, without substance or discretion. Should the monarch
+refuse on principle to sign a bill, as in Mike Bartlett’s 2014 drama King
+Charles III, he knows he would have to abdicate. Meanwhile he can hardly hope
+to keep his views on current affairs entirely to himself, running the
+occasional risk of a broken confidence.
+
+Perhaps as king, Charles might risk a new deal. There are rumours that he
+hopes to reduce the scale of the disparate royal family and its establishment.
+The flummery of monarchy as a military costume drama is outdated, as is the
+extent of its private London estate. Outdated, too, is the rejection of
+retirement, now customary for monarchies across Europe.
+
+In return for a long-overdue modernisation, Charles might choose to play a
+more active role in “counselling, encouraging and warning”. He has long
+contributed to the cultural and intellectual life of the nation. Given a new
+informality and a reduced profile, he could reasonably trespass on to some of
+the issues now upheaving the nation that he clearly holds dear. He would have
+no power of decision and no influence beyond that of debate. I am sure
+monarchy would survive the shock.
+
+  * Simon Jenkins is a Guardian columnist  
+
+{{#ticker}}
+
+{{topLeft}}
+
+{{bottomLeft}}
+
+{{topRight}}
+
+{{bottomRight}}
+
+{{#goalExceededMarkerPercentage}}
+
+{{/goalExceededMarkerPercentage}}
+
+{{/ticker}}
+
+## {{heading}}
+
+{{#paragraphs}}
+
+{{.}}
+
+{{/paragraphs}}{{highlightedText}}  
+{{#choiceCards}}
+
+  
+
+SingleMonthlyAnnual
+
+  
+
+Other
+
+{{/choiceCards}}
+
+{{#cta}}{{text}}{{/cta}}
+
+Email address
+
+Please enter a valid email address
+
+Please enter your email address
+
+Set a reminder
+
+Sorry we couldn't set a reminder for you this time. Please try again later.
+
+We will send you a maximum of two emails in . To find out what personal data
+we collect and how we use it, view our Privacy Policy.
+
+We will be in touch to remind you to contribute. Look out for a message in
+your inbox in . If you have any questions about contributing, please contact
+us.
+
+Topics
+
+  * Monarchy
+  * Opinion
+
+  * Prince Charles
+  * comment
+
+  * Share on Facebook
+  * Share on Twitter
+  * Share via Email
+  * Share on LinkedIn
+  * Share on WhatsApp
+  * Share on Messenger
+
+View on theguardian.com
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+  * About us
+  * Contact us
+  * Complaints and corrections
+  * Securedrop
+  * Work for us
+  * Privacy settings
+  * Privacy policy
+  * Cookie policy
+  * Terms & conditions
+  * Help
+
+  * All topics
+  * All writers
+  * Modern Slavery Act
+  * Digital newspaper archive
+  * Facebook
+  * Twitter
+
+  * Advertise with us
+  * Search jobs
+  * Patrons
+  * Discount Codes
+
+Support The Guardian
+
+Contribute
+
+Subscribe
+
+Back to top __
+
+© 2022 Guardian News & Media Limited or its affiliated companies. All rights
+reserved.
+
+{{ #topLevelSections }}
+
+  * ##  __{{ title }}
+
+{{ #subSections }}
+
+    * {{ title }} 
+{{ /subSections }}
+
+{{ /topLevelSections }}
+
+{{ #readerRevenueLinks }}
+
+  * {{ title }} 
+{{ /readerRevenueLinks }}
+
+  * Sign in / Register 
+
+##  __Switch edition
+
+{{ #editions }}
+
+  * {{ displayName }} 
+{{ /editions }}
+
+{{ #secondarySections }}
+
+  * {{ title }} 
+{{ /secondarySections }}
+

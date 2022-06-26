@@ -1,0 +1,356 @@
+Subscribe
+
+The Guardian - Back to homeThe Guardian: news website of the year
+
+  * News
+  * Opinion
+  * Sport
+  * Culture
+  * Lifestyle
+
+Show captionDominic Cummings managed to find room to criticise his old boss at
+No 10 during panel discussion entitled Bismarck and Political Power in London
+on Thursday evening. Photograph: Tolga Akmen/AFP/Getty Images
+
+Dominic Cummings
+
+# Dominic Cummings attempts career reboot as political speaker
+
+Ex-adviser to Boris Johnson holds forth about his hero Otto von Bismarck at
+Orwell Festival of Political Writing
+
+Caroline Davies
+
+Thu 23 Jun 2022 17.23 EDT
+
+  * Share on Facebook
+  * Share on Twitter
+  * Share via Email
+
+More than a year since walking out of Downing Street clutching his possessions
+in a cardboard box, Dominic Cummings has emerged in public again, recasting
+himself as a political speaker,
+
+From No 10 to a lecture hall in the Darwin Building at University College
+London, the man who was once Boris Johnson’s senior adviser and de facto chief
+of staff, appeared on Thursday night in a panel discussion at the Orwell
+festival of political writing.
+
+The subject, Bismarck and Political Power, is one with which he has quite a
+fascination. Indeed, the erstwhile political adviser turned creator of long
+Twitter threads and blog posts, told an audience of about 100 that today’s
+politicians could learn much from the Iron Chancellor.
+
+“I think that studying Bismarck can help us improve the selection of people
+who go into politics who have crucial roles,” he said.
+
+Readers of his blog will be familiar with Cummings’ fascination with Otto von
+Bismarck, who rose rapidly in Prussian politics and masterminded the
+unification of Germany in 1871, serving as its first chancellor until 1890.
+
+Introduced by the panel chair as “that rare thing a political strategist of
+the first rank who became a political actor of the first rank”, Cummings spoke
+about Bismarck’s genius and political insight. Unable to resist mentioning his
+former boss, he told the audience that one of Bismarck’s strengths was he knew
+how to prioritise. “Now it’s absolutely normal in politics for those at the
+apex of power to be quite clueless about their priorities. Back in 2020 often
+several times a day Boris Johnson would trolley between, ‘we’ve got to save
+lives, we’ve got to save the economy’. Not week to week, not even day to day,
+sometimes several times in one meeting,” he said.
+
+The panel discussion was part of the inaugural Orwell Festival of Political
+Writing 2022.
+
+It marks a new role as public speaker for Cummings, who, post Downing Street,
+has sought to promote himself as a political commentator, Johnson critic in
+chief, and whistleblower extraordinaire, happy to supply context and gossip on
+everything from “wallpapergate” to Carrie Johnson, to ethics in general.
+
+How Cummings and Carrie Symonds vie for Johnson’s attention
+
+His fellow panellist, Anglo-German historian Katja Hoyer has previously
+discussed Cummings’ admiration for Bismarck.
+
+Writing in the Spectator last year she said: “It is clear that Cummings seeks
+inspiration from the Iron Chancellor for his own political doings,” pointing
+out he quotes him extensively in his articles. She argued that Cummings’ fall
+from grace followed “a rather similar trajectory to the Bismarckian one”.
+
+“Both were once deemed indispensable fonts of political wisdom. Both drew the
+ire of powerful enemies. Both left office as embittered men with giant
+political axes to grind,” she wrote.
+
+She also wrote that Bismarck like Cummings ran into conflict “with the first
+lady at court” and that both men deemed themselves indispensable and “watched
+their own fall with astonishment and incredulity”.
+
+Also speaking at the ticketed event was Sir Richard Evans, professor emeritus
+of history at Cambridge University and Gideon Rachman, chief foreign affairs
+commentator of the FT.
+
+The festival, the first of its kind, opened on Wednesday and will feature
+“some of the most powerful thinkers and newsmakers of recent times”,
+organisers said.
+
+The festival culminates on 14 July in the announcement of the winners of this
+year’s Orwell prizes.
+
+Prof Jean Seaton, director of the Orwell Foundation, said: “This first Orwell
+festival of political writing is an exciting new stage in the growth of the
+Orwell Foundation. The festival concentrates attention on the work of all of
+the finalists that our journalism and book prize judges have most valued. But
+it begins to open up tough discussions about things that matter with
+audiences.”
+
+{{#ticker}}
+
+{{topLeft}}
+
+{{bottomLeft}}
+
+{{topRight}}
+
+{{bottomRight}}
+
+{{#goalExceededMarkerPercentage}}
+
+{{/goalExceededMarkerPercentage}}
+
+{{/ticker}}
+
+## {{heading}}
+
+{{#paragraphs}}
+
+{{.}}
+
+{{/paragraphs}}{{highlightedText}}  
+{{#choiceCards}}
+
+  
+
+SingleMonthlyAnnual
+
+  
+
+Other
+
+{{/choiceCards}}
+
+{{#cta}}{{text}}{{/cta}}
+
+Email address
+
+Please enter a valid email address
+
+Please enter your email address
+
+Set a reminder
+
+Sorry we couldn't set a reminder for you this time. Please try again later.
+
+We will send you a maximum of two emails in . To find out what personal data
+we collect and how we use it, view our Privacy Policy.
+
+We will be in touch to remind you to contribute. Look out for a message in
+your inbox in . If you have any questions about contributing, please contact
+us.
+
+Topics
+
+  * Dominic Cummings
+
+  * Boris Johnson
+  * Awards and prizes
+  * Carrie Johnson
+  * news
+
+  * Share on Facebook
+  * Share on Twitter
+  * Share via Email
+  * Share on LinkedIn
+  * Share on WhatsApp
+  * Share on Messenger
+
+View on theguardian.com
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+{{#showContent}}
+
+{{displayName}}
+
+{{#description}}
+
+{{description}}
+
+{{/description}}{{#content}}{{#headline}}
+
+##
+{{#isVideo}}{{/isVideo}}{{#isGallery}}{{/isGallery}}{{#isAudio}}{{/isAudio}}{{#isComment}}{{/isComment}}{{headline}}
+
+{{#isComment}}
+
+{{byline}}
+
+{{/isComment}}
+
+{{#showWebPublicationDate}} {{webPublicationDate}}{{/showWebPublicationDate}}
+
+{{headline}}
+
+{{/headline}}{{/content}}
+
+{{/showContent}}
+
+Show more
+
+  * About us
+  * Contact us
+  * Complaints and corrections
+  * Securedrop
+  * Work for us
+  * Privacy settings
+  * Privacy policy
+  * Cookie policy
+  * Terms & conditions
+  * Help
+
+  * All topics
+  * All writers
+  * Modern Slavery Act
+  * Digital newspaper archive
+  * Facebook
+  * Twitter
+
+  * Advertise with us
+  * Search jobs
+  * Patrons
+  * Discount Codes
+
+Support The Guardian
+
+Contribute
+
+Subscribe
+
+Back to top __
+
+© 2022 Guardian News & Media Limited or its affiliated companies. All rights
+reserved.
+
+{{ #topLevelSections }}
+
+  * ##  __{{ title }}
+
+{{ #subSections }}
+
+    * {{ title }} 
+{{ /subSections }}
+
+{{ /topLevelSections }}
+
+{{ #readerRevenueLinks }}
+
+  * {{ title }} 
+{{ /readerRevenueLinks }}
+
+  * Sign in / Register 
+
+##  __Switch edition
+
+{{ #editions }}
+
+  * {{ displayName }} 
+{{ /editions }}
+
+{{ #secondarySections }}
+
+  * {{ title }} 
+{{ /secondarySections }}
+

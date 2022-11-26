@@ -1,21 +1,45 @@
-Yes, it’s just one survey. Polling averages are more reliable. But those numbers are comparable, I’m told, to the Shapiro campaign’s internal polling.
+Listen Comment on this story Comment Gift Article Share
 
-Shapiro’s team fully expects a close race, but there’s an important dynamic here to watch. Should the race remain close, national Republican groups have signaled, they intend to spend money on Mastriano’s behalf. That could eat into Shapiro’s overwhelming financial advantage and allow Republicans to project a more mainstream image of their candidate than he presents himself.
+Hurricane Ian left a devastating trail of wreckage; more than 100 people died, and thousands of homes and businesses were destroyed. But a new challenge is on the horizon: holding an election while trying to rebuild. Wp Get the full experience. Choose your plan ArrowRight The state of Florida has already sent out mail ballots. Early voting begins as soon as Oct. 24 in some counties, with Election Day less than 20 days away. So how do you run a successful election with thousands of displaced voters — while rebuilding infrastructure?
 
-Mastriano has taken some extreme positions. He favors a ban on abortion with no exceptions for rape or incest, and has openly embraced the QAnon conspiracy theory. And he has been a leading figure in Donald Trump’s drive to overturn the results of the 2020 election — proudly promoting his presence at the Capitol on Jan. 6, 2021. The House panel investigating the Jan. 6 riot has subpoenaed him.
+Florida has been here before. In 2018, Hurricane Michael made landfall in the Panhandle as a Category 5 storm just before that year’s midterms. As Robert Montjoy, a former professor at the University of New Orleans and an elections expert, told NPR at the time, “Whether casting a ballot becomes a higher priority than cleaning out the basement, visiting someone in the hospital, or all the other demands … you certainly expect a lower turnout for those reasons.”
 
-On Monday, Mastriano named Jenna Ellis, a former lawyer for the Trump campaign who was intimately involved in the effort to toss out Joe Biden’s victory, as a senior legal adviser.
+Advertisement
 
-Then on Tuesday, NBC News reported that Mastriano had told an interviewer that he saw “parallels” between the federal government’s prosecution of suspects in the Jan. 6 riot and the Nazis’ use of the 1933 Reichstag fire to crack down on dissent and seize unrestricted power in Germany.
+In a forthcoming study, we examined how severe weather and election administration decisions intersect to influence voter turnout. Using Hurricane Michael as a case study, we found that consolidating polling places, an emergency measure taken because some polling places were destroyed, reduced turnout by far more than the overall damage caused by the hurricane.
 
-Hitler analogies are rarely a good idea in American politics, and that particular comparison is not one that historians are likely to find credible. But with many voters experiencing serious economic distress, Mastriano’s poll numbers ought to be sobering for Democrats all over the country.
+How Florida’s hurricane response hurt voter turnout
 
-Image
+In 2018, we estimate Hurricane Michael affected 3 percent of Florida’s Election Day polling places. Turnout across the eight storm-affected counties fell by seven percentage points. That’s a significant drop: In a year when the U.S. Senate race in Florida was decided by 10,033 votes, some 13,800 voters didn’t cast ballots because of the hurricane.
 
-— Blake
+Michael made landfall 27 days before the general election. That’s closer to Election Day than Hurricane Ian, which hit 41 days before Nov. 8. Eight days after Michael hit, then-Gov. Rick Scott issued an executive order that allowed election administrators to relocate or close polling places affected by the hurricane in the eight counties hit hardest. The executive order also made it easier to vote by mail and to increase the number of days for early voting.
 
-Is there anything you think we’re missing? Anything you want to see more of? We’d love to hear from you. Email us at onpolitics@nytimes.com.
+Advertisement
 
-URL: https://www.nytimes.com/2022/06/15/us/politics/trump-elections-win-lose-candidates.html
+But the state provided no financial assistance to those counties’ election administration offices to accompany the allowance to consolidate locations. Without this additional funding, the counties couldn’t open emergency polling places. The result? Polling places were dramatically reduced. Bay County — the most populous in the region — had planned to open 44 polling places for its 185,000 residents. Instead, it had six.
 
-TITLE: Winning When Trump Is Against You: A How-To Guide
+We wanted to disentangle the storm’s effect from the effect of the executive order. To do that, we looked at the counties affected by the storm, pairing each voter living barely inside a county covered by the order to one living barely outside those eight counties, and compared turnout rates between 2010 and 2018. These pairs of voters faced similar conditions, but only some lived in a county where administrators could consolidate polling places. Up until 2016, we found only small differences in turnout between these groups.
+
+But 2018 was a different story. We found that voters exposed to similar levels of rainfall — but outside those eight counties covered by the executive order — turned out at rates similar to those distant from the hurricane. But for voters in the eight counties who had to travel farther to their nearest polling place, turnout dropped substantially. We estimate that for every additional mile a voter had to travel to cast a ballot, turnout declined by between 0.6 and 1.1 percentage points.
+
+Advertisement
+
+We also looked at whether the executive order changed the way people voted. Even before the pandemic drove up mail voting, Floridians voted by mail at comparatively high rates, with 32 percent doing so in 2018. Our research found that that didn’t really change after Hurricane Michael in 2018. In fact, we found that voters in the eight counties covered by the executive order were less likely either to vote in person or absentee than voters not affected by the storm. By contrast, voters in those eight counties were more likely to vote early in person. Still, that wasn’t enough to offset the other declines.
+
+In other words, despite other efforts to make voting easier, the loss of nearby polling places reduced the proportion of eligible, hurricane-hit Floridians who voted. It’s understandable that local election administrators decided to consolidate polling places, given severely storm-damaged and waterlogged buildings, streets and neighborhoods. In that sense, the executive order reflected the reality on the ground.
+
+But the executive order did not offer emergency funding to the affected counties to open enough polling places. In the counties forced to close more than half of their planned polling places, turnout rates plummeted.
+
+Funding for emergency polling sites is needed post-Ian
+
+While election administrators have had more time to recover from Ian before the election than they did after Michael, the 2022 hurricane was much more severe. Gov. Ron DeSantis (R) issued an executive order on Oct. 12 granting emergency powers similar to those after Michael to officials in only three counties — Charlotte, Lee and Sarasota — covering only 4 percent of statewide polling places. The order added one notable direction: Voting locations should be moved to “another accessible site within the same precinct or, if such site is not available, to another site in a contiguous precinct.” This inclusion aims to limit the distance voters may have to travel to a polling place.
+
+Advertisement
+
+To ensure every eligible voter can cast a ballot this fall, establishing emergency and mobile polling places could be crucial to filling the void left by Ian. Otherwise, the voters most affected by the natural disaster may have to travel outside their precincts or risk not having their voices heard at all.
+
+Peter Miller is a researcher in the Democracy Program at the Brennan Center for Justice.
+
+Kevin Morris (@kevintmorris) is a researcher in the Democracy Program at the Brennan Center for Justice and a doctoral student at the City University of New York.
+
+GiftOutline Gift Article

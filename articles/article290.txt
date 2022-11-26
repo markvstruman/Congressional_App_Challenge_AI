@@ -1,0 +1,97 @@
+CNN —
+
+False claims and conspiracy theories about voting and the election process swirled on social media as Americans cast their ballots on Tuesday.
+
+The disinformation was driven by Republicans. Former President Donald Trump and other prominent right-wing figures seized on technical problems in some key states to baselessly suggest there had been intentional malfeasance. Trump also made a baseless claim of mass voter fraud.
+
+Here is a look at some of the early false and misleading claims. This article will be updated as CNN fact-checks additional claims.
+
+With no evidence, Trump floats the possibility of mass voter fraud in the midterms
+
+Trump, who has repeatedly and falsely alleged that there was mass voter fraud in the 2020 election, baselessly suggested on social media on Tuesday that such fraud might be happening in the 2022 midterms.
+
+“Same thing is happening with Voter Fraud as happened in 2020???” the former president wrote Tuesday afternoon on his Truth Social platform.
+
+There was no evidence of widespread or outcome-changing voter fraud in the 2020 election, and there was no early sign on Tuesday of any significant voter fraud in the 2022 midterms. Voter fraud typically represents a tiny fraction of ballots cast in US elections.
+
+Trump made his Tuesday claim amid a series of social media posts in which he complained about assorted technical difficulties in some states. There was no evidence that any of these issues involved intentional malfeasance, let alone “voter fraud.”
+
+–Daniel Dale
+
+Maricopa County debunks Republican’s false tweet about wait times
+
+Maricopa County, the most populous county in Arizona, has tweeted a debunking of a prominent Republican personality’s false Election Day claim about voting wait times.
+
+Charlie Kirk, the founder and president of right-wing group Turning Point USA, tweeted Tuesday to his 1.8 million followers: “2 hour wait minimum at most polling places in Maricopa. Democrats running elections here knew this would happen. Traffic jam by design. DONT LET THEM DO 2020 AGAIN. WAIT IN LINE AND VOTE.”
+
+The tweet was thoroughly inaccurate.
+
+Maricopa County’s elections aren’t run by Democrats: its elections chief, Recorder Stephen Richer, and its Board of Supervisors chairman, Bill Gates, are both Republicans. And the county’s online wait-times tracker showed that dozens of voting locations there had waits of under five minutes, including many with no waits at all. County voters are permitted to cast their ballots at whatever location they choose.
+
+Maricopa County did experience Election Day technical problems with tabulation devices at about 20% of its voting locations, according to county officials on Tuesday morning. The problem prompted officials to ask affected voters to place their ballot in a secure box for counting, wait for the tabulator problems to be resolved, or go vote at another county location. (Richer issued an afternoon statement saying the Board of Supervisors had identified the problem and had “begun fixing affected voting locations.” He promised that “every legal vote will be tabulated.”)
+
+But there was no indication of intentional malfeasance.
+
+Maricopa County said in its tweet in response to Kirk’s tweet: “No part of the tweet below is accurate. The vast majority of Vote Centers are seeing wait times under 30 minutes, and whether by tabulator or secure ballot box, all voters are being served.”
+
+–Daniel Dale
+
+Conspiracy theorists call for voters to ‘check for WiFi’
+
+Conspiracy theorists are warning voters to “check for WiFi” network names and connections inside and outside of their polling locations, a new iteration of the debunked conspiracy that voting machines are connected to the internet and can change votes remotely.
+
+“Check for Wifi connections, both inside & outside poll locations. Election machines should not be connected to the Internet. Take a screenshot to report irregularities for investigation,” read one tweet.
+
+The calls on social media sites such as Telegram and Twitter echo previous debunked conspiracy theories that voting machines are connected to the internet, thus allowing for tampering by third-party saboteurs or election officials to change votes from one candidate to another.
+
+In reality, “voting machines” that actually mark ballots are not typically directly connected to the internet, despite cries from election conspiracy theorists. The larger voting systems can be connected to the internet, often to use the election management software used to program machines and to test them, but this is supposed to occur before voting.
+
+Polling locations in many states use WiFi to access electronic poll books to verify voter eligibility.
+
+On Tuesday, there were isolated incidents of those electronic poll books – laptops used by election workers to ensure voters are registered – not working at polling sites in Detroit, Michigan, because of computer issues, but it did not prevent any voters from voting.
+
+“Voting machines” that actually mark ballots are not typically directly connected to the internet. But the supporting pieces that make up the voting process can be – like election management software that is used to program voting machines beforehand.
+
+–Em Steck and Olivia Alafriz
+
+Trump and other Republicans baselessly push disinformation after poll book mishap in Detroit
+
+Trump urged followers to “protest,” and the GOP nominee for Michigan secretary of state falsely claimed “fraud” was to blame for what officials called a “harmless data error” in Detroit.
+
+By the time Trump weighed in, the Michigan Department of State had already addressed what happened at select polling places in Detroit and said a resolution had been identified. That fix was sent to precincts by 11 a.m.
+
+Even when the situation was still being reviewed, “voters were always able to vote,” Michigan Department of State spokesperson Jake Rollow told reporters Tuesday. “At no point was any, was there any inability to process a voter who showed up,” he said.
+
+Rollow said there were a “couple reports” of isolated issues with e-poll books at some precincts in Detroit. E-poll books are laptops that have a static download of the voter registration list, Rollow said. When voters arrive at their polling place, election workers check them in on an e-poll book to ensure they’re registered, in the right precinct, and haven’t already voted absentee. Polling sites have hard copy paper backups to check in voters, Rollow said.
+
+The City of Detroit Department of Elections explained in a statement that some e-poll books showed an incorrect message that read, “Ballot # has already been issued as Absentee Voter Ballot,” due to a “harmless data error,” but that didn’t mean anyone was attempting to vote twice.
+
+Regardless, Kristina Karamo, the GOP nominee for Michigan secretary of state, falsely tweeted that there was “fraud” and a “crime” taking place.
+
+And Trump falsely said on his Truth Social account, “the Absentee Ballot situation in Detroit is REALLY BAD. People are showing up to Vote only to be told, ‘sorry, you have already voted.’ This is happening in large numbers, elsewhere as well. Protest, Protest, Protest!”
+
+Rollow explained that sometimes the same numbers are used for in-person and absentee ballots because they’re separate sets of ballots, and the technology is supposed to ignore it.
+
+If poll workers encountered the issue, they were instructed to mark a ballot with an ‘X’ to make clear that the ballot was issued in person, he said.
+
+Some voters who were affected earlier in the morning were given a provisional ballot, Rollow said. Those provisional ballots will be counted as if they were standard ballots and the voters do not have to take any additional action, he said.
+
+“The protections were already and always in place to protect anyone from voting twice,” Rollow said later in the afternoon, adding that it “could not have occurred in this situation.”
+
+–Annie Grayer and Nicki Brown
+
+Wisconsin election official shuts down fraud claims that poll worker illegally filled out ballots
+
+A Wisconsin election official shot down claims made on social media suggesting a poll worker shown in a news clip was inappropriately filling out ballots.
+
+The man appeared in footage of a polling center aired on a Fox News show, sitting at a table with a stack of ballots in front of him, looking from side to side as he flipped through the pages and made marks on the documents with his pen.
+
+People on social media called out the man’s actions, questioning whether he was doing something illegal.
+
+But the county clerk in Dane County, Wisconsin, told CNN that he looked into the incident and determined that the man pictured in the video was a poll worker who was initialing and indicating the ward number on the back of the ballots, in preparation for the ballots to be handed out to voters.
+
+“This process is required by law and is part of the check and balance process,” Dane County Clerk Scott McDonell said in an email.
+
+Some posts on social media about the video clip also erroneously suspected that the incident occurred at a Philadelphia election center, but a spokesperson for Philadelphia County confirmed to CNN that it did not take place at a polling location in the city.
+
+– Blake Ellis

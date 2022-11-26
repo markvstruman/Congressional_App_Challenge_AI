@@ -1,19 +1,21 @@
-Mississippi held congressional primaries on Tuesday. Polls closed at 7 p.m. local time and 8 p.m. ET.
+CNN —
 
-The races and the stakes:
+The Republican National Committee is suing Google for allegedly sending its campaign emails to people’s spam folders.
 
-Mississippi has four congressional House districts that are up for election on Tuesday. Of the four seats, three of them are currently held by members of the Republican Party.
+The RNC filed a lawsuit in federal court in California on Friday claiming that Google is, “unlawfully discriminating against the Republican National Committee (“RNC”) by throttling its email messages because of the RNC’s political affiliation and views.”
 
-In the state's 1st Congressional District, GOP Rep. Trent Kelly is running for reelection to a fifth term and is facing off against businessman Mark Strauss in the Republican primary. Strauss, who previously ran for office in Iowa, espouses on his website that the COVID-19 pandemic was "planned" and that vaccines were created and distributed for the purpose of "depoputation."
+“Google has relegated millions of RNC emails en masse to potential donors’ and supporters’ spam folders during pivotal points in election fundraising and community building. The timing of Google’s most egregious filtering is particularly damning,” the RNC said in the lawsuit.
 
-Mississippi's 2nd Congressional District features incumbent Rep. Bennie Thompson running for reelection in the Democratic primary. Thompson, who was first elected to the House in a 1993 special election and serves as chairman of the House committee investigating the January 6 attack, will face off against local business owner Jerry Kerner in the Democratic contest. There's also a crowded GOP primary in the district featuring four candidates: Michael Carson, Ronald Eller, Brian Flowers, and Stanford Johnson.
+CNN reported in August that federal election regulators voted to allow Google to proceed with a plan to make it easier for campaign emails to bypass spam filters.
 
-The state's 3rd Congressional District has incumbent GOP Rep. Michael Guest is headed to a runoff against challenger Michael Cassidy set for June 28. There's only one person running in the Democratic primary, former Homeland Security staffer Shuwaski Young.
+Google’s pilot program changes the filters for political emails, allowing them to bypass the company’s algorithms for sorting emails into spam. Instead, political emails will land in spam folders only if users take action to mark them as spam.
 
-And, in Mississippi's 4th Congressional District, incumbent Republican Rep. Steven Palazzo is also headed to a runoff against Mike Ezell. There are two candidates running in the Democratic primary — former Hattiesburg mayor Johnny DuPree and David Sellers, a pastor.
+The proposal to run a pilot project came after intense Republican criticism that spam filters were biased against conservatives, a charge the tech giant denies. In a sign of public disgust with spam, the Federal Election Commission received thousands of public comments urging it to deny the request.
 
-According to election experts at Sabato's Crystal Ball at the University of Virginia Center for Politics, the races in November will likely not be competitive. The organization rates Mississippi's 1st, 3rd, and 4th Congressional Districts as "Safe R" and the state's 2nd Congressional District as "Safe D."
+But a majority of the six-member commission decided that Google’s project did not constitute an improper in-kind political contribution that would violate federal campaign finance laws.
 
-URL: https://www.businessinsider.com/mississippi-primary-elections-live-results-2022-6
+Yet, the RNC alleges that “discrimination has been ongoing for about ten months – despite the RNC’s best efforts to work with Google.”
 
-TITLE: Results: 2 Mississippi GOP representatives head to runoff elections
+“Throughout 2022, the RNC has engaged with Google month after month to obtain an explanation and a solution,” the RNC said in the lawsuit. “But every explanation has been refuted and every solution has failed. Google continues to suppress the RNC’s emails, and now Google has fallen silent, refusing to discuss the issue further. The only reasonable inference is that Google is intentionally sending critical RNC emails to the spam folder because it’s the RNC sending them.”
+
+CNN has reached out to Google for comment.

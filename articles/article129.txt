@@ -1,0 +1,239 @@
+Democracy in America Inside the secretive effort by Trump allies to access voting machines How rural Coffee County, Ga., became an early target in the multistate search for purported evidence of fraud after the 2020 election The Coffee County Elections and Registration Office in Douglas, Ga. (Elijah Nouvelage for The Washington Post)
+
+Listen Comment on this story Comment Gift Article Share
+
+A week after the 2020 election, as Donald Trump raged over what he claimed was rampant fraud, officials in a rural county in southern Georgia received a disturbing report from the employee who ran their elections. New voting machines in use across the state could “very easily” be manipulated to flip votes from one candidate to another, she claimed at a meeting of the county elections board, and ballots could be scanned and counted more than once. She stressed that she had correctly tallied the results in their county, where Trump won in a landslide. But she said not everyone in positions like hers could be trusted to do the same.
+
+“Yes there are several check points for the honest person, but the honest person is not in every county,” Coffee County elections supervisor Misty Hampton told the board, according to minutes of the Nov. 10 meeting. One board member declared that the new equipment, made by Dominion Voting Systems, “SICKENS HIM.”
+
+Alerted by Hampton, Trump’s team quickly took interest. “I would like to obtain as much information as possible,” a campaign staffer emailed Hampton that same day.
+
+The elections board meeting — a gathering of eight people in an unremarkable building 200 miles from Atlanta — set off an extraordinary sequence of events that plunged the GOP enclave into the middle of a multistate effort by prominent Trump allies to gain access to voting machines in search of purported evidence that the election was rigged.
+
+In two instances, courts or state lawmakers granted Trump supporters access to the machines, which are considered by the federal government to be “critical infrastructure” vital to national security and are usually closely guarded. But in at least seven other counties in four states, including Coffee, local officials acting without a court order or subpoena allegedly gave outsiders access to the machines or their data, a Washington Post examination found.
+
+Data copied from these machines has been misrepresented as empirical evidence for the false claims of fraud that have warped American political discourse and spurred violence, notably the storming of the Capitol on Jan. 6, 2021. Those claims have also undermined trust in election results, including in the upcoming midterm contests, which some candidates have already suggested they may not accept.
+
+Advertisement
+
+Claims of widespread election fraud have been rejected over and over by local, state and federal officials as well as by computer science experts and numerous judges, including those appointed by Trump. They have nevertheless become an article of faith — or at least a professed belief — for many Republican voters, activists and politicians.
+
+Experts say the events in Coffee County are a potent example of the rising threat posed by insiders who undermine election security in the name of protecting it. While elections officials say security protocols would make it difficult for bad actors to manipulate votes, some experts say the data — circulated beyond a limited number of authorized officials — could give hackers a powerful tool to simulate voting machines and probe for weaknesses.
+
+The operations not sanctioned by courts or lawmakers were clandestine affairs. In Mesa County, Colo., an outsider was allegedly smuggled into the elections office under an alias to copy data. In Michigan, a pro-Trump state lawmaker allegedly persuaded clerks in two counties to hand over equipment for a House investigation that, according to the office of the House speaker, did not exist. In Coffee County, a local elections official invoked his Fifth Amendment right to avoid self-incrimination more than 200 times when questioned under oath recently for a long-running lawsuit that voting activists brought against state officials.
+
+Coffee County was home to the most extensive of the early covert efforts that have come to light. In January 2021, forensics experts copied data from virtually every component of the voting system there, records show. The incursion provided pro-Trump election deniers with copies of sensitive election software used across Georgia, a state widely seen as a linchpin in the battle for control of the U.S. Senate in 2022 and the White House in 2024.
+
+Coffee County, Ga. GOP Chairwoman Cathy Latham and digital forensics experts hired by lawyers allied with former president Trump on Jan. 7, 2021. (Video: Obtained by The Washington Post)
+
+The Post examination shows how unfounded suspicions in Coffee County spiraled into an alleged breach that was organized in part by pro-Trump lawyer Sidney Powell and paid for by her nonprofit, which at the time counted former national security adviser Michael T. Flynn among its directors. This account is based on interviews and documents obtained through public-records requests as well as surveillance video, text messages, and depositions and other records that were gathered by the plaintiffs in the long-running lawsuit, who contend that Georgia’s elections are not secure.
+
+In response to a request for comment, Powell referred The Post to her testimony before the House select committee investigating the Jan. 6 insurrection. That testimony is not public. Flynn did not respond to similar inquiries.
+
+Hampton, who has also used the surnames Hayes and Martin in recent years, has not responded to messages from The Post since earlier this year, before the copying episode in Coffee County was confirmed. “I’m not going to toot my own horn,” she said then, “but I knew the election system backward and forward, and I would put myself in the top 10 election supervisors across the state of Georgia.”
+
+In a statement, Dominion said, “No credible evidence has ever been presented to any court or authority that voting machines did anything other than count votes accurately and reliably in all states.”
+
+Earlier this month, Georgia state authorities issued a subpoena seeking documents from Coffee County, including about Hampton, according to records obtained by The Post. A special prosecutor in Michigan is probing alleged breaches in three counties. State authorities charged three Mesa County officials with felony offenses, and a federal grand jury is investigating further.
+
+An early fixation on voting machines
+
+Unproven theories that the nation’s elections are skewed by widespread fraud have long simmered. When John F. Kennedy narrowly prevailed over Richard M. Nixon in the 1960 presidential race, some on the right suspected that Richard J. Daley — the famously powerful Democratic mayor of Chicago — had rigged the results to tip Illinois in Kennedy’s favor. At a party Nixon gave before Christmas that year, news accounts say, he grumbled to guests, “We won, but they stole it from us.”
+
+Four decades later came Florida’s hanging-chad debacle and a subsequent push to replace paper ballots with paperless touch-screen voting machines. But those introduced new risks: Without a paper trail, checking whether the machines had accurately recorded voters’ choices was no longer possible.
+
+In 2004, some on the left alleged that widespread fraud in Ohio — including tampering with paperless voting machines — had helped Republican George W. Bush prevail over Democrat John F. Kerry. An outside group filed an unsuccessful election challenge in court.
+
+Advertisement
+
+Paperless voting machines began giving way in many places to paper ballots that could be scanned and counted by machine, a system widely seen as more secure. Nonetheless, suspicion surged on the right in 2016 after Trump, despite having won the presidency, falsely claimed that millions of people voting illegally had cost him the popular vote.
+
+A little-known security company led by former GOP congressional candidate Russell J. Ramsland Jr. soon became fixated on electronic voting machines as vectors of fraud, The Post has reported. In 2018, Ramsland began briefing GOP activists outside Dallas at an aircraft hangar used by his firm, Allied Security Operations Group (ASOG). Among those briefed was Powell, a lawyer who had won admirers in Trump circles by defending Flynn against charges that he lied to the FBI.
+
+Ramsland tried in vain to persuade failed Republican candidates to challenge their election defeats and force the release of machine data that he said might prove manipulation. No candidate did — until Trump’s loss in 2020.
+
+Trump and his associates focused their attention on Dominion, the Denver-based company whose machines were used across Georgia and in more than 20 other states. Among their claims was that ballots were being diverted away from automated counting to “adjudication,” a process intended to resolve minor errors by voters. There, the theory went, human operators or algorithms could flip Trump votes to Joe Biden.
+
+Trump-allied attorneys, including Powell, filed lawsuits in swing states seeking access to voting machines for what they called “forensic audits.” While many of the suits were quickly dismissed, a state judge allowed Dominion equipment to be searched for signs of fraud or irregularities in Antrim County, Mich. The Republican-controlled Arizona Senate used its subpoena power to allow outside consultants to examine machines used in Maricopa County. (None of the so-called audits would turn up evidence of rigged voting.)
+
+Only in recent weeks did The Post reveal new connections, through the involvement of key players, between the searches in Antrim and Maricopa counties — as well as a much more limited court-ordered examination of materials used to test machines in Clark County, Nev. — and the later alleged breaches that occurred without court authorization or legislative backing in three other Michigan counties and in Coffee and Mesa counties.
+
+Emails starting in late November 2020 show that the examinations in Clark, Antrim and Coffee were carried out by the data forensics firm SullivanStrickler and arranged in part by Jim Penrose, a cybersecurity consultant who had spent much of his career at the National Security Agency, according to his résumé.
+
+Among those copied on emails related to the court-ordered examinations were Trump campaign lawyer Jesse Binnall and Phil Waldron, a retired Army colonel. Waldron was working with ASOG and appearing with Trump attorney Rudy Giuliani at hearings where they urged state legislators to overturn the results.
+
+Powell and Doug Logan, the chief executive of a then-obscure firm called Cyber Ninjas, were also on emails relating to those and other examinations. The emails, disclosed by The Post in August, were the first indication of Powell’s involvement in the efforts to access machines in Antrim and Coffee counties.
+
+Two tech consultants, Jeffrey Lenberg and Doug Logan, arrived at Coffee County election headquarters on January 17, 2021. (Video: The Washington Post)
+
+Ramsland, Penrose, Waldron and a spokesman for Trump did not respond to inquiries. Binnall and Logan declined to comment.
+
+SullivanStrickler confirmed to The Post that it became involved in the elections work after being approached by Penrose. The firm has said it worked pursuant to contracts with attorneys and “had [and has] no reason to believe that, as officers of the court, these attorneys would ask or direct SullivanStrickler to do anything either improper or illegal.” The firm has said it is cooperating with investigators probing the Coffee County episode.
+
+Binnall signed an agreement on Dec. 2 to pay SullivanStrickler $19,500 for work in Clark County, but the campaign’s push to examine machines there was stymied. The firm’s experts were ultimately allowed to look only at records generated when the accuracy of the machines was tested before the election, court records show.
+
+It was in Michigan that Trump’s allies notched their first victory in the quest for machine access. Republicans had pounced on a clerical blunder in rural Antrim County as proof of rigging. A local man sued. On Dec. 4, a Michigan state judge — a Trump donor and former GOP leader in the legislature — issued an order granting the plaintiff permission to copy devices including the central computer used to tally election results.
+
+Powell signed a deal to pay SullivanStrickler $26,000 to collect the data, records show.
+
+Trump’s allies soon declared that the examination had unearthed a smoking gun. ASOG produced a report on Dec. 13, signed by Ramsland, that claimed the Antrim copies showed that Dominion systems were “intentionally and purposefully designed” to generate ballot errors and then shunt those ballots into adjudication, where unscrupulous officials could alter the results. The judge allowed the report to be released publicly the following day.
+
+Independent experts disputed the report’s central claims, and a hand count confirmed that the election result was accurate. Antrim did not have the adjudication software that the report alleged was used to fix results there, according to a Homeland Security analysis.
+
+William P. Barr, the attorney general at the time, told House investigators later that the report was “amateurish” and said one would have to be “detached from reality” to believe it. According to Barr, Trump called the report “absolute proof that the Dominion machines were rigged” and said it meant he was “going to have a second term.”
+
+Advertisement
+
+The Antrim files were posted to a password-protected server, from which they were downloaded by election deniers around the country, records show. But those chasing access to voting machines wanted more.
+
+Around this time, Brian Kennedy, a senior fellow at the conservative Claremont Institute, said in podcast interviews that Trump and his allies needed more compelling machine evidence to stop Congress from certifying Biden’s win on Jan. 6, 2021. He did not mention Coffee County but said in a Dec. 17 interview that “Georgia is having some investigation.”
+
+Kennedy tied their efforts to the wider bid to overturn the election by Trump attorney John C. Eastman, a Claremont colleague and a friend for 30 years. “John’s confident we can get this done ahead of time. And I think I am, too,” Kennedy said. “But we need to really step up our game here if we’re going to get this done in time.”
+
+Kennedy did not respond to a request for comment. Eastman was not aware of the events in Coffee County until he received questions from The Post, his lawyer said.
+
+Trump campaign harnesses Coffee County claims
+
+In 2017, a group of voters and the nonprofit watchdog Coalition for Good Governance filed the lawsuit against Georgia elections officials. It alleged that the paperless touch-screen machines were vulnerable to hacking and argued that they should be replaced by hand-marked paper ballots. U.S. District Court Judge Amy Totenberg found the following year that state officials had “buried their head in the sand” in response to security problems.
+
+Georgia replaced the aging paperless voting machines ahead of the state’s June 2020 presidential primary. Voters still make their selections by touching a screen. But the new machines, made by Dominion, then print a paper ballot with a QR code that is scanned and counted. (The lawsuit has remained active, with the plaintiffs arguing that the new system is insecure — and, more recently, that the risk has been exacerbated by the alleged breach in Coffee County and the circulation of software used statewide. Secretary of State Brad Raffensperger (R), who took office in 2019, has disagreed and continued defending the voting system in court.)
+
+Mail ballots are marked by hand. When such a ballot is not machine-readable because of stray marks or other errors, it is handled through adjudication. Georgia law requires a bipartisan panel to examine the ballot, agree on voter intent and then tell the computer how to count it.
+
+Hampton has told The Post she accidentally discovered that, as an election supervisor entering that information, she could cause a mail ballot marked for one candidate to be counted for another. “I was blown away that it would let me change a person’s vote,” she said early this year.
+
+Advertisement
+
+Using the machine’s adjudication function to flip votes would be illegal. Had it happened in Georgia, it would have been detected during a statewide hand count that happened in mid-November 2020, according to voting experts. Instead, that recount affirmed that the machines had tallied votes correctly.
+
+Nonetheless, after Hampton voiced her concerns at the Nov. 10 elections board meeting, she made a call to Robert Sinners, the Trump campaign’s director of Election Day operations in Georgia. She urged Sinners to request the meeting minutes, he later said in a deposition. Sinners said he forwarded the minutes to campaign attorneys and “didn’t really think twice about it” because he was focused on Georgia’s most populous counties.
+
+Sinners also spoke to Eric Chaney, the board member who had said he was sickened by the machines, according to a previously unreported email from Chaney that was read to Sinners during his deposition. In the email, Chaney underlined his concerns with Dominion’s software: “THIS IS THE AVENUE FOR FRAUD ON THE LARGEST SCALE IMAGINABLE.”
+
+Chaney and his lawyer did not respond to a request for comment.
+
+Sinners also did not respond. The Georgia secretary of state’s office hired him in February 2021 as director of constituent services, and he is now the agency’s director of communications.
+
+At a Coffee County elections board meeting on Nov. 12, 2020, Hampton made a pair of videos purporting to demonstrate how she could flip votes or invent votes to be counted on ballots that had been left entirely blank. “I think I want to vote for Biden. Let’s let Biden win this one,” she said at one point, clicking the computer mouse to adjudicate a ballot.
+
+The Associated Press called Georgia for Biden one week later. Chaney, who had grown up in Coffee County and ran a used-car dealership owned by his father, texted Hampton and asked her to send him documents about the reliability of voting machines that had been provided by the secretary of state’s office. “Trump’s man wants them,” Chaney wrote in a previously unreported exchange.
+
+“Good!!!! I’ll help them any way I can,” replied Hampton.
+
+Because the vote was close, Georgia recounted again a few days later, this time by machine. Again, the recount confirmed Biden’s victory. Yet Coffee officials refused to certify their recount results, telling Raffensperger in a Dec. 4 letter that the Dominion machines had failed, during multiple attempts, to “repeatably duplicate creditable election results.”
+
+State investigators later concluded that the difficulties county officials experienced were a result of human error. But the board’s dire claims, printed on official letterhead, were becoming a key part of the frenzied push by Trump’s team to keep him in office.
+
+On Dec. 11, the Trump campaign filed a copy of Hampton’s videos, along with the Dec. 4 letter refusing to certify the machine recount and other documents from Coffee County, to a state court for a campaign lawsuit seeking to decertify Biden’s win in Georgia. Trump surrogates pointed to the videos and the county’s refusal to certify at hearings before Georgia legislators during a multistate roadshow led by Giuliani. When Waldron, the retired Army colonel, played the clips, Giuliani could be heard off-camera. “This is really good stuff,” he said, adding, “We should try to get this on Newsmax, on OAN.”
+
+A lawyer for Giuliani did not respond to a message seeking comment.
+
+The videos were referenced several days later in the ASOG report on Antrim County and, documents show, in a “strategic communications plan” developed by a Giuliani-led team working from Washington’s Willard hotel during late December and early January.
+
+Coffee County’s refusal to certify was also cited in one of the most extreme measures proposed by Trump allies after the election: a Dec. 16 draft executive order authorizing the Defense Department to seize voting machines. At a now-infamous meeting at the White House two days later, Powell and Flynn tried to persuade Trump to seize machines and empower Powell to investigate. Trump never did.
+
+On Jan. 5, 2021, Georgia held runoff elections for the state’s two U.S. Senate seats. Coffee County GOP Chairwoman Cathy Latham was the Republican member on the bipartisan panel to monitor adjudication cases. An award-winning teacher at Coffee High School, she had testified before state senators just a few days earlier, claiming whistleblower status as she described what she said were problems with the Dominion machines “from the git-go,” minutes from the hearing show.
+
+Latham claimed that during the Senate runoff, the county’s ballot scanner repeatedly jammed and returned error messages, especially on ballots marked for Republicans. A Dominion technician on the scene advised cleaning the machine with a cloth and puffs of pressurized air, she said in a written statement she turned over to the plaintiffs in the long-running lawsuit. That did not work, she wrote.
+
+As the night wore on, Chaney demanded to speak with the technician’s boss and threatened to call the media if the problem wasn’t fixed in 30 minutes, according to Latham’s statement. Soon after, Latham wrote, the technician recommended wiping the scanner one more time. Then, as he held his cellphone while standing near the machine, it began working, according to Latham.
+
+“Did we all just witness what I think we witnessed?” Chaney said, according to Latham’s account. She wondered aloud whether the Dominion technician had downloaded something to the scanner via his phone, she recalled, adding that Hampton agreed: This could be no mere coincidence.
+
+Gabriel Sterling, Raffensperger’s chief operations officer, told The Post there is no way to access the scanners wirelessly or via Bluetooth. A state investigation into Coffee County’s troubled machine recount of the presidential race determined that Hampton was not aware of proper cleaning procedures for the scanner.
+
+Nonetheless, suspicion that Dominion had managed to wirelessly access a balky scanner in Coffee County supercharged concerns that someone could have rigged the election results.
+
+‘Are you getting everything?’
+
+In Washington the next day, thousands of Trump supporters gathered on the National Mall as Congress prepared to certify Biden’s victory. Trump exhorted them to march on the Capitol, and they did, laying siege to the building and driving lawmakers into hiding. Five people died in the attack or in its immediate aftermath.
+
+Meanwhile, 700 miles south, Trump’s supporters in Coffee County were making plans.
+
+Security camera footage shows that Latham arrived at the elections office just before 4 p.m. Hampton, who was at work inside, texted Chaney about the owner of a bail bonds business who was well-connected in the state GOP and had been hunting for evidence that the election was rigged. “Scott Hall is on the phone with Cathy about wanting to come scan our ballots from the general election like we talked about the other day,” Hampton wrote.
+
+The next morning, Latham told Hampton by text that Hall and the SullivanStrickler team were on their way.
+
+“Yay!!!!” Hampton replied.
+
+Advertisement
+
+Hall was flying in, and the SullivanStrickler team was driving from the Atlanta area. From the passenger seat, Chief Operations Officer Paul Maggio sent Powell an email with their $26,000 bill, adding that they planned to “collect what we can from the Election / Voting machines and systems.”
+
+In a deposition for the lawsuit, Latham said she was in the elections office that day only briefly and for unrelated reasons. Her lawyers have said that her memory of events more than two years ago is imperfect and that she testified truthfully to the best of her recollection. Chaney has not commented publicly since he told The Post earlier this year that he was not present at the office “when anyone illegally accessed the server or the room in which it is contained.” Hampton has acknowledged letting Hall and others into the office but said she did not know what they did there.
+
+Surveillance video shows that Chaney arrived at the office on Jan. 7 shortly before 11 a.m., and Latham arrived close to an hour later. She greeted the SullivanStrickler employees and Hall and led them inside when they arrived soon after.
+
+SullivanStrickler specializes in making “forensic images” — precise copies — of data from a device. At the Coffee elections office, records show, the team imaged nearly every piece of the county’s voting system: the poll pads, a ballot scanner, the server used to tally votes, and thumb drives and compact flash memory cards.
+
+Much of that work occurred in an area of the elections office not visible in surveillance video footage. But footage of a lobby and outer office shows Latham, Hampton and Chaney talking with Hall and the forensics experts, some at times looking at election equipment or bending to examine a computer screen.
+
+The firm believed that it had been given proper authorization, its director of data risk and remediation, Dean Felicetti, later said in a deposition. Hampton and to a lesser extent Latham had directed the firm’s employees, Felicetti said.
+
+“And Scott Hall had said, ‘Get — are you sure you’re getting everything? Are you getting everything?’ So that was interpreted as, ‘Make sure you get everything that you can,’” said Felicetti, who was not present in the county offices but provided the deposition on behalf of the firm.
+
+Hall did not respond to a request for comment. Latham’s lawyer declined to comment for this story but previously told The Post that she did not authorize or participate in the copying and “has not acted improperly or illegally.”
+
+Advertisement
+
+Maggio updated Powell that afternoon, telling her that “everything is going well here in Coffee County.” Surveillance video shows that Hall left shortly before 5 p.m. and Latham, who at one point left and then returned, departed after 6, having apparently spent more than four hours in total at the elections office that day. By 8 p.m., the SullivanStrickler team had departed as well.
+
+That evening, Chaney texted Hampton a cellphone number for Sinners, the Trump campaign staffer. Later, asked about that in a sworn deposition, Chaney cited his Fifth Amendment rights, one of the more than 200 times he did so, according to a transcript of his testimony. Sinners said in his deposition that he did not communicate with anyone about the copying and knew nothing of it. He said that “every activist in the state had my cell number.”
+
+The following day, Maggio told Powell that SullivanStrickler would post the data they had copied to the password-protected site for downloading. “Everyone involved was extremely helpful,” he wrote.
+
+Less than two weeks later, two other outsiders visited the elections office, surveillance video shows.
+
+At 4:20 p.m. on Jan. 18, Hampton arrived with Doug Logan, the Cyber Ninjas chief executive, and Jeffrey Lenberg, a retired federal employee who held security clearances and worked to expose vulnerabilities in software and hardware, according to a biography filed in court. The pair spent almost four hours in the office that afternoon, footage shows.
+
+They returned the next morning and stayed for another nine hours, during which Hampton texted Chaney: “If you happen to be in town, the guys measuring my desk are still here.”
+
+Lenberg also returned alone on Jan. 25 and on each of the next four days, the footage shows. Lenberg did not respond to a request for comment.
+
+In a podcast interview, Lenberg said he and Logan visited Coffee County after learning of the alleged runoff-night irregularity. Seeking to replicate the error, they directed Hampton and “didn’t touch” the equipment themselves, he said. He said they found that one type of scanner was “reversing ballots” and another type had adjustable settings that “shouldn’t have been there.” They reported back to associates in the capital whom he did not identify.
+
+“Both Doug and I wrote brief little reports about what we found, which were handed back to the group in Washington,” Lenberg said.
+
+The following month, after nearly a decade as a county elections official, Hampton was ousted.
+
+In a previously unreported group text on Feb. 24, a Coffee County election board member warned Hampton to consult the county attorney before accepting an invitation to speak to a local Rotary Club. “We have another new lawsuit and the possibility of another after that,” the board member wrote late that night.
+
+Chaney added: “With all that’s going on I think you need to lay low.”
+
+Advertisement
+
+Text messages show Hampton learned that a special elections board meeting had been set for the following day. The agenda called for discussion of litigation against the county as well as personnel issues, including possible disciplinary action.
+
+On the day of that meeting, Feb. 25, Hampton signed a letter saying she was resigning in lieu of termination and would not contest allegations that she had falsified time sheets.
+
+Hampton told The Post earlier this year that she had been pressured to sign the letter. She said she had followed the board’s guidance in handling her time sheets and believed she was pushed out because of her public criticism of Dominion machines.
+
+The evening of Hampton’s resignation, a plane owned by MyPillow, whose founder, Mike Lindell, was also working to prove Trump’s fraud claims, landed at Coffee County’s tiny Douglas airport. The jet had taken off that morning from Palm Beach, Fla., where Lindell is a member of Trump’s Mar-a-Lago Club. It stayed in Douglas less than two hours before flying on to Texas, flight records show.
+
+Lindell said that he didn’t know Hampton and that the visit to Coffee had nothing to do with elections. Entrepreneurs were pitching new “cooling towels” to MyPillow, he said, and he stopped to pick up some prototypes.
+
+Lindell sent The Post photographs of yellow cooling towels in packaging emblazoned with MyPillow’s logo. He declined to identify the entrepreneurs, saying they did not want to be publicly associated with him for fear of being attacked.
+
+A sustained attack
+
+In the months after the Coffee episode, election deniers went on to copy or access equipment — allegedly without proper authorization — in Mesa County, Colo., and in the Michigan counties that are now the subject of a criminal investigation. They did the same, with permission from Arizona lawmakers, in Maricopa County.
+
+GOP politicians and activists have used that information to argue that all ballots should be counted by hand. Election deniers, sometimes citing the copied data, have filed at least 31 lawsuits asking judges in 15 states and D.C. to prohibit the use of electronic voting machines, a Post review found. Experts say such a move would inject elections with new uncertainty, delays and chaos.
+
+The allegation that outsiders copied Coffee County data was raised in February during a deposition of Sterling, the secretary of state’s chief operations officer. For months, Georgia officials were skeptical that it had happened, even after Mesa County clerk Tina Peters and her deputy were indicted in March on charges of scheming to help election deniers copy hard drives.
+
+Referring to the claims about Coffee County at a public event the following month, Sterling rolled his eyes.
+
+“There’s no evidence of any of that,” he said. “It didn’t happen.”
+
+Advertisement
+
+Sterling told The Post that he did not initially believe the claim about a security breach in Coffee County because it “had the hallmarks of misinformation.” He has since acknowledged he was mistaken. Raffensperger’s office has replaced the equipment in Coffee County, saying the controversy surrounding it had become a distraction.
+
+Evidence of the copying in Coffee County was unearthed and made public by the lawsuit plaintiffs. They amassed emails, business records and surveillance footage that showed the copying had occurred and linked it to the wider pro-Trump effort. “The only way to secure a system is people have to know that if they breach that system, they are going to be held accountable,” David Cross, a lawyer for the plaintiffs, said last month in court. “And these people almost got away with it.”
+
+Election deniers, meanwhile, have cast Hampton as a hero. “She’s absolutely doing her job if she’s trying to figure out what’s wrong with her election equipment, what might be wrong with it,” said Lenberg, who visited Coffee County’s elections office in January 2021. “That’s her job.”
+
+Jacqueline Alemany, Aaron C. Davis and Yvonne Wingett Sanchez contributed to this report.
+
+GiftOutline Gift Article

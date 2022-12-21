@@ -1,8 +1,9 @@
 from nntplib import ArticleInfo
 import os
+import newsapi
 from newsapi.newsapi_client import NewsApiClient 
 #import newsapi
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
 import re
 import newspaper
@@ -16,8 +17,8 @@ headers = {'User-Agent':user_agent}
 API_request = api.get_everything(q='election',
                                      # sources='bbc-news,the-verge', # You can specify sources
                                       domains='foxnews.com, cnn.com, thefederalist.com, washingtonpost.com, huffpost.com, infowars.com, occupydemocrats.com, americanlibertyreportnews.com', # Or domains
-                                      from_param='2022-10-20', # The dates your pulling between
-                                      to='2022-10-27',
+                                      from_param='2022-11-28', # The dates your pulling between
+                                      to='2022-12-02',
                                       language='en',
                                       sort_by='relevancy'
                                       #country='us'
@@ -26,52 +27,54 @@ API_request = api.get_everything(q='election',
 
 # Making a list of the articles' urls to parse for their HTML
 numberOfArticles = len(API_request['articles']) 
-articleCount = 0
+articleCount = 380
 urlList = []
+articleOn = 0
+
 for i in API_request['articles']:
-    urlList.append(API_request['articles'][articleCount]['url'])
-    if(API_request['articles'][articleCount]['url'].__contains__('foxnews')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+    urlList.append(API_request['articles'][articleOn]['url'])
+    if(API_request['articles'][articleOn]['url'].__contains__('foxnews')):
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("1")
         g.close()
-    if(API_request['articles'][articleCount]['url'].__contains__('thefederalist')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+    if(API_request['articles'][articleOn]['url'].__contains__('thefederalist')):
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("1")
         g.close()
-    if(API_request['articles'][articleCount]['url'].__contains__('infowars')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+    if(API_request['articles'][articleOn]['url'].__contains__('infowars')):
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("1")
         g.close()
-    if(API_request['articles'][articleCount]['url'].__contains__('americanlibertyreportnews')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+    if(API_request['articles'][articleOn]['url'].__contains__('americanlibertyreportnews')):
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("1")
         g.close()
-    if(API_request['articles'][articleCount]['url'].__contains__('cnn')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+    if(API_request['articles'][articleOn]['url'].__contains__('cnn')):
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("-1")
         g.close()
-    if(API_request['articles'][articleCount]['url'].__contains__('washingtonpost')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+    if(API_request['articles'][articleOn]['url'].__contains__('washingtonpost')):
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("-1")
         g.close()
-    if(API_request['articles'][articleCount]['url'].__contains__('huffpost')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+    if(API_request['articles'][articleOn]['url'].__contains__('huffpost')):
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("-1")
         g.close()
-    if(API_request['articles'][articleCount]['url'].__contains__('occupydemocrats')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+    if(API_request['articles'][articleOn]['url'].__contains__('occupydemocrats')):
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("-1")
         g.close()
     articleCount = articleCount+1
+    articleOn=articleOn+1
 
+articleCount = articleCount-numberOfArticles
 
-
-articleCount = 0
 # For every url, do these things
 for i in urlList:
     #req = Request(urlList[articleCount], None, headers)
     # try to open the web page with an HTTP request
-    f = open("articles/article%d.txt" % articleCount, 'w', encoding="utf-8")
+    f = open("Congressional_App_Challenge_AI/articles/article%d.txt" % articleCount, 'w+', encoding="utf-8")
     
     try:
         article_name = newspaper.Article(url=urlList[articleCount], language="en")
@@ -89,8 +92,8 @@ for i in urlList:
 API_request = api.get_everything(q='election',
                                      # sources='bbc-news,the-verge', # You can specify sources
                                       domains='foxnews.com, cnn.com, thefederalist.com, washingtonpost.com, huffpost.com, infowars.com, occupydemocrats.com, americanlibertyreportnews.com', # Or domains
-                                      from_param='2022-10-28', # The dates your pulling between
-                                      to='2022-11-04',
+                                      from_param='2022-12-03', # The dates your pulling between
+                                      to='2022-12-06',
                                       language='en',
                                       sort_by='relevancy'
                                       #country='us'
@@ -103,35 +106,35 @@ articleOn = 0
 for i in API_request['articles']:
     urlList.append(API_request['articles'][articleOn]['url'])
     if(API_request['articles'][articleOn]['url'].__contains__('foxnews')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("1")
         g.close()
     if(API_request['articles'][articleOn]['url'].__contains__('thefederalist')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("1")
         g.close()
     if(API_request['articles'][articleOn]['url'].__contains__('infowars')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("1")
         g.close()
     if(API_request['articles'][articleOn]['url'].__contains__('americanlibertyreportnews')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("1")
         g.close()
     if(API_request['articles'][articleOn]['url'].__contains__('cnn')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("-1")
         g.close()
     if(API_request['articles'][articleOn]['url'].__contains__('washingtonpost')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("-1")
         g.close()
     if(API_request['articles'][articleOn]['url'].__contains__('huffpost')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("-1")
         g.close()
     if(API_request['articles'][articleOn]['url'].__contains__('occupydemocrats')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("-1")
         g.close()
     articleCount = articleCount+1
@@ -143,7 +146,7 @@ articleCount = articleCount-numberOfArticles
 for i in urlList:
     #req = Request(urlList[articleCount], None, headers)
     # try to open the web page with an HTTP request
-    f = open("articles/article%d.txt" % articleCount, 'w', encoding="utf-8")
+    f = open("Congressional_App_Challenge_AI/articles/article%d.txt" % articleCount, 'w+', encoding="utf-8")
     
     try:
         article_name = newspaper.Article(url=urlList[articleCount], language="en")
@@ -159,73 +162,3 @@ for i in urlList:
 
 # new request
 
-API_request = api.get_everything(q='election',
-                                     # sources='bbc-news,the-verge', # You can specify sources
-                                      domains='foxnews.com, cnn.com, thefederalist.com, washingtonpost.com, huffpost.com, infowars.com, occupydemocrats.com, americanlibertyreportnews.com', # Or domains
-                                      from_param='2022-11-05', # The dates your pulling between
-                                      to='2022-11-12',
-                                      language='en',
-                                      sort_by='relevancy'
-                                      #country='us'
-                                      #page=2
-                                      )
-
-# Making a list of the articles' urls to parse for their HTML
-numberOfArticles = len(API_request['articles']) 
-articleOn = 0
-for i in API_request['articles']:
-    urlList.append(API_request['articles'][articleOn]['url'])
-    if(API_request['articles'][articleOn]['url'].__contains__('foxnews')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
-        g.write("1")
-        g.close()
-    if(API_request['articles'][articleOn]['url'].__contains__('thefederalist')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
-        g.write("1")
-        g.close()
-    if(API_request['articles'][articleOn]['url'].__contains__('infowars')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
-        g.write("1")
-        g.close()
-    if(API_request['articles'][articleOn]['url'].__contains__('americanlibertyreportnews')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
-        g.write("1")
-        g.close()
-    if(API_request['articles'][articleOn]['url'].__contains__('cnn')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
-        g.write("-1")
-        g.close()
-    if(API_request['articles'][articleOn]['url'].__contains__('washingtonpost')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
-        g.write("-1")
-        g.close()
-    if(API_request['articles'][articleOn]['url'].__contains__('huffpost')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
-        g.write("-1")
-        g.close()
-    if(API_request['articles'][articleOn]['url'].__contains__('occupydemocrats')):
-        g = open("articleBiases/article%dBias.txt" % articleCount, 'w', encoding="utf-8")
-        g.write("-1")
-        g.close()
-    articleCount = articleCount+1
-    articleOn=articleOn+1
-
-
-articleCount = articleCount-numberOfArticles
-# For every url, do these things
-for i in urlList:
-    #req = Request(urlList[articleCount], None, headers)
-    # try to open the web page with an HTTP request
-    f = open("articles/article%d.txt" % articleCount, 'w', encoding="utf-8")
-    
-    try:
-        article_name = newspaper.Article(url=urlList[articleCount], language="en")
-        article_name.download()
-        article_name.parse()
-        f.write(article_name.text)
-        
-    except:
-        print("Error opening link, probably dead")
-        continue
-    f.close()
-    articleCount = articleCount+1

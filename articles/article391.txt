@@ -1,0 +1,33 @@
+Listen Comment on this story Comment Gift Article Share
+
+With Republicans poised to take over the House next year, a divided Congress looms. The result could be two years of partisan strife and gridlock. But between the GOP investigations and other legislative fireworks to come, there might be room to get a few things done — if lawmakers are willing to accept success.
+
+Members of Congress have spent years devising a federal tech privacy law that finally seemed close to passage this session, when Reps. Frank Pallone Jr. (D-N.J.) and Cathy McMorris Rodgers (R-Wash.), as well as Sen. Roger Wicker (R-Miss.), presented a bipartisan compromise. The good news: The American Data Privacy and Protection Act (ADPPA) flew through committee 53-2 in the House. The bad: That’s where it stopped, and its chances appear slim in this Congress’s final weeks. That would mean it will be on the next Congress to pick up where its predecessor left off. If next year’s congressional leaders want to do more than just oversee partisan bickering, taking up this bill would be a place to start.
+
+The ADPPA departs from the notice-and-consent paradigm, in which the burden lies with consumers to understand what is being done with their personal information and object if they would like. Few people take the time to read through and fully comprehend privacy policies when they are just trying to use a new app or set up their phone. The ADPPA introduces a novel approach: The companies handling data would themselves have obligations to handle it responsibly. They would be required to limit data collection, use and sharing to what is “reasonably necessary and proportionate” to provide their products or services.
+
+Advertisement
+
+Many lawmakers agree on this policy, and for the most part they also agree on two questions that previously seemed likely to spell doom for the ADPPA: whether individuals should have the right to sue tech companies under the law and whether federal privacy rules should override existing state privacy regulations. In both these areas, legislators managed to push aside politics and make smart compromises — a rare accomplishment that shouldn’t go to waste.
+
+Lingering concerns over whether individuals can sue tech firms, especially from Senate Commerce Committee Chair Maria Cantwell (D-Wash.), could cause some final hiccups. But lawmakers have struck a compromise that should work, enabling people to sue tech companies over privacy violations after waiting two years, as long as they notify state and local officials before filing. This way, consumers can seek redress for the harms companies might inflict upon them — but companies also won’t be caught flat-footed by a sudden change in what they’re permitted to do.
+
+Questions about preempting state privacy rules have been the bigger problem. More specifically, the trouble is California. The state rightly prides itself on being the first to come up with tough data privacy regulations of its own, and now those responsible for creating and carrying out the process are worried the ADPPA will sweep it aside. They contend that the California Consumer Privacy Act provides more robust protections than the ADPPA would.
+
+Advertisement
+
+Out-of-state privacy experts disagree. Indeed, California’s rules do not require the ADPPA’s paradigm shift away from notice-and-consent, which would minimize what the data companies can collect and ensure they design their products with privacy in mind. The California Privacy Protection Agency has proposed changes to impose similar “reasonable expectations” restrictions, but no such rules are yet in effect.
+
+Certainly, California is more protective in certain areas than the ADPPA would be. Most notable are forthcoming regulations that would allow individuals to opt out of all automated decision-making — whereby algorithms use consumers’ personal information to determine how they’re treated. California’s advocates also fear the ADPPA will make it impossible for their state to prevent companies from sharing with authorities in other states information regarding reproductive care.
+
+Yet the ADPPA would not put these state-level protections at risk. Congressional negotiators agreed that the new national rules would only override directly conflicting state rules, leaving others in place. The final markup of the ADPPA included some clarification on this point, as well as assurances that California’s state privacy regulators would retain their enforcement authority, another point of contention.
+
+Advertisement
+
+The ADPPA’s broad prohibitions on companies continuing to vacuum up unnecessary amounts of data for profit will do more to safeguard civil liberties than narrower “dos” and “don’ts” favored by tech privacy advocates in California and elsewhere — by cutting down on the amount of personal information floating around for sale and exploitation in the first place.
+
+Outgoing House Speaker Nancy Pelosi (D), a Californian, slow-walked the ADPPA amid objections from her state. Though the clarifications in the bill should have assuaged California’s concerns, it is unlikely Congress will be able to consider the legislation during the jam-packed lame-duck period.
+
+The next Congress should recognize what is sitting in its lap: a carefully crafted, comprehensive framework to protect data privacy rights after years of inaction have allowed the surveillance economy to grow, unbothered and unaccountable.
+
+GiftOutline Gift Article

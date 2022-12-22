@@ -1,0 +1,33 @@
+The Virginia Democratic Party is instructing activists to include deceased citizens and “bad” addresses when generating voter contact lists, The Federalist has learned.
+
+A pivotal tool Virginia Dems use to target voters for their ballot harvesting and get-out-the-vote efforts is VoteBuilder, an online database of all registered voters in Virginia operated by the Virginia Democratic Party and the Democratic National Committee. In the words of the Virginia Democrats themselves, “this database contains the names and other important information about registered voters – information that we can use to target likely voters for Democratic campaigns.”
+
+Democrat activists who use VoteBuilder can look up specific information about each registered voter and group them into likely Democrat voter outreach lists, which they then use for GOTV outreach, including phone banking and ballot harvesting.
+
+On the Virginia Democrats’ VoteBuilder website, there are instructions for how activists can use the tool to generate voter contact lists for absentee ballot chasing, a.k.a., ballot harvesting. The website describes it as generating absentee ballot “labels,” a process which also functions to collect a list of voters’ addresses.
+
+In the instructions on the web page, however, there are screenshots of the VoteBuilder database that show activists can generate an expanded outreach list by adding voters (under “Suppressions”) with “bad” addresses, National Change of Address forwarding addresses (residents who have moved), and even those who have died to the baseline list of active and inactive registered voters with accurate addresses. From there, activists can create lists of these voters’ phone numbers and addresses so they can contact them and collect their mail-in ballots.
+
+These instructions vary from another place on the Virginia Democrats’ site that appear to be tips on how to use VoteBuilder from the DNC itself, saying the “Suppressions” filters are “the automatic settings to prevent bad addresses from showing up on your lists.”
+
+If the DNC itself is telling activists that the “Suppressions” filters are used to prevent “bad” addresses from being included in the voter contact lists, why is the Virginia Democratic Party instructing its users to include them?
+
+“I don’t know how you can in good conscience instruct your workers to solicit votes from people in those categories,” Clara Belle Wheeler, former vice-chair of the Virginia State Board of Elections and senior fellow at the Virginia Institute for Public Policy, told The Federalist. “They’re instructing people to solicit votes from people who are not legally eligible to vote — they’ve either moved, are not a citizen of the United States, or [are] dead.”
+
+When asked about the deceased or NCOA filters on its database, a spokesman for the Virginia Democratic Party told The Federalist they are filters to help users weed through the voter registration data and that incorrect or deceased registrants are removed. But when asked why the instructions on their website for creating voter contact lists specifically tell users to include addresses of those who have died or moved, the spokesman told The Federalist he would respond later. The Federalist has since reached out twice with no response.
+
+“Clara Belle Wheeler’s got her tin foil hat on again,” Democrat Party of Virginia official Shyam Raman asserted. “This is a common practice to provide for data entry errors that would previously eliminated otherwise eligible voters from our internal database by mismarking [sic] them.” Raman did not provide evidence to support or explain his claim.
+
+Virginia Democrats are not the only Democrats who use VoteBuilder to identify and group potential Democrat voters for ballot-harvesting purposes, however. State parties across the nation use the software, all thanks to the Democratic National Committee. VoterBuilder’s parent company – and main technology provider for Democrat and other leftist campaigns — NGP VAN describes the database as a way for thousands of Democrat campaigns “to contact hundreds of millions of voters” each election cycle. On the same site, there is an entire article dedicated to ballot harvesting and scoring votes “early.”
+
+But why are deceased voters on VoteBuilder? That depends on each state’s list maintenance (or lack thereof). Virginia Democrats have deceased or incorrect registrants in their database because they receive Virginia’s voter registration file each month — purportedly to “update” their database. Despite the state’s commitment to list maintenance, Virginia’s voter rolls contain inaccurate data: a spring mailer sent out by Fairfax County had over 72,000 undeliverables return — nearly 10 percent of their registered voter list.
+
+“Under the National Voter Registration Act, it is the locality’s [the Virginia Department of Elections] responsibility to maintain accurate and current voter registration lists, whether they are transmitted to anybody or not,” Wheeler said. “So I guess you could say it’s not really the fault of the party if the voter file is not accurate.”
+
+Regardless of whether or not the voter files are accurate, that Virginia Democrats are instructing its volunteers to include the dead or “bad” addresses increases the likelihood of voter fraud.
+
+“The existence of that option, along with instructions that include soliciting dead ‘people’, would seem to be soliciting voter fraud,” former Attorney General of Virginia Ken Cuccinelli told The Federalist. “Obviously, that would be a crime, if accurate.”
+
+This article has been updated to include a statement from the Virginia Democrat Party.
+
+Victoria Marshall is a staff writer at The Federalist. Her writing has been featured in the New York Post, National Review, and Townhall. She graduated from Hillsdale College in May 2021 with a major in politics and a minor in journalism. Follow her on Twitter @vemrshll.

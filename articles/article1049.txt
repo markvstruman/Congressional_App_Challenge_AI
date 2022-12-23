@@ -1,0 +1,93 @@
+CNN —
+
+Arguments in the Supreme Court’s blockbuster election rules case played out for more than three hours on Wednesday as the justices examined claims from the North Carolina GOP legislature, which argues that state constitutions and state courts have little or no authority to impose limits on how state legislatures craft their rules for federal elections.
+
+The controversial “independent state legislature” theory is being used by Republican lawmakers to argue that state courts could not redraw the congressional map the legislature sought to enact in 2021.
+
+A version of theory was promoted by allies of former President Donald Trump during their attempts to overturn the 2020 presidential election.
+
+Wednesday’s case arises out of dispute over whether the congressional map was a partisan gerrymander so extreme that it ran afoul of the state’s constitution. But it has implications for all kinds of election rules and the ability of state courts to interpret them.
+
+Here are key takeaways from oral arguments:
+
+Key swing votes appear skeptical of the maximal version of the Republicans’ arguments
+
+North Carolina’s GOP legislature appears to be short of five votes it would need to get a Supreme Court ruling that adopted the most aggressive version of their arguments.
+
+Justices Brett Kavanaugh and Amy Coney Barrett asked questions suggesting skepticism of the maximal version of the independent state legislature theory.
+
+Barrett seemed troubled by the distinction lawmakers were trying to make between non-legislative state entities being able to weigh in on procedural matters around how federal elections were run versus the substantive matters around elections being out of those entities reach. Kavanaugh, meanwhile, said he thought the legislature was overreaching in how it was relying on a concurrence from then Chief Justice William Rehnquist in the 2000 Bush v. Gore case.
+
+Chief Justice John Roberts also said that concession made by the legislature’s lawyer – who said under their theory, the governor can play a role by vetoing election rules – had undermined the Republicans’ case.
+
+Video Ad Feedback Kavanaugh talks Bush v. Gore case (2000) 01:20 - Source: CNN
+
+A narrow ruling in legislature’s favor still possible
+
+Those key swing votes however asked other questions that suggested that they could rule in North Carolina’s favor, however in a way that avoided blessing the idea that state constitutions could never provide a check on state election rules.
+
+Roberts asked the legislature’s lawyer, David Thompson, whether the problem with how North Carolina courts handled the congressional map is that the state courts were relying on state constitution provisions that were too vaguely worded.
+
+“If they had a more precise articulation of what the limits were that they were going to apply, whether it’s going to be a particular percentage of gerrymandering, departure or something more substantive, is it the problem that they’re just interpreting something that gives them free rein or is that not a consideration?” Roberts asked.
+
+Kavanaugh and Barrett asked questions later in the hearing – including some posed to lawyers for the legislature’s opponents in the case – that seemed to play with idea.
+
+Thompson, for what it’s worth, seemed to resist that kind of ruling. He called that the “back up” problem with what the state courts did, but held onto the idea that the state courts had no authority to use the state constitution to knock down the redistricting plan.
+
+A ‘narrow’ ruling would still have a major impact
+
+Voting rights experts are worried that if the majority scales back on arguments made by Republican lawmakers in its final ruling, court watchers will consider the ruling “narrow.” To liberals, watching this case with alarm, any decision that would embolden legislatures (especially at a time when most state legislatures are republican majority) would be dangerous to democracy.
+
+A day before the election, the Brennan Center sounded the alarm. “There is no ‘Lite version’ of the Independent State Legislature,” Eliza Sweren-Becker and Ethan Herenstein wrote. They called the GOP legislature’s approach “as mealy-mouthed as it is incoherent” and accused them of backing away from an extreme version of the theory to middleground positions that would, arguably, leave some checks in place.
+
+Brennan argues that even such compromise positions “rests on the radical proposition that state legislatures alone get to make the rules for federal elections (save for potential interventions from Congress or the federal courts).”
+
+Conservative Carrie Severino, a former Justice Clarence Thomas clerk, accuses the left of a “disinformation campaign” in the National Review. From her perspective, it is not the state legislature that is “rogue,” it is the North Carolina Supreme Court that struck the maps in the first place that went too far. She urged the justices to scale back on a state court’s ability to engage in what she called “unfettered policymaking” and she said that in the case at hand the state court had concocted from state constitutional provisions’ “open-ended guarantees” that by “fiat” created a new map.
+
+Donald Verrilli argues on behalf of North Carolina before the Supreme Court justices. Sketch by Bill Hennessy
+
+Far-right bloc plays defense for the independent state legislature theory
+
+Some of the members of the court’s conservative wing – particularly Justices Thomas, Samuel Alito and Neil Gorsuch – have already indicated in writings for other cases that they’re sympathetic to the arguments of the legislature. That was clear in how they pushed back on the arguments put forward by the opponents of the independent state legislature theory.
+
+Alito posed a series of hypotheticals meant to test the limits of arguments that looked at different scenarios where a state supreme court would commandeer the job of congressional map drawing from state legislatures.
+
+Wednesday, Alito repeated some of the arguments he made back in March when he sided with the GOP lawmakers at an earlier phase of the case. In that order, he said noted that challengers believe that the state Supreme Court in the case at hand went too far.
+
+“If the Electors Clause is taken seriously,” he wrote, “there must be some limit on the authority of state courts to countermand actions taken by state legislatures when they are prescribing rules for the conduct of federal elections.” Alito seems to believe that if a state constitution speaks concretely on an issue such as partisan gerrymandering, it can constrain a legislature. But if, instead, the state court points to what Alito would consider “vague provisions” then it has less power.
+
+Gorsuch, for his part, raised the possibility that state constitutions would mandate partisan gerrymandering or adopt the pre-Civil War constitutional understanding that a slave would count as three-fifths of person.
+
+Court’s liberals take swings at the theory
+
+The liberal justices, not surprisingly, had aggressive questions for the proponents of independent state legislature theory.
+
+Justice Elena Kagan brought up the recent cases where the Supreme Court seemed to sanction that entities other than the state legislature can have say on election rules.
+
+“In all recent cases, we’ve said, ‘Of course, state courts applying state constitutions typically constrain state legislatures, when they redistrict, when they enact election laws,’” she said. Later on, she also warned of the “consequences” if there were no state constitutional checks on a state legislature, arguing it would allow state lawmakers to remove protections for voters enshrined in state constitutions and even meddle with the certification of elections.
+
+Justice Sonia Sotomayor tackled the historical arguments the legislature was making, telling its lawyer that six of the 13 colonies were “doing something that’s contrary to what you’re saying.”
+
+As the lawmakers’ lawyer attempted to answer, she accused him of trying to “rewrite history.”
+
+Justice Ketanji Brown Jackson pointed out that it was state constitutions that gave the state legislatures their authority to write state laws, including election rules. Critics of state independent legislature theory argue that the word “legislature” in the Elections Clause refers to the entire regime – including state courts – a state has set up, via its constitution, for governance.
+
+“I guess what I don’t understand,” Jackson told the legislature’s lawyer, “is how you can cut the state constitution out of the equation when it is giving the state legislature the authority to exercise like legislative power.”
+
+Ketanji Brown Jackson makes the originalist argument
+
+The 6-3 conservative Supreme Court has made clear that its roots are often in “originalism” – the judicial doctrine that says that the Constitution should be interpreted based on its original public understanding.
+
+As such, these days, both sides of the ideological spectrum often pepper their briefs with references to “historical tradition.” That continued on Wednesday as both liberals and conservative argued that history was on their side. Jackson made the point that the founders sought to constrain the power of state legislatures.
+
+As she did earlier in the term in a case challenging the use of race in college and university admissions plans, Jackson put forward a progressive view of originalism. In that case she noted that drafters of the 14th Amendment understood race-conscious measures would be needed to ensure the equality and liberty promised in that amendment. Framers did not rely on race neutral guarantees. Instead, they equal protection guarantees were promised in a race-conscious way.
+
+Arguments are so long these days that its much harder to read the tea leaves
+
+In olden days (i.e. pre-Covid) oral arguments had a totally different feel. The late Chief Justice William Rehnquist was so diligent to time limits that he was known to stop a lawyer mid-word if the red light flashed. But around the time of Covid, Roberts, who was tired policing arguments where justices would interrupt the lawyers and their colleagues to get their questions in, the court began changing its format.
+
+It has now evolved into two separate parts. At first an advocate can field questions from any justice, but then justices are allowed to go one by one to ask any follow ups. The biggest plus is that Thomas now speaks up at every oral argument. He appreciates the new format which allows fewer interruptions.
+
+But it also means that arguments go long over their allotted time. In the old days it was much easier to gauge what a particular justice felt about a case, because he or she would save their questions for what they saw as the nub of the case. The longer format , allowing more questions, makes it harder to discern what a particular justice really cares about.
+
+Trying to read tea leaves at oral arguments is always a hard game. But these days, it’s much harder.

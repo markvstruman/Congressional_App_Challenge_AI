@@ -1,0 +1,115 @@
+Comment on this story Comment Gift Article Share
+
+Happy Thursday! Below: The FCC proposes new data breach rules for telecom and the White House meets with tech leaders on cyber. First: No one reads the terms of service. Lawmakers want to fix that with a new 'TLDR' bill. Wp Get the full experience. Choose your plan ArrowRight If you’ve ever blown past a website’s terms of service agreement, you wouldn’t be the first. Surveys show a vast majority of people sign off without ever giving them a glance.
+
+But a bipartisan group of lawmakers is pushing to make it easier for consumers to understand just what they’re signing away by introducing legislation Thursday that would require sites to make easy-to-digest summaries of their terms, like a nutrition label.
+
+The bill — known as the TLDR Act for, well, brevity — would require sites to display a “summary statement” that not only makes their terms “easy to understand,” but also discloses whether they have been hit by recent data breaches and what sensitive personal data they collect.
+
+Advertisement
+
+That includes whether sites are pulling in users’ health data, precise location or demographic information, including race, religion, sex or age, and any breaches in the past three years. It’s a concept that with bipartisan backing could garner broader support in Congress.
+
+Rep. Lori Trahan (D-Mass.), one of the bill’s lead sponsors, said companies are exploiting the fact that most users skip over their terms to lure them into compromising agreements that expose more of their personal information.
+
+“It's not a surprise that some companies have taken full advantage of these contracts to include provisions that expand their control over users' personal data,” Trahan said in an interview Wednesday.
+
+And she said convoluted service agreements are stripping consumers of the ability to make informed decisions about whether joining a given site or platform is worth the cost of entry.
+
+Advertisement
+
+Sens. Ben Ray Luján (D-N.M.) and Bill Cassidy (R-La.) are introducing a counterpart of the measure, shared exclusively with The Technology 202.
+
+“Users should not have to comb through pages of legal jargon in a website’s terms of services to know how their data will be used,” Cassidy said in a statement. “Requiring companies to provide an easy-to-understand summary of their terms should be mandatory and is long overdue.”
+
+The proposal arrives as momentum grows on Capitol Hill for legislation to force digital services, particularly social media platforms, to be more transparent with users about their practices, including around data collection.
+
+“Congress has been extremely active on the need for privacy and antitrust legislation,” said Trahan, a prominent policymaker on privacy and tech issues on Capitol Hill. “But I think the last year has really proven that Congress needs to catch up on transparency.”
+
+Advertisement
+
+The movement gained steam after Facebook whistleblower Frances Haugen disclosed internal research data the tech giant kept on how its products may harm users.
+
+“So many of the [proposals] right now have been influenced by her testimony,” Trahan said.
+
+The revelations sparked a slew of hearings on Capitol Hill and gave lawmakers hope that they may finally have enough traction to pass new rules aimed at curtailing alleged abuses by Silicon Valley giants and other tech companies.
+
+The TLDR Act would apply broadly to commercial websites and apps, but exempts some small businesses. It would be enforced by the Federal Trade Commission and state attorneys general, who would have the power to seek civil action against companies that violate it.
+
+While the push to revamp U.S. antitrust laws and impose new transparency requirements for digital platforms has picked up speed, data privacy talks seemingly continue to languish.
+
+Advertisement
+
+Last Congress, once-promising talks in the Senate broke down amid disagreements between Democrats and Republicans about whether federal standards should override state laws and give consumers a right to sue companies over privacy violations. (“Conversations are ongoing about larger privacy bills,” Trahan said.)
+
+Ultimately, Trahan said, congressional action is needed on all three fronts: antitrust, privacy and transparency. But in the meantime, consumers should at least know what they are getting into when they browse the web or download an app, she said.
+
+She added, “This bill, of course, doesn't answer every harm caused by Internet companies. … But this legislation does get at an important issue that affects every American, and that's that terms of service are unreadable and it tilts the scales of power exclusively in favor of companies.”
+
+Our top tabs
+
+The FCC proposed new rules for telecom companies to report data breaches
+
+FCC Chairwoman Jessica Rosenworcel said existing rules need to be updated “to fully reflect the evolving nature of data breaches and the real-time threat they pose to affected consumers,” CyberScoop’s Tonya Riley reports. The proposal would get rid of a seven business day mandatory waiting period to notify customers of a breach. It would also require carriers to report breaches to the FCC, FBI and U.S. Secret Service.
+
+Advertisement
+
+“There’s a possibility that a final vote on either rule could be slowed down by the standoff in Congress over approving a new Democratic commissioner,” Tonya writes. “The commission is currently split 2-2 and Republicans have fiercely fought the confirmation of Biden nominee Gigi Sohn, who was recently renominated for consideration.”
+
+An adviser to France’s top court backed a $114 million fine on Google
+
+Court aide Laurent Domingo said the 2020 fine was justified because Google “failed to abide” by its “obligations, even though these were clear,” Bloomberg News’s Gaspard Sebag and Stephanie Bodoni report. The fine came after the company was accused of tracking users without their consent through the use of “cookies.”
+
+Domingo “criticized Google for failing to seek the consent of google.fr users to place cookies on their computers or informing them adequately, and for having an inefficient mechanism to block these tracking devices,” Sebag and Bodoni report.
+
+Advertisement
+
+France's highest administrative court is expected to rule on the case in the next few weeks. Google’s lawyers argue that French regulators didn’t have jurisdiction in the case and want E.U. courts to clarify the issue. The company didn’t respond to a request for comment from Bloomberg News.
+
+The White House is hosting industry leaders today to discuss cyber vulnerabilities in open-source software
+
+Representatives of Amazon, Apple, Facebook, Google and other technology companies and organizations will be attending the meeting, a senior official said. It comes in the wake of a vulnerability in the log4j software library that the U.S. government said was extremely serious. Nearly a dozen federal agencies and departments will send representatives to the summit, the official said.
+
+The bug has prompted a rush to shore up open-source software, which is vital to large portions of the Internet but typically maintained by volunteers. Tech companies such as IBM and Oracle, as well as organizations like the Apache Software Foundation, will also be attending the meeting, which will be hosted by deputy national security adviser Anne Neuberger, according to the official.
+
+Rant and rave
+
+Apple removed apps from its App Store that copied Wordle, the popular word game. Objective-See founder Patrick Wardle, who researches Mac malware and is a cousin of Wordle creator Josh Wardle:
+
+All's well that ends well?🤷🏻‍♂️ ...but how did Apple not have the foresight to see/prevent this in the first place? (esp. as their own guidelines prohibit clones/ripoffs).
+
+
+
+Yet again highlights how ineffective the App Store is as a gatekeeper (...we know it's really about control☠️) https://t.co/ilrBt9md0D — patrick wardle (@patrickwardle) January 12, 2022
+
+The Verge's Nilay Patel:
+
+All that talk about needing control over the store to protect people from scams and Apple couldn’t stop these jerks from stealing dude’s game with the same name https://t.co/fRlv5tHMVk — nilay patel (@reckless) January 12, 2022
+
+TechCrunch's Amanda Silberling:
+
+a wild day in internet https://t.co/Gt4zO6YtUj — amanda silberling (@asilbwrites) January 12, 2022
+
+Inside the industry
+
+Advertisement
+
+Agency scanner
+
+Competition watch
+
+Trending
+
+Daybook
+
+The Senate Judiciary Committee meets today at 9 a.m.
+
+Mike Doyle (D-Pa.), who chairs the House Energy and Commerce Committee’s communications and technology subcommittee, Rep.(D-Pa.), who chairs the House Energy and Commerce Committee’s communications and technology subcommittee, discusses the transition to fifth-generation and sixth-generation technology at a Center for Strategic and International Studies event today at 3:30 p.m.
+
+Before you log off
+
+costs of walking in winter 😊 pic.twitter.com/UHwKuU6EUV — Interesting Channel (@InteresChannel) January 12, 2022
+
+That’s all for today — thank you so much for joining us! Make sure to tell others to subscribe to The Technology 202 here. Get in touch with tips, feedback or greetings on Twitter or email.
+
+GiftOutline Gift Article

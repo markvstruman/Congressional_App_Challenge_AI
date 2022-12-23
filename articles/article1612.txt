@@ -1,0 +1,65 @@
+Washington CNN —
+
+The Biden administration has launched an expansive task force to investigate how US and western components, including American-made microelectronics, are ending up in Iranian-made drones Russia is launching by the hundreds into Ukraine, multiple officials familiar with the effort tell CNN.
+
+The US has imposed tough export control restrictions and sanctions to prevent Iran from obtaining high-end materials, but evidence has emerged that suggests Iran is finding an abundance of commercially-available technology.
+
+Last month, the UK-based investigative organization Conflict Armament Research examined several drones that had been downed in Ukraine and found that 82% of their components were manufactured by companies based in the US.
+
+Among the components found in some of the drones are processors built by the Dallas-based technology company Texas Instruments, according to an investigation by the Ukrainian Armed Forces and a source familiar with the US inquiry, as well as an engine made by an Austrian firm owned by Canada’s Bombardier Recreational Products. Both companies have condemned any use of their technology for illicit purposes.
+
+Their apparently unintentional ensnarement in Iran’s drone manufacturing industry underscores how inexpensive products intended for civilian use can be easily retrofitted for military purposes, and often fall just outside the bounds of sanctions and export control regimes.
+
+Texas Instruments said in a statement to CNN that “TI is not selling any products into Russia, Belarus or Iran. TI complies with applicable laws and regulations in the countries where we operate, and partners with law enforcement organizations as necessary and appropriate. Additionally, we do not support or condone the use of our products in applications they weren’t designed for. ”
+
+Bombardier Recreational Products said in a statement that it was launching an investigation into how the engines ended up in the drones.
+
+‘All hands on deck’
+
+The investigation has intensified in recent weeks amid intelligence obtained by the US that the Kremlin is preparing to open its own factory for drone production inside Russia as part of a deal with Iran, the officials said.
+
+Iran has already begun transferring blueprints and components for the drones to Russia to help with production there, CNN has reported, in a dramatic expansion of the countries’ military partnership.
+
+Parts of a drone used by Russia against Ukraine, as seen during a media briefing in Kyiv, Ukraine, December 15, 2022. STR/NurPhoto/Getty Images
+
+Agencies across Washington are involved in the task force, including the departments of Defense, State, Justice, Commerce and Treasury, with one official describing the inquiry as an “all hands on deck” initiative. The effort is being overseen by the White House National Security Council as part of an even bigger, “holistic approach” to dealing with Iran, a senior administration official said, from its crackdown on protesters and its nuclear program to its deepening role in the war in Ukraine.
+
+But the drone issue is particularly urgent given the sheer volume of US-made components, many of them manufactured in the last couple years, that have been found in the Iranian drones Russia has been deploying across Ukraine against civilians and critical infrastructure.
+
+Conflict Armament Research found that the Iranian drones they examined in Ukraine in November had “higher-end technological capabilities,” including tactical-grade sensors and semiconductors sourced outside of Iran, demonstrating that Tehran “has been able to circumvent current sanction regimes and has added more capabilities and resiliency to its weapons.”
+
+National Security Council official John Kirby told reporters earlier this month that the US would be sanctioning three Russian companies involved in acquiring and using the Iranian drones, and is “assessing further steps we can take in terms of export controls to restrict Iran’s access to sensitive technologies.”
+
+Much of that work has fallen to the task force, officials said, and among its first tasks has been to notify all of the American companies whose components have been found in the drones. Congressional staffers briefed on the effort told CNN that they hope the task force provides lawmakers with a list of US companies whose equipment is being found in the drones in an effort to force greater accountability by urging the companies to monitor their supply chains more closely.
+
+The task force is also having to coordinate with foreign allies, since the components being used in the drones are not limited to those produced by American companies. Conflict Armament Research also found that “more than 70 manufacturers based in 13 different countries and territories” produced the components in the Iranian drones they examined.
+
+In October, CNN obtained access to a drone that was downed in the Black Sea near Odesa and captured by Ukrainian forces. It was found to contain Japanese batteries, an Austrian engine and American processors.
+
+An Iranian-made drone, the Mohajer-6. CNN
+
+Iran may also be acquiring near-exact replicas of western components from China, according to a study published last month by the Washington-based Institute for Science and International Security. “China plays a larger role than previously assessed in enabling Iran to manufacture and supply drones to Russian forces,” the report found. “It appears that Chinese companies are supplying Iran with copies of Western commodities to produce UAV combat drones.”
+
+The White House believes it is successfully driving home the scale of the issue with allies. The senior administration official told CNN that there was “growing broad and deep international consensus on Iran, from the EU to Canada to Australia and New Zealand, which is being led by US diplomacy.”
+
+There is no evidence that any of the western companies are knowingly exporting their technology to be used in the drones, and that is partly why the task force’s job has been so difficult, officials said.
+
+‘A game of whack a mole’
+
+The task force has its work cut out for it in tracing supply chains for the microelectronics industry, which relies heavily on third party distributors and resellers. The microchips and other small devices ending up in so many of the Iranian and Russian drones are not only inexpensive and widely available, they are also easily hidden.
+
+Parts of a drone after Russian strike on fuel storage facilities in Kharkiv, Ukraine October 6, 2022. Vyacheslav Madiyevskyy/Reuters
+
+Iran also uses front companies to buy equipment from the US and EU that may have a dual use, like the Austrian engines, that Tehran can then use to build drones, according to the Treasury Department, which sanctioned several of those companies in September.
+
+That makes supply chain monitoring a challenge, though experts say US and European companies could be doing a lot more to track where their products are going.
+
+“American companies should be doing a lot more to track their supply chains,” said Dmitri Alperovitch, the former chief technology officer at the cybersecurity firm CrowdStrike.
+
+Keeping better track of resellers is a first step, he said, but the task is admittedly difficult because so many of these companies’ products are so commoditized and available off-the-shelf and online for civil purposes. Ultimately, neutering some Iranian front companies with sanctions and cutting off their supply from some western companies will be akin to “a game of whack a mole,” Alperovitch said, noting that they “can easily find another supplier.”
+
+He added that the real “weak underbelly” of US policy when it comes to export controls is enforcement—and prosecuting the specific individuals involved in the illicit transactions.
+
+“We have to beef up the resources for enforcement of our sanctions to achieve the desired effect,” Alperovitch said.
+
+“You can put companies on the [sanctioned] entities list,” he added, “but if you don’t actually go after the people involved, it doesn’t mean a whole lot.”

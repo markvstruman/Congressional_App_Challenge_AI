@@ -1,0 +1,101 @@
+CNN —
+
+Since the 2020 presidential election, Supreme Court Justices Clarence Thomas, Samuel Alito and Neil Gorsuch have been erecting the scaffolding for a decision that could transform election practices nationwide.
+
+During oral arguments Wednesday in a North Carolina case, they reinforced their positions and appeared to find some support from fellow conservative Justices Brett Kavanaugh and Amy Coney Barrett. The question is whether the trio’s most radical view – effectively giving state legislatures control of elections, without oversight from state judges – would prevail.
+
+“I think the worst thing we could do, although it might be attractive for some reasons,” Alito said, “is to say, well there is a limit (on state court action) but it’s one that in practice can never be exceeded. So we have a standard but … it doesn’t mean anything.”
+
+Yet in this groundbreaking case centered on a gerrymandered North Carolina congressional map, any decision recasting legislative authority, at the expense of judges applying state constitutional protections for voters, could diminish the nation’s system of checks and balances and reshape American politics.
+
+“I’d like to step back a bit and think about consequences,” liberal Justice Elena Kagan said, “because this is a theory with big consequences. It would say that if a legislature engages in the most extreme forms of gerrymandering, there is no state constitutional remedy for that, even if the courts think that’s a violation of the constitution. It would say that legislatures could enact all manner of restrictions on voting.”
+
+Kagan added: “It might allow the legislatures to insert themselves, to give themselves a role, in the certification of elections and the way election results are calculated.”
+
+But Kagan’s dire prediction, echoed to an extent by fellow liberal Justices Sonia Sotomayor and Ketanji Brown Jackson, reflected a minority view.
+
+It seemed the six justices on the right, including Chief Justice John Roberts, were inclined to set some new, as yet unclear, boundaries on state judges in election controversies.
+
+Driving the Supreme Court to this moment have been Thomas, Alito and Gorsuch, appointed by three different GOP presidents over three decades, yet in league on many areas of the law. In recent election disputes, they have made plain a shared distrust of state court judges.
+
+Their sentiment emerged in cases two years ago from Pennsylvania and Wisconsin, as well as in preliminary action in the pending North Carolina case earlier this year. They were joined at times by Kavanaugh.
+
+Last March, Alito wrote that it was likely the North Carolina legislators would prevail once the justices granted and heard their petition. Thomas and Gorsuch signed onto his opinion.
+
+Skepticism for state courts in federal elections goes back further. Their legal theory draws, in its modern iteration, from a 2000 opinion by then-Chief Justice William Rehnquist in the Bush v. Gore case. (Rehnquist was appointed to the bench by President Richard Nixon in 1972 and then elevated to chief justice by President Ronald Reagan in 1986. When he died in 2005, he was succeeded by Roberts.)
+
+As the high court cut off recounts to determine the state’s Electoral College votes back in 2000, it said county recount standards varied too widely to meet guarantees of equal protection and due process.
+
+Rehnquist wrote a separate opinion going further, as he interpreted the Constitution’s Electors Clause, which says, “Each State shall appoint, in such Manner as the Legislature thereof may direct,” electors for president and vice president. That provision, Rehnquist said, “leaves it to the legislature exclusively to determine the method” for appointing presidential electors.
+
+In Wednesday’s North Carolina case, arising from the state court’s invalidation of a congressional map as an extreme partisan gerrymander, state legislators invoked a version of that theory to argue the state court exceeded its authority under the related Elections Clause.
+
+Thomas reasserts his Bush v. Gore stand
+
+Thomas is the only member of the 2000 bench still sitting, and he was one of only two justices who signed onto Rehnquist’s opinion (the other was Antonin Scalia).
+
+In Wednesday’s case, he did not retreat from his view, despite a personal plea by Neal Katyal, one of the lawyers who stood at the lectern to defend the North Carolina court action and reject the so-called state independent legislature theory.
+
+“Justice Thomas, if I may, in two decades of arguing before you,” Katyal said, “I have waited for this precise case because it speaks to your method of interpretation, which is history.”
+
+But Thomas, appointed in 1991 by President George H.W. Bush, suggested his alternative view of constitutional history would edge out state court judges.
+
+Thomas questioned “the source of the authority for the state of North Carolina’s Supreme Court to be involved in a federal election.” He later added: “This is a federal election, and it’s similar to the problem we had with the presidential election in Bush v. Gore.”
+
+Thomas also pointed to the political backdrop of the case, which began with the spurning of the Republican legislature’s congressional redistricting map. Thomas asked Katyal if he would be defending the North Carolina court if it had taken a different tack.
+
+“If the state legislature had been very, very generous to minority voters in their redistricting, and the state Supreme Court said … that this violated their own state constitution of North Carolina, would you be making the same argument?” Thomas asked.
+
+“We don’t think anything turns on the substance of the individual decisions,” Katyal said.
+
+North Carolina lawyer cites Thomas’ Second Amendment ruling
+
+Thomas, now age 74, has been the court’s most consistent conservative, particularly for an “originalist” approach to constitutional interpretation.
+
+Last session, he authored the New York State Rifle & Pistol Association v. Bruen decision, based on a historical reading of the Second Amendment. The court declared for the first time a right to carry a weapon outside of the home.
+
+Joined by five other justices on the right wing, Thomas said a state’s gun control measures must be measured by the nation’s history, rather than modern claims of public safety. The Second Amendment right to bear arms, he wrote, “requires courts to assess whether modern firearms regulations are consistent with the Second Amendment’s text and historical understanding” dating to the late 18th century.
+
+Lawyer David Thompson, representing members of the North Carolina legislature before the justices on Wednesday, invoked Bruen for historical view of legislative power.
+
+“We think the way to think about this is consistent with the court’s opinion in Bruen last term, where it looked very focused on the time of the founding,” Thompson said.
+
+At the outset of his arguments, Thompson told the justices, “As Alexander Hamilton wrote in Federalist 78, the scope of legislative authority is governed by the commission under which it is exercised. Here, that commission is contained in the United States Constitution, and it is federal law alone that places substantive restrictions on state legislatures performing the tasks assigned them by the federal Constitution.”
+
+David Thompson, representing the North Carolina Republicans, presents before the Supreme Court on Wednesday. Sketch by Bill Hennessy
+
+Alito: ‘There must be some limit on the authority of state courts’
+
+Alito, a 2006 appointee of President George W. Bush, has taken the lead in key opinions related to legislative authority.
+
+In March, Alito wrote for the trio as they dissented when the majority let a judicially ordered North Carolina map take effect as litigation continued.
+
+When Alito predicted likely success for the legislators’ appeal, he cited the Elections Clause at the heart of this case, which dictates that rules governing the “Times, Places and Manner of holding Elections for Senators and Representatives” must be “prescribed in each State by the Legislature thereof.”
+
+“This Clause could have said that these rules are to be prescribed ‘by each State,’ which would have left it up to each State to decide which branch, component, or officer of the state government should exercise that power, as States are generally free to allocate state power as they choose. But that is not what the Elections Clause says,” Alito wrote. “Its language specifies a particular organ of a state government, and we must take that language seriously.”
+
+Referring for support to Rehnquist’s view of the Electors Clause in Bush v. Gore, Alito added, “There must be some limit on the authority of state courts to countermand actions taken by state legislatures when they are prescribing rules for the conduct of federal elections.”
+
+Nearly two years earlier, Alito had written in a Pennsylvania ballot dispute: “The provisions of the Federal Constitution conferring on state legislatures, not state courts, the authority to make rules governing federal elections would be meaningless if a state court could override the rules adopted by the legislature simply by claiming that a state constitutional provision gave the courts the authority to make whatever rules it thought appropriate for the conduct of a fair election.”
+
+On Wednesday, as his questions reflected that sentiment, Alito also addressed larger concerns raised by Kagan and legal scholars who have cautioned against adoption of the independent state legislature approach.
+
+“Many state supreme courts are elected,” Alito noted as he questioned Katyal. “And some states allow partisan elections. So there’s been a lot of talk about the impact of this decision on democracy. Do you think that it furthers democracy to transfer the political controversy about districting from the legislature to elected supreme courts … ?”
+
+Katyal rejected Alito’s scenario as a threat to democracy, saying multiple checks exist, including oversight from Congress.
+
+Scalia’s replacement, Neil Gorsuch
+
+Gorsuch, a 2017 appointee of former President Donald Trump, similarly took a page from his past views regarding the constitutional muscle of legislatures.
+
+In a 2020 controversy over a court-ordered deadline extension for Wisconsin absentee ballots, Gorsuch had written, “The Constitution provides that the state legislatures – not federal judges, not state judges, not state governors, not other state officials – bear primary responsibility for setting election rules.” (Kavanaugh had joined Gorsuch’s opinion in the case and added a separate opinion that cited Rehnquist’s view of legislative authority.)
+
+On Wednesday, Gorsuch criticized the North Carolina Supreme Court’s decision, saying it relied on “open-ended” state constitutional provisions and failed to sufficiently address the dictates of the Elections Clause.
+
+Wednesday’s session, scheduled for 90 minutes, went for three contentious hours. There were a few moments of levity.
+
+When Roberts gave the justices a final round to question Katyal, he turned to Thomas first, as is the routine for the senior associate justice.
+
+Playing off Katyal’s earlier entreaty, Thomas began, “Actually, I don’t. But I’ve been waiting 30 years to ask him a question.”
+
+“Drum roll,” Roberts added, as laughter broke through the courtroom tension.

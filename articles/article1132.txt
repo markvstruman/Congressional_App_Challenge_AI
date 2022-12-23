@@ -1,0 +1,59 @@
+Listen Comment on this story Comment Gift Article Share
+
+Over the past two weeks, a group of writers chosen by Elon Musk to review Twitter’s previously confidential internal messages has portrayed a handful of unaccountable “trust and safety” executives as making critical decisions about online political speech based partly on their own left-leaning intuitions. The “Twitter files” show the company’s former leaders, pre-Musk, at times changing or reinterpreting the company’s rules on the fly as they scrambled to react to election misinformation, covid-19 skepticism and the Jan. 6, 2021, attack on the U.S. Capitol.
+
+But there’s a glaring irony at the project’s core that its authors never acknowledge. If a lack of transparency, accountability or consistency in the processes by which tech giants make far-reaching content moderation decisions is cause for alarm — and it should be — then there is no more egregious example than the one Musk himself has set since buying Twitter for $44 billion in October.
+
+This week alone, Musk — who billed himself as a “free-speech absolutist” — permanently banned an account that had been tweeting public data about his private jet, creating a new, ad hoc policy to justify the move. Twitter then began suspending numerous other accounts, including that of rival social network Mastodon and those of several journalists who had criticized the previous suspensions, all without immediate explanation.
+
+Advertisement
+
+As social media sites like Twitter, Facebook, YouTube and TikTok have become dominant conduits of news and political debate, their role in shaping the contours of that debate has become contentious. Democratic leaders worry about how their algorithms may fuel extremism and baseless theories and call on them to rein in bigoted speech or viral falsehoods. Leading Republicans contend that they’re restricting Americans’ speech freedoms.
+
+Both sides have introduced legislation to curb these perceived wrongs, and two GOP-led states have passed sweeping regulations that will be reviewed by the Supreme Court. Leaders from both parties are also pressuring the major platforms on whether to reinstate former president Donald Trump, as Musk recently did at Twitter, or to extend his suspension as he ramps up his next presidential run.
+
+Twitter and other big social networks, including Facebook and YouTube, have developed thick rule books and added sophisticated systems to detect violations of their speech policies. But ample reporting over the years has shown that their biggest decisions — like suspending Trump — often hinge on the subjective calls of high-ranking executives.
+
+Advertisement
+
+At stake, in the broadest sense, is the role of social media in political discourse, and whether Silicon Valley tech firms can be trusted to fairly and judiciously wield their power over who gets heard in the modern public square.
+
+Musk has said his purchase of Twitter, which is particularly influential among politicians and the media, was motivated by frustration with its policies and a desire to make it a haven for unfettered speech. He portrayed his decision to grant a handpicked group of writers special access to Twitter’s internal communication systems as a necessary reckoning with Twitter’s overly censorial past.
+
+The writers include former New York Times opinion writer Bari Weiss and onetime Rolling Stone scribe Matt Taibbi, both of whom now write their own newsletters on Substack and have emerged as influential critics of the left and the mainstream media. With Musk’s backing, they’ve framed the files as part of broader narrative that tech giants are systematically “censoring” conservative views.
+
+Advertisement
+
+Whether you find the Twitter files a bombshell or a “nothingburger” probably depends on how much you already knew about the messy, often subjective work of online content moderation — and whether you were predisposed to see a political conspiracy at work in the documents.
+
+There are a handful of interesting new details that should trouble right and left alike. Taibbi found that Twitter’s top content moderators were meeting on a weekly basis with multiple federal government agencies during the 2020 presidential campaign, whom they considered “partners” in flagging election misinformation for removal. That could raise First Amendment concerns, not to mention avenues for potential meddling in elections by the incumbent administration (in this case, the Trump administration).
+
+Weiss devoted a thread to a series of moderation tools that Twitter called “visibility filtering” and critics dubbed “shadow banning,” in which the company blocked some users’ tweets from appearing in search results or recommendations without telling them. While these tools’ existence was public, previously unpublished screenshots showed that company executives had more fine-grained controls at their disposal than they had acknowledged.
+
+Advertisement
+
+But even with the writers presumably cherry-picking the juiciest excerpts they could find, there’s little evidence that the company’s content moderation decisions were guided by an explicitly partisan agenda. The screenshots mostly show Twitter officials earnestly wrestling with thorny questions of how to interpret and enforce their own policies, such as the policy against the publication of hacked materials, under which the company controversially blocked users from sharing a 2020 New York Post story about the contents of Hunter Biden’s laptop.
+
+In contrast, the man who ordered this public autopsy of Twitter’s previous regime has shown himself in the first months of his ownership to be more capricious, self-interested and partisan in his approach to online speech than his predecessors ever were.
+
+Since launching his bid for Twitter in the spring, Musk has repeatedly contradicted himself as to how he would approach content moderation; dismantled the company’s internal and external accountability mechanisms; reversed long-standing policies without explanation; and used his power as owner to pursue petty personal vendettas. He has careened from claims that he would allow any legal speech to instituting sudden, sweeping bans on legal speech that had previously been allowed.
+
+Advertisement
+
+In his first days running Twitter, Musk said that he would convene a content moderation council before making major changes to the company’s speech policies or reinstating banned users. Weeks later, he began reinstating banned users en masse, including neo-Nazis and white supremacists, and rolled back the company’s policy against covid-19 misinformation without any apparent process. He reinstated Trump after holding an unscientific live poll of his own followers, a process that seemed designed mostly to gin up attention.
+
+He never did convene a content moderation council, and on Monday he abruptly dissolved the company’s external Trust and Safety Council, which predated his takeover.
+
+On Nov. 6, Musk tweeted that his commitment to “free speech” extended even to not banning a two-year-old account that tracked the movements of his private jet, using publicly available flight data. But on Wednesday, Musk suspended that account without notice, then permanently banned it, along with the personal account of its 20-year-old author, whom he threatened to sue. Only after the initial suspension did he announce a new policy prohibiting Twitter users from tweeting the “live location” of other users without their consent — a policy that could have wide-ranging consequences if enforced.
+
+Advertisement
+
+Twitter’s move on Thursday to suspend the accounts of several journalists, including The Washington Post reporter Drew Harwell, took the company’s crackdown to a new level.
+
+Last month, after a number of users changed their display names to “Elon Musk” to mock him, Musk announced that anyone impersonating another user without a “parody” label would be permanently banned.
+
+And while the Twitter files strained to stitch together a case that the company’s previous leaders harbored a liberal bias, Musk has proudly allied himself with the right since taking over Twitter, even publicly encouraging Twitter users to vote Republican in the U.S. midterm elections.
+
+Musk’s own casual disdain for any form of consistency or accountability in his own approach to content moderation belies the notion that the Twitter files were a genuine exercise in transparency. In the context of his leadership, they come across as a mixture of vindictive score-settling, a made-for-social-media reality show, and an attempt to distract from scrutiny of the personal digital fiefdom that Musk’s Twitter has quickly become.
+
+GiftOutline Gift Article

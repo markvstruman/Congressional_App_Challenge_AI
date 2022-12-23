@@ -1,0 +1,137 @@
+The third installment of Elon Musk's Twitter Files delved into what led to the removal of former President Trump's account.
+
+In "part one" of the third installment, which dates from October 2020-January 6th, Substack writer Matt Taibbi told his followers, "We’ll show you what hasn’t been revealed: the erosion of standards within the company in months before J6, decisions by high-ranking executives to violate their own policies, and more, against the backdrop of ongoing, documented interaction with federal agencies."
+
+"Whatever your opinion on the decision to remove Trump that day, the internal communications at Twitter between January 6th-January 8th have clear historical import. Even Twitter’s employees understood in the moment it was a landmark moment in the annals of speech," Taibbi wrote on Friday.
+
+He then shared a screenshot of a Twitter employee asking, "Is this the first sitting head of state to ever be suspended?"
+
+ELON MUSK'S SECOND INSTALLMENT OF ‘TWITTER FILES’ REVEALS ‘SECRET BLACKLISTS,' BARI WEISS REPORTS
+
+Taibbi reported that executives at Twitter "started processing new power" following their decision to ban Trump, indicating they were "prepared to ban future presidents and White Houses – perhaps even Joe Biden. The ‘new administration,’ says one exec, ‘will not be suspended by Twitter unless absolutely necessary.’"
+
+TWITTER FILES FLASHBACK: JACK DORSEY TESTIFIED UNDER OATH TWITTER DOES NOT CENSOR, ‘SHADOW-BAN’ CONSERVATIVES
+
+One unnamed executive alleged the "context surrounding" the actions of Trump and his supporters "over the course of the election and frankly last 4+ years" contributed to the ban.
+
+"In the end, they looked at a broad picture. But that approach can cut both ways," Taibbi wrote. "The bulk of the internal debate leading to Trump’s ban took place in those three January days. However, the intellectual framework was laid in the months preceding the Capitol riots."
+
+After alluding to the second installment of the Twitter Files that addressed the shadowbanning of conservatives, Taibbi reported, "As the election approached, senior executives – perhaps under pressure from federal agencies, with whom they met more as time progressed – increasingly struggled with rules, and began to speak of 'vios' as pretexts to do what they’d likely have done anyway."
+
+ELON MUSK REVEALS WHAT LED TO TWITTER SUPPRESSING HUNTER BIDEN STORY IN 2020
+
+Taibbi then shared internal Slack messages from Yoel Roth, the former head of trust and safety at Twitter, who made light out of heightened discussions with federal agencies following Jan. 6. Roth joked about the lack of "generic enough" calendar descriptions to conceal the "very interesting" meetings he had.
+
+"One particular slack channel offers an unique window into the evolving thinking of top officials in late 2020 and early 2021," Taibbi reported. "On October 8th, 2020, executives opened a channel called 'us2020_xfn_enforcement.' Through J6, this would be home for discussions about election-related removals, especially ones that involved ‘high-profile’ accounts (often called ‘VITs’ or ‘Very Important Tweeters’)."
+
+He continued, "There was at least some tension between Safety Operations – a larger department whose staffers used a more rules-based process for addressing issues like porn, scams, and threats – and a smaller, more powerful cadre of senior policy execs like Roth and [Twitter's former trust and policy chief Vijaya] Gadde. The latter group were a high-speed Supreme Court of moderation, issuing content rulings on the fly, often in minutes and based on guesses, gut calls, even Google searches, even in cases involving the President."
+
+"During this time, executives were also clearly liaising with federal enforcement and intelligence agencies about moderation of election-related content. While we’re still at the start of reviewing the #TwitterFiles, we’re finding out more about these interactions every day," Taibbi added.
+
+Taibbi then turned to correspondence involving Twitter's policy director Nick Pickles with one employee asking him if Twitter should say it "detects ‘misinfo’ through ‘ML, human review, and **partnerships with outside experts?*’ adding, "I know that’s been a slippery process… not sure if you want our public explanation to hang on that."
+
+Pickles himself is seen asking if Twitter could "just say ‘partnerships,' later writing, "e.g. not sure we’d describe the FBI/DHS as experts."
+
+Taibbi revealed that Roth not only met with the FBI, DHS and the Office of Director of National Intelligence, he apparently discussed the censoring of the Hunter Biden laptop story.
+
+"Some of Roth’s later Slacks indicate his weekly confabs with federal law enforcement involved separate meetings. Here, he ghosts the FBI and DHS, respectively, to go first to an ‘Aspen Institute thing,’ then take a call with Apple," Taibbi wrote while sharing a screenshot of an exchange.
+
+Taibbi shared another message, explaining, "Here, the FBI sends reports about a pair of tweets," one from Twitter user John Basham claiming "Between 2% and 25% of Ballots by Mail are Being Rejected for Errors."
+
+"The FBI-flagged tweet then got circulated in the enforcement Slack. Twitter cited Politifact to say the first story was 'proven to be false,' then noted the second was already deemed ‘no vio on numerous occasions,’" Taibbi reported. "The group then decides to apply a ‘Learn how voting is safe and secure’ label because one commenter says, ‘it’s totally normal to have a 2% error rate.’ Roth then gives the final go-ahead to the process initiated by the FBI."
+
+"Examining the entire election enforcement Slack, we didn’t see one reference to moderation requests from the Trump campaign, the Trump White House, or Republicans generally. We looked. They may exist: we were told they do. However, they were absent here," Taibbi wrote.
+
+Taibbi then turned to an October 2020 tweet made by former Arkansas Gov. Mike Huckabee, who joked that he voted with his mail-in ballot and then "voted the ballots of my deceased parents and grandparents. They vote just like me!"
+
+This led to internal discussions with one Twitter employee saying "I agree it’s a joke… but he’s also literally admitting in a tweet a crime."
+
+"The group declares Huck’s an ‘edge case,’ and though one notes, ‘we don’t make exceptions for jokes or satire,’ they ultimately decide to leave him be, because ‘we’ve poked enough bears,’" Taibbi reported. "'Could still mislead people... could still mislead people,' the humor-averse group declares, before moving on from Huckabee. Roth suggests moderation even in this absurd case could depend on whether or not the joke results in 'confusion.' This seemingly silly case actually foreshadows serious later issues."
+
+Taibbi reported that Twitter executives "often expand criteria to subjective issues like intent (yes, a video is authentic, but why was it shown?), orientation (was a banned tweet shown to condemn, or support?), or reception (did a joke cause "confusion"?)," adding "This reflex will become key in J6."
+
+He then highlighted an October 2020 tweet Trump made declaring "A Rigged Election!" in response to a local report out of Ohio where nearly 50,000 voters received the wrong ballot.
+
+Twitter employees were preparing to slap a "mail-in voting is safe" label on Trump's tweet but ultimately refrained after realizing "the events took place" and was "factually accurate," internal communications show.
+
+Just days before the election, a tweet Trump made that read "Big problems and discrepancies with Mail In Ballots all over the USA," was "visibility filtered" so that no one could like or share the tweet.
+
+"Here, senior execs didn’t appear to have a particular violation, but still worked fast to make sure a fairly anodyne Trump tweet couldn’t be ‘replied to, shared, or liked,'" Taibbi wrote.
+
+"Very well done on speed," Roth commended his staff for acting quickly on the Trump tweet.
+
+Actor James Woods, who had a tweet flagged by the DNC as revealed in the first batch of the "Twitter Files" pertaining to Hunter Biden, resurfaced in the third batch, this time for a tweet angrily reacting to the warning label Twitter slapped onto the Trump tweet.
+
+Twitter Employees discussed punishing Woods and suggest they "hit him hard on future vio with firmer basis."
+
+Taibbi then pivoted to another tweet made by Rep. Jody Hice, R-Ga, which was hit with a "stay informed" label after writing "Say NO to big tech censorship!… Mailed ballots are more prone to fraud than in-person balloting… It’s just common sense."
+
+Twitter decided to go with "soft intervention" with Roth concerned about "wah wah censorship" backlash, according to released discussions.
+
+"Meanwhile, there are multiple instances of involving pro-Biden tweets warning Trump ‘may try to steal the election’ that got surfaced, only to be approved by senior executives. This one, they decide, just ‘expresses concern that mailed ballots might not make it on time.'" Taibbi reported.
+
+The tweet, written by blue-check Twitter user Elijah Daniel, read "they're going to try to steal the election. you have one week, if you haven't voted yet- don't mail. drop it off or vote early."
+
+Taibbi revealed that the hashtag #StealOurVotes, which referred to Trump and the conservative-leaning Supreme Court with the addition of Justice Amy Coney Barrett would steal the election, was "approved" by Twitter employees since it was "understandable."
+
+In another example, an October 2020 tweet from former Attorney General Eric Holder claimed the Postal Service was being "deliberately crippled" by the Trump administration. It was initially hit with a warning label, which Roth asked to reverse.
+
+According to documents, in December 2020 following Trump's defeat in the presidential election, Twitter rolled out a new "deamplification" tool that would be paired with a label to the president's claims about the election being stolen.
+
+"Some executives wanted to use the new deamplification tool to silently limit Trump’s reach more right away," Taibbi wrote, noting they wanted to suppress a Trump tweet from Dec. 10. "However, in the end, the team had to use older, less aggressive labeling tools at least for that day, until the ‘L3 entities’ went live the following morning."
+
+"The significance is that it shows that Twitter, in 2020 at least, was deploying a vast range of visible and invisible tools to rein in Trump’s engagement, long before J6. The ban will come after other avenues are exhausted," Taibbi tweeted. "In Twitter docs execs frequently refer to ‘bots,’ e.g. ‘let’s put a bot on that.’ A bot is just any automated heuristic moderation rule. It can be anything: every time a person in Brazil uses ‘green’ and ‘blob’ in the same sentence, action might be taken."
+
+He highlighted an example where Twitter moderators added a "bot" to a Trump claim made on Breitbart which would be "invisibly watching" both Trump and Breitbart.
+
+Taibbi took time to explain what certain key terms Twitter employees used in its censorship practices. To "bounce," for example, meant to give a Twitter account a timeout, which usually lasted 12 hours. "Interstitial" means putting physical label atop of a tweet so it cannot be seen. "PII," which stands for "Public Interest Interstitial" is an "interstitial" applied for "‘public interests’ reasons." "Proactive V" refers to proactive visibility filtering.
+
+"This is all necessary background to J6. Before the riots, the company was engaged in an inherently insane/impossible project, trying to create an ever-expanding, ostensibly rational set of rules to regulate every conceivable speech situation that might arise between humans," Taibbi wrote. "This project was preposterous yet its leaders were unable to see this, having become infected with groupthing, coming to believe – sincerely – that it was Twitter's responsibility to control, as much as possible, what people could talk about, how often, and with whom."
+
+Taibbi shed light on the "panic" that erupted internally on Jan. 6. In one exchange Roth is shown executing the "bouncing" of Trump's account.
+
+"This theme of Policy perhaps being stressed by queries from Communications executives – who themselves have to answer the public’s questions – occasionally appears," Taibbi wrote. "The first company-wide email from Gadde on January 6th announced that 3 Trump tweets had been bounced, but more importantly signaled a determination to use legit 'violations' as a guide for any possible permanent suspension."
+
+A screenshot of an exchange reacting lividly to a Trump tweet telling his supporters ""Go home with love & in peace."
+
+"What the actual f---?" one employee reacted. "Sorry, I actually got emotionally angry seeing that. Turns out I'm not a full robot. Who knew?"
+
+"It's gut-wrenching," another replied. "He's a horrible human being."
+
+A screenshot shared by Roth showed that Trump was hit with a "TON" of "duplicate" bots.
+
+Taibbi foreshadowed of parts two and three of the Jan. 6-centric Twitter Files. On Saturday, journalist Michael Shellenberger will report on how Twitter internally contemplated the fluid changes that were made to its policies. On Sunday, Taibbi teased that The Free Press editor Bari Weiss will report on the "plaudits" Twitter received from "'our partners' in Washington," referring to government agencies.
+
+On Thursday, Weiss revealed Twitter's efforts to suppress prominent conservatives, a resurfaced September 2018 clip of Dorsey's testimony to a congressional committee was asked point-blank whether Twitter "censors" its users.
+
+ELON MUSK TELLS JACK DORSEY ‘IMPORTANT’ TWITTER FILES WERE ‘HIDDEN’ FROM BOSSES, SUGGESTS SOME WERE ‘DELETED’
+
+She pointed to Stanford University's Dr. Jay Bhattacharya, a longstanding opponent of COVID groupthink during the pandemic who expressed opposition to lockdowns.
+
+"Twitter secretly placed him on a 'Trends Blacklist,' which prevented his tweets from trending," Weiss reported.
+
+She reported that Fox News host Dan Bongino was placed on a "Search Blacklist" and Twitter had Turning Point USA's Charlie Kirk on "Do Not Amplify."
+
+Weiss also detailed Twitter's actions towards popular viral personality Libs of TikTok, revealing that despite the numerous punishments the account faced for alleged "hateful conduct" policy violations, Twitter internally admitted Libs of TikTok had not done so.
+
+Taibbi, who published the first installment of the "Twitter Files," addressed what led to Twitter censoring the Hunter Biden laptop story during the 2020 presidential election.
+
+However, it was later revealed that Jim Baker, Twitter's deputy general counsel, had vetted the first batch of "Twitter Files" without Musk's knowledge, which led to his termination.
+
+While revealing internal discussions over how to explain Twitter's suppression of the Hunter Biden laptop story, Baker told his colleagues, "I support the conclusion that we need more facts to assess whether the materials were hacked" but added "it's reasonable for us to assume that they may have been and that caution is warranted."
+
+JIM BAKER, OUSTED TWITTER LAWYER AND EX-FBI OFFICIAL INVOLVED IN RUSSIAGATE, WAS A CNN ANALYST IN BETWEEN JOBS
+
+Additionally, Taibbi initially reported, "Although several sources recalled hearing about a ‘general’ warning from federal law enforcement that summer about possible foreign hacks, there’s no evidence - that I've seen - of any government involvement in the laptop story."
+
+It is unclear whether Baker's involvement in vetting the "Twitter Files" led Taibbi to draw that conclusion and whether Baker omitted files that would have shown the federal government intervening in Twitter's suppression of the Hunter Biden laptop story.
+
+Musk had been vocal about being transparent when it comes to Twitter's past and present actions when it comes to curating content on the platform, including censored content.
+
+Twitter infamously blocked its users from sharing the New York Post's reporting of Hunter Biden's laptop in tweets and in direct messages.
+
+CLICK HERE TO GET THE FOX NEWS APP
+
+At the time, Twitter Safety alleged that the articles were in violation of its "hacked materials policy." Twitter's then-CEO Jack Dorsey admitted his companies actions were a mistake.
+
+Some critics believe the suppression of the Hunter Biden scandal by Big Tech and the media at large was enough to sway the election in favor of his father.

@@ -1,0 +1,47 @@
+Comment on this story Comment Gift Article Share
+
+JERUSALEM — Majd Ramlawi was serving coffee in Jerusalem’s Old City when a chilling text message appeared on his phone. “You have been spotted as having participated in acts of violence in the Al-Aqsa Mosque,” it read in Arabic. “We will hold you accountable.” Wp Get the full experience. Choose your plan ArrowRight Ramlawi, then 19, was among hundreds of people who civil rights attorneys estimate got the text last year at the height of one of the most turbulent recent periods in the Holy Land. Many, including Ramlawi, say they only lived or worked in the neighborhood, and had nothing to do with the unrest. What he didn’t know was that the feared internal security agency, the Shin Bet, was using mass surveillance technology mobilized for coronavirus contact tracing against Israeli residents and citizens for purposes entirely unrelated to COVID-19.
+
+Advertisement
+
+In the pandemic’s bewildering early days, millions worldwide believed government officials who said they needed confidential data for new tech tools that could help stop coronavirus’ spread. In return, governments got a firehose of individuals’ private health details, photographs that captured their facial measurements and their home addresses.
+
+Now, from Beijing to Jerusalem to Hyderabad, India, and Perth, Australia, The Associated Press has found that authorities used these technologies and data to halt travel for activists and ordinary people, harass marginalized communities and link people’s health information to other surveillance and law enforcement tools. In some cases, data was shared with spy agencies. The issue has taken on fresh urgency almost three years into the pandemic as China’s ultra-strict zero-COVID policies recently ignited the sharpest and largest public rebuke of the country’s authoritarian leadership since the pro-democracy protests in Tiananmen Square in 1989.
+
+For more than a year, AP journalists interviewed sources and pored over thousands of documents to trace how technologies marketed to “flatten the curve” were put to other uses. Just as the balance between privacy and national security shifted after the Sept. 11 terrorist attacks, COVID-19 has given officials justification to embed tracking tools in society that have lasted long after lockdowns.
+
+Advertisement
+
+The AP found:
+
+--Israel’s Shin Bet security agency repurposed phone surveillance technology it had previously used to monitor militants inside Palestinian territories to monitor people for COVID-19 contact tracing. Then, in 2021, the agency quietly began using the same technology to send threatening messages to Arab citizens and residents of Israel whom the agency suspected of participating in violent clashes with police. Some of the recipients, however, simply lived or worked in the area, or were mere passers-by.
+
+--In China, the last major country in the world to enforce strict COVID-19 lockdowns, citizens have had to install cell-phone apps to move about freely in most cities. Drawing from telecommunications data and PCR test results, the apps produce individual QR codes that change from green to yellow or red, depending on a person’s health status. Now, as pandemic restrictions lessen, there is evidence that the health codes have been used to stifle dissent. Citizens who wanted to lodge complaints against the government suddenly found their codes turning red even though they hadn’t tested positive for COVID-19 or been near infected individuals.
+
+Advertisement
+
+--As early as May 2020 in India, the police chief of Telangana state tweeted about his department rolling out artificial intelligence-based software using CCTV to zero-in on people not wearing masks. S Q Masood, a social activist, was among the people stopped seemingly at random by police in a predominantly Muslim area of Hyderabad last year. Masood said officers told him to remove his mask so they could photograph him with a tablet. He’s now suing police to find out why. Although law enforcement denies using facial recognition in Masood’s case, the lawsuit is continuing and experts said it may set precedent for future policing activities.
+
+—In Australia, people used apps to tap their phones against QR codes at restaurants, performance venues and other public spaces to record their presence so they could be contacted in case a COVID-19 outbreak was linked to a place they visited. But in multiple cases Australian law enforcement co-opted the state-level QR check-in data as a sort of electronic dragnet to investigate crimes. The practice came despite government assurances that the information would be used only to promote public health.
+
+--Finally, in the U.S., the federal government used the pandemic as an opportunity to build out its surveillance toolkit. It signed two contracts in 2020 worth $24.9 million with the data-mining and surveillance company Palantir Technologies Inc. to support the Department of Health and Human Services’ pandemic response. Documents obtained by the immigrant rights group Just Futures Law under the Freedom of Information Act and shared with the AP show that federal officials considered integrating “identifiable patient data,” such as mental health, substance use and behavioral health information from group homes, shelters, jails, detox facilities and schools. The U.S. Centers for Disease Control does not use any of that individual-level information in the platform CDC now manages, said Kevin Griffis, a department spokesman.
+
+Advertisement
+
+“What COVID did was accelerate state use of these tools and that data and normalize it, so it fit a narrative about there being a public benefit,“ said John Scott-Railton, a senior researcher at the Toronto-based internet watchdog Citizen Lab. “Now the question is, are we going to be capable of having a reckoning around the use of this data, or is this the new normal?”
+
+___
+
+Former AP video journalist Rishabh R. Jain contributed to this report from Hyderabad, India. AP staffers Lori Hinnant contributed from Paris; Maria Verza from Mexico City; Astrid Suarez from Bogotá, Colombia; Edna Tarigan from Jakarta, Indonesia; Tong-hyung Kim from Seoul, South Korea; and Eileen Ng from Singapore. Daria Litvinova and retired Associated Press Afghanistan and Pakistan Bureau Chief Kathy Gannon also contributed. Deputy Editor of The Mail & Guardian Athandiwe Saba assisted from Johannesburg. Burke reported from San Francisco; Federman from Jerusalem; McGuirk from Canberra, Australia; Pathi from Hyderabad, India; and Wu from Taipei, Taiwan.
+
+Advertisement
+
+___
+
+This reporting was produced in collaboration with researcher Avani Yadav with support from the Human Rights Center Investigations Lab at the University of California, Berkeley. It was partially supported by the Pulitzer Center on Crisis Reporting and by the Starling Lab for Digital Integrity, co-founded by the University of Southern California and Stanford University, where Burke was a journalism fellow.
+
+___
+
+Follow Garance Burke on Twitter at @garanceburke. Contact AP’s global investigative team at Investigative@ap.org or https://www.ap.org/tips/
+
+GiftOutline Gift Article

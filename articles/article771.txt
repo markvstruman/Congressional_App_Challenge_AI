@@ -1,0 +1,45 @@
+Editor’s Note: Dr. Megan Ranney is the deputy dean at the School of Public Health at Brown University and a professor of emergency medicine at the university’s Warren Alpert Medical School. The views expressed in this commentary are her own. Read more opinion on CNN.
+
+CNN —
+
+On Thursday, President Joe Biden announced that the United States Postal Service will once again be sending four free Covid-19 tests to every household that orders them through covidtests.gov.
+
+But we are in the midst of a terrible, no good, horrible season of several respiratory viruses. More than 10% of deaths in the US last week were due to influenza, Covid-19 or pneumonia (both bacterial and viral), well above expected levels this time of year. We are short on key medications in some places. We continue to experience severe health care staff shortages and hospital overcrowding. Masking and bivalent Covid-19 boosters remain underutilized.
+
+All this prompts the question: Are four tests just window-dressing in the face of this winter surge?
+
+It’s true that four tests per family are not a lot. But they are illustrative of a larger group of ongoing wins against Covid-19 – outside of vaccination – that should be celebrated, and then examined closely for lessons learned.
+
+The first under-appreciated fact is that frequent, easily accessible antigen testing for all remains a key part of Covid-19 mitigation – and rapid at-home testing for Covid-19 is now available to (almost) all of us. Performing an at-home test before you go to a holiday party, a few days after you’ve been exposed to the virus or when you’re feeling ill reduces the chance of unintentional virus spread.
+
+It may be tough to remember now, but it wasn’t until the spring of 2021 that at-home testing even became available to the public. Then, they were expensive and difficult to find. Not surprisingly, huge disparities in use were observed in those early months. Minorities, the elderly and low-income people were less likely to use them.
+
+But thanks to the flexibility that a public health emergency declaration provided to the US Food and Drug Administration (FDA) in early 2020, along with the federal government’s connections and buying power, hundreds of at-home Covid-19 tests have now received emergency use authorization, and there is ample availability.
+
+Insurers, including Medicare, reimburse consumers for up to eight tests per month per person. The ICATT, or the Increasing Community Access To Testing program was developed to provide free community testing at more than 15,000 sites (including pharmacies, libraries, and grocery stores) across the United States. According to one government official, more than 50% of tests performed through this program are for uninsured individuals. Similar programs have been put in place with food banks, schools, federally qualified health centers and low-income senior housing.
+
+Of course, for testing to make a difference, people need to act on positive Covid diagnoses. For people who are older, pregnant or otherwise at high risk for bad outcomes, therapeutics like Paxlovid are an important part of that action. Recent real-world data shows that during the Omicron wave, Paxlovid recipients had approximately 50% lower rates of hospitalization than those who didn’t receive it – even accounting for age, prior vaccination and infection, co-existing illnesses and the like. Laboratory studies confirm efficacy against the newest variants.
+
+Unfortunately, at least 60% of people who may qualify for Paxlovid don’t get a prescription, and – as with testing – stubborn disparities remain in who gets access to these time-sensitive treatments. For example, Blacks, Hispanics, Native Americans and people living in high social vulnerability areas – the very people who are at the highest risk of death – are less likely to receive a prescription for Paxlovid. Moreover, many people may get a prescription but be unable to fill it.
+
+That brings us to the second piece of good news to pay attention to: Between December 2021, when the FDA provided authorization for emergency use of Paxlovid, and now, the proportion of eligible patients treated with oral antivirals after a Covid-19 diagnosis increased from less than 1% to about 40%. The improvements likely reflect the dramatic expansion of test-to-treat programs over the last few months. Under the urging of the federal government, in-person, telehealth, and pharmacist-led programs have shortened the time and effort between diagnosis and provision of a prescription. Private businesses, such as eMed, are also providing these services.
+
+Better yet, just last week, a new partnership was announced between Walgreens, Uber Health and DoorDash to facilitate the timely delivery of Paxlovid to those who cannot get to the pharmacy. According to Walgreens, this program can reach 92% of Americans. In combination with existing prescription delivery services from CVS and RiteAid, this newest partnership may reduce the chance that someone sick has to go out and expose others in order to get their Paxlovid prescription. It also provides immense benefit to those who can’t get transportation or child care or are disabled.
+
+And that leads to the last important point. These lessons are extensible far beyond the Covid-19 pandemic.
+
+As an emergency physician and a mom, I’d love all Americans to be able to access at-home testing – and treatment – for a greater variety of common illnesses, such as the flu, RSV and strep throat. For now, the FDA’s speedy approval of new diagnostics is only possible for tests and pharmaceuticals related to Covid-19.
+
+Partly due to bureaucracy, there remains no FDA-approved rapid antigen or molecular home tests for influenza or RSV. Additionally, oseltamivir (commonly known as Tamiflu) is not as effective as Paxlovid, and there are no good treatments for RSV. Moreover, telehealth has already been shown to increase over-prescription – and unnecessary prescription – of some treatments, such as antibiotics; any wider scale test-to-treat program would have to be careful to make sure it doesn’t further worsen overuse of antivirals and antibiotics. And as opposed to payment for Covid-19 tests and treatment, access to other types of telehealth and medications is largely dependent on one’s insurance – or ability to pay out of pocket.
+
+But these barriers are not immutable. If we’ve learned anything during Covid-19, it’s that change is possible when we collectively insist that it happen. Indeed, personal experiences with Covid-19 increased Americans’ commitment to changing structural barriers to equitable care – such as the ICATT and test-to-treat programs.
+
+Yes, more people need to be vaccinated. Yes, we should mask in crowded locations right now. Yes, the hospitals are overflowing.
+
+Get our free weekly newsletter Sign up for CNN Opinion’s newsletter. Join us on Twitter and Facebook
+
+At the same time, we also have developments to celebrate this holiday season. We now have some amazing new tools that reduce disease and severe illness, and they’re truly available to all.
+
+Maybe, just maybe, both the failures and the small successes we’ve seen in the midst of Covid-19 can lead us to a space where even more public health innovation can occur.
+
+That would be one big silver lining from these past three years.

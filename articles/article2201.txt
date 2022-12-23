@@ -1,0 +1,29 @@
+Hong Kong CNN —
+
+China has challenged a move by the United States to block sales of advanced computer chips and chip-making equipment to Chinese companies by launching a trade dispute at the World Trade Organization, calling the measures “trade protectionism.”
+
+The country’s commerce ministry filed a formal complaint against the United States with the WTO on Monday, according to a statement. The two countries are both members of the trade body, which has a mechanism for resolving disputes.
+
+“China’s filing of a lawsuit at the WTO is to resolve China’s concerns through legal means and is a necessary way to defend its legitimate rights and interests,” the ministry said.
+
+On October 7, the Biden administration unveiled a sweeping set of export controls that ban Chinese companies from buying advanced chips and chip-making equipment without a license. The rules also restrict the ability of US citizens or green card holders to support the “development or production” of chips at certain manufacturing facilities in China.
+
+The commerce ministry blasted the US move as threatening global supply chain stability and called it “a typical practice of trade protectionism.” The complaint is the first action China has taken at the global trade body against the US chip sanctions.
+
+US officials say the export controls were intended to protect national security interests.
+
+An employee inspects integrated circuit boards at the Smart Pioneer Electronics Co. factory in Suzhou, China, on Friday, Sept. 23, 2022. In a world where chips are becoming smarter and smaller, they require much less advanced technology to manufacture and therefore command smaller margins. Photographer: Qilai Shen/Bloomberg Qilai Shen/Bloomberg/Getty Images
+
+Analysts widely consider the measures to be a major threat to China’s tech ambitions, as the global semiconductor industry is heavily dependent on the United States and countries aligned with it for chip design, the tools that make them, and fabrication. It also comes as the United States is looking to bolster its domestic chip manufacturing abilities, after chip shortages earlier in the pandemic highlighted the country’s dependence on imports from abroad.
+
+Washington has also pressured its security partners to comply with chip-related curbs on China. Jake Sullivan, the White House national security adviser, said on Monday that Washington had spoken with its partners including Japan and the Netherlands to tighten chip-related exports to China, according to Reuters.
+
+Beijing has tried to push back against the sanctions. Last month, Chinese President Xi Jinping met with leaders from South Korea and the Netherlands, both key to the global chip-making supply chain, at the G20 summit in Bali, Indonesia. He called for both countries to boost cooperation in high-tech manufacturing and avoid “the politicization of economic and trade issues.”
+
+Chips are a growing source of tension between the United States and China. In recent years, Washington has turned up the pressure on China’s tech sector by limiting access to cutting-edge chip components and machinery.
+
+Before the October sanctions, the US government had already banned sales of certain tech products to specific Chinese companies, such as Huawei. It also ordered top chipmakers Nvidia and AMD to halt their shipments to China.
+
+To secure its own chip supplies, Beijing has stepped up efforts to boost domestic semiconductor production in recent years.
+
+In November 2018, just months after Washington hit Chinese telecoms giant ZTE Corp with an export ban, the Chinese government set up an industry alliance of companies and research institutes as part of efforts to design advanced chips. The group’s focus is on developing Risc-V, an open-source chip design architecture that has increasingly become a rival to Softbank (SFTBF)’s Arm, the current global leader. Members of the consortium include the Chinese Academy of Sciences, Alibaba (BABA), Tencent (TCEHY), and Baidu (BIDU).

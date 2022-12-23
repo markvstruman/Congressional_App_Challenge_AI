@@ -1,0 +1,41 @@
+CNN —
+
+In early November, weeks before the peak holiday shopping season was about to kick off, Apple issued an unusual warning: customers would have to wait longer for the new iPhone 14 Pro models. That’s because one of its key assembly facilities in the Chinese city of Zhengzhou was “operating at significantly reduced capacity” due to Covid curbs.
+
+For years, Apple has relied on a vast manufacturing network in China to mass produce the iPhone, iPad and other popular products found in households around the world. But its dependance on the country has been tested this year by China’s “zero-Covid” strategy and strict lockdowns, including recently at the so-called iPhone City production hub in Zhengzhou.
+
+Now, the world’s most valuable tech company is reportedly seeking to accelerate plans to shift production out of the world’s most populous country – but reducing its significant dependency on China could take years, if it ever happens at all. In an investor note earlier this week, one analyst at Wedbush Securities estimated it would take Apple until at least 2025 or 2026 to move the majority of its iPhone production to markets like India and Vietnam, but only if it “moves aggressively.”
+
+Gad Allon, a professor at the University of Pennsylvania’s Wharton School whose research focuses on operations and supply chain management, appeared to have an even more conservative assessment of the timetable. “I don’t think we can talk about any meaningful change beyond a few percent before 2025,” Allon said.
+
+To get a sense of how crucial China is to Apple: Prior to the Covid outbreak in October that prompted shutdowns in Zhengzhou, that manufacturing plant was producing 85% of the iPhone Pros, according to an estimate from market research firm Counterpoint, provided to CNN.
+
+“Apple would not be the company that it is today without China as a manufacturing base,” said Eli Friedman, a professor at Cornell University whose research focuses on labor and development in China. Even as Apple signals it wants to shift production away from China, Friedman said, “It’s not going to entail a decoupling from China – there’s going to be Apple products that are made in China for a very long time.”
+
+Ultimately, Apple is “in some ways as much a Chinese company as it is an American company,” Friedman said, “although, of course, it is headquartered in the States.”
+
+Apple did not respond to CNN’s request for comment.
+
+There are a range of crucial factors that go into assembling and producing iPhones, for example, “that just can’t be replicated in other countries,” he said. This includes availability of materials and components from nearby suppliers; world-class infrastructure that is already in place at scale; access to a large labor force of engineers as well as low labor costs; and availability of the swaths of land necessary to build the factory-cities that can house hundreds of thousands of workers as well as the sprawling production facilities.
+
+“Other countries might have one piece or another of this, but they don’t have all of them,” said Friedman.
+
+Apple CEO Tim Cook, who helped build the company’s global supply chain, acknowledged the unique manufacturing strengths of China in one 2015 interview. “You can take every tool and die maker in the United States and probably put them in a room that we’re currently sitting in,” he said. “In China, you would have to have multiple football fields.”
+
+Steve Jobs, Apple’s late CEO, brought the labor issue up during an October 2010 meeting with President Obama. He called America’s lackluster education system an obstacle for Apple, which needed 30,000 industrial engineers to support its on-site factory workers at the time.
+
+“You can’t find that many in America to hire,” Jobs told the president, according to his biographer, Walter Isaacson. “If you could educate these engineers, we could move more manufacturing plants here.”
+
+Apple, for example, has been suggesting that it will move production to India for some time now. It said in September that it had started making its new iPhone 14 in India though contract manufacturers including Foxconn, the company which runs iPhone City in Zhengzhou. Foxconn announced on Thursday that it was investing $500 million in its Indian unit as it seeks to diversify production beyond China.
+
+While India has a large labor force, and many workers with the necessary technical skills (unlike the United States, which has long been facing a shortage of engineers), creating sprawling assembly hubs for Apple in India faces a lot more red tape than in China. “At least in India, accessing land is not nearly as easy,” Friedman said, noting how the Chinese Communist Party faces fewer barriers to expropriating land quickly for causes it deems important. Labor costs in China, while on the rise over the past decade, are also “artificially cheap because of political repression against labor organizers,” according to Friedman.
+
+In Vietnam, another long-rumored candidate for Apple to move production to, “the government does have a little bit more capacity, but there’s a lot less land,” according to Friedman. Vietnam also has a significantly smaller population (98 million) compared to both China (1.4 billion) and India (nearly 1.4 billion, per World Bank data).
+
+Another key element to why Apple “is really reluctant to rock the boat with China is that China is also a massive market for Apple,” according to Wharton’s Allon. Apple reported $74 billion in sales in the Greater China market during the 12-month period ending in September, or nearly 20% of its global sales for the year.
+
+“If you look at other American [tech] firms, Google is not in China, Meta is not in China, Amazon is not in China,” Allon said, noting that Apple has really been the only one to successfully tap into the lucrative market. “So Apple is very reluctant and very careful to make sure that, definitely now as things are very, very sensitive, not to rock the boat – or at least not to rock the boat in a public way.”
+
+The company may not be able to afford being as reliant as it is on China’s supply chain but neither can it afford to leave the country behind.
+
+— Juliana Liu contributed to this article.

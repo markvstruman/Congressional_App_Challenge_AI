@@ -1,0 +1,59 @@
+CNN —
+
+Covid-19 hospitalizations are on the rise in the United States, with more than 34,000 new admissions last week, but millions of vaccines and doses of antiviral treatments that could help prevent severe outcomes from the virus remain unused.
+
+Research has found that many who could benefit most from the Covid-19 medication Paxlovid – including the elderly and Black and Hispanic people, groups that have disproportionately had the most severe illness – are less likely to take it.
+
+As the supply of Paxlovid has grown, efforts have been made to improve timely, equitable access to the treatment.
+
+“The driving distance to the nearest site or the geographic accessibility of the places where Paxlovid is being offered doesn’t seem to be the primary driver of why these populations are not getting the treatments they need,” said Dr. Rohan Khazanchi, a resident at Harvard Medical School and health equity consultant for the New York City health department.
+
+Transportation is one significant barrier to health care access for many people, experts say, but creating equitable outcomes will involve a much more comprehensive approach.
+
+Major chains offer prescription delivery
+
+In response to the White House’s call for pharmacies to help make this winter a healthier one for Americans, Walgreens launched a program Thursday in partnership with DoorDash and Uber Health that offers free home delivery of Paxlovid for those with a prescription. The initiative is meant to increase access to Covid-19 treatment, particularly for those in socially vulnerable or medically underserved communities.
+
+Millions of Americans get prescriptions through the mail, a service that research has shown is used more frequently among seniors, adults with poor health and others who are also at high risk of severe outcomes for Covid-19.
+
+But Paxlovid is most effective when taken within five days of symptoms starting, making timely treatment a critical piece of the puzzle and traditional mail-order delivery too slow.
+
+Walgreens also plans to expand the service to include HIV treatment – in line with the Biden administration’s goals to accelerate efforts to end the HIV/AIDS epidemic in the US.
+
+As with Paxlovid, early uptake is key with HIV treatment. And people who miss doses of HIV treatment risk developing drug resistance, making it crucial that they stick with the prescription.
+
+“There are places across the patient journey that would divert a patient from being able to get treated and back to feeling better. But that’s where our teams have been working on really understanding that patient journey and then offering and identifying solutions to help address that,” said Rina Shah, vice president of pharmacy strategy at Walgreens.
+
+Rite Aid adopted a prescription delivery program during the Covid-19 pandemic through a partnership with ScriptDrop. Service fees are currently waived for all eligible prescriptions, which excludes controlled substances and refrigerated medications but includes Paxlovid.
+
+CVS also has one- or two-day delivery in most locations and on-demand delivery at some, which is provided free to people enrolled in the membership program.
+
+Balancing priorities
+
+In March, the Biden administration launched a federal Test-to-Treat initiative that streamlined access to Paxlovid for people who had Covid-19, with testing and prescribing all happening in one visit. In May, the program was broadened to specifically reach more vulnerable communities.
+
+Khazanchi was author of a study published last month that found that Black and Hispanic people were more likely to live closer to Test-to-Treat sites than White people. But despite the physical proximity, these groups were less likely to get outpatient Covid-19 therapeutics – even though they’re at elevated risk of infection and severe disease.
+
+Even if someone has a car or another way to get to the doctor’s office, pharmacy or other Test-to-Treat location, they’re often challenged by the time required to make that trip, said Dr. Rachel Werner, executive director of the University of Pennsylvania’s Leonard Davis Institute of Health Economics.
+
+“It’s a combination of things that prevent access to care,” said Werner, whose research has focused on health equity. “Often, people have to take time off of work to do that, and they don’t always have paid sick leave. Everyone’s lives are complicated, and sometimes it’s hard to balance competing priorities.”
+
+Expanding the possibilities of health care
+
+According to a report from health analytics company IQVIA, 9% of all new prescriptions in 2019 were “abandoned” at pharmacies, representing a gap in physician-recommended care that was not received by the patient. But home delivery programs that have expanded throughout the Covid-19 pandemic may help.
+
+“I think it may be important to think about other medications or conditions where the time to treatment really matters. And those may be the ones that I think would be ripe for this kind of home-based delivery system,” Werner said. “These are urgent things that people might otherwise show up to an urgent clinic or ER for and instead could just get a medication.”
+
+With the expansion of things like telehealth and options for home care, experts say, the Covid-19 pandemic helped widen the picture of what health care can look like.
+
+“For far too long, we’ve been bound by the idea that health care is something that occurs within the four walls of a hospital or clinic,” Werner said. “What the Covid pandemic really did, which is important, is it made people realize that health care should be accessible where and when people need it, and it doesn’t have to be delivered in the physical structure of a health care setting.”
+
+Experts say that while it’s critical to break down barriers in terms of access to medication, it’s important to also address the issue of trust.
+
+In the research about accessibility to Test-to-Treat sites, Khazanchi and his co-authors suggested that programs should leverage trusted community stakeholders like local health-care providers for in-person outreach and other “low-tech, high-touch” methods to ensure equitable use.
+
+Get CNN Health's weekly newsletter Sign up here to get The Results Are In with Dr. Sanjay Gupta every Tuesday from the CNN Health team.
+
+Dr. Kedar Mate, president and CEO of the Institute for Healthcare Improvement and assistant professor at Weill Cornell Medical College, thinks about it in terms of supply and demand.
+
+“Getting treatments to people who need them is principally an issue around access and ensuring that the supply goes to where the people are,” he said. “There’s a different problem, though, on the demand side. Are patients willing or interested to get tested and then get treated if they are found to be positive? That has everything to do with a totally different set of challenges which have to do with trust, information, disinformation, misinformation and belief in the health system overall.”

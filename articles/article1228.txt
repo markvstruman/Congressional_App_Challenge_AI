@@ -1,0 +1,51 @@
+Listen Comment on this story Comment Gift Article Share
+
+As Donald Trump campaigns for president once again, are his most popular days behind him? Election deniers lost every battleground race in the 2022 midterms; some mainstream conservative publications have abandoned him; and even Trump’s favorite child withdrew her public association with his campaign. But on the other hand, most prominent D.C. Republicans still defer to him; his former vice president Mike Pence avoids criticizing his former boss; and Sen. Lindsey O. Graham (R-S.C.) still praises him enthusiastically, tweeting that Trump’s campaign kickoff speech “charts a winning path.”
+
+Since Trump’s White House departure in January 2021, pollsters haven’t been tracking his approval ratings as regularly as before. The polls we do have are mixed, with some showing steady Trump support and others finding a decline. How else might we gauge his popularity?
+
+Trump’s supporters in the general public are known for being “extremely online.” So we might measure his fans’ enthusiasm through their social media behavior. Our data suggests that Trump’s most fervent online devotees are becoming much less willing to publicly define themselves by their MAGA fandom.
+
+Using social media bios as a measure of personal and political identity
+
+Advertisement
+
+Social media bios function as brief expressions of identity, miniature introductions that include the very least someone believes others need to know about them, at least in that representation. We have studied these at scale and over time to learn how individual Americans see themselves, and to observe patterns in how those self-concepts change.
+
+Here at TMC last year, we proposed that Americans were increasingly incorporating their political allegiances into their public identities. We had analyzed millions of Twitter accounts over a five-year period and found that Americans were steadily adding political words to their bios, at the apparent expense of other types of words. In particular, beginning in 2017, Americans on Twitter became more likely to describe their political than their religious identifications.
+
+Expressions of identity are different from, and much stickier than, expressions of mere support or interest. People’s group identities especially resist change; they tend to be defended fiercely. When an affiliation becomes incorporated into one’s sense of identity, it becomes definitional. Someone may feel that they don’t simply enjoy Pittsburgh Steelers football, but are defined by their allegiance to it — making any criticism of the team a criticism of them as a person. If Americans are defining themselves by their political teams, we might expect partisan disagreements to become more personal, more intense, and more intractable.
+
+Are Trump’s fans de-identifying?
+
+Advertisement
+
+We looked at U.S. Twitter users’ bios continuously from 2015 through 2022 to see how their self-descriptions have shifted. Twitter offers any researcher a random sample of all public tweets, one out of every 100. American users appear in this sample at a rate of about 200,000 unique accounts per day. Every tweet has an author, and we use special software to examine these authors’ profiles every moment. For a great many of these users, we have snapshots of their bios at least once a year, each and every year. For that subgroup in particular, we can precisely observe how their bios (and, in theory, their identities) are evolving through the years: what words they add, and what words they take away.
+
+When we search for the words “Trump” or “MAGA,” we find an interesting pattern. From 2015 through 2020, more and more Twitter users chose to include these terms in their bios. In 2015, bios containing “Trump” appeared in less than two out of every 10,000 accounts, and “MAGA” less than one. A year later, the rate for “Trump” had multiplied tenfold, and “MAGA” had risen from obscurity to surpass thousands of other words in popularity. As you can see in the figure below, that increase continued steadily throughout Trump’s term in office; in 2020 the keywords appeared in more than 70 bios per 10,000 users.
+
+From there, things started changing. For the past two years, the prevalence of Trump-y bios has been falling at about the same rate as it had been climbing.
+
+Advertisement
+
+Could this be because Trump fans left Twitter — voluntarily or otherwise — and migrated to other platforms? In other words, are the words “Trump” and “MAGA” disappearing from bios merely because those users have deleted their accounts entirely? If that’s the case, nobody has actually rearranged their identity; they’ve just left for a friendlier platform.
+
+That may be happening, but if so, it would explain only a little of the decline. Look below at what we found for that subset of users whose bio snapshot we could track across eight consecutive years. These users haven’t left Twitter; they have repeatedly made it into our random sample.
+
+And since 2020, many more of them have deleted the words “Trump” or “MAGA” than have added them.
+
+Examining the data at a daily level, we see that the decline began immediately after Election Day 2020 — and then fell especially sharply in the days after the Jan. 6, 2021, insurrection. That’s consistent with what other recent research finds.
+
+‘Peak MAGA’ and its implications
+
+Advertisement
+
+Folks in the energy (and environmental) sectors talk about “peak oil”: the hypothetical point at which the maximum global petroleum extraction level has been reached, and subsequent returns start diminishing forever. There’s a finite supply of the stuff down there, and at some point we’ll have tapped so much of it that each year’s yield is less than that of the year before.
+
+We aren’t there yet for oil, but we may be for Trump enthusiasm. Obligatory caveat: The demographics of Twitter aren’t representative of the United States as a whole. And of course, unlike oil, which regenerates so slowly that as a practical matter it doesn’t regenerate at all, political fervor is theoretically renewable. A certain sentiment might go to sleep but later awaken as strong as ever. Donald Trump has been written off before, only to rise again. But as a candidate who rose to prominence by tapping into his followers’ aggrieved sense of identity, it is notable that he is now vanishing from it.
+
+Nick Rogers is a visiting assistant professor of sociology at the University of Pittsburgh.
+
+Jason Jeffrey Jones (Mastodon: https://nerdculture.de/@jasonjones) is an associate professor in the department of sociology and at the Institute for Advanced Computational Science at Stony Brook University.
+
+GiftOutline Gift Article

@@ -1,0 +1,109 @@
+Comment on this story Comment Gift Article Share
+
+Happy Friday! A quick programming note: The newsletter will publish Tuesday through Thursday the next couple weeks. We’ll see you then! Below: The FTC files a significant antitrust lawsuit, and lawmakers threaten to subpoena former FTX CEO Sam Bankman-Fried. First: Wp Get the full experience. Choose your plan ArrowRight Tech critics urge Supreme Court to narrow Section 230 The battle over the tech industry’s liability shield is heating up at the Supreme Court, with dozens of advocacy groups and government officials calling on justices to pare back those legal protections in a watershed case.
+
+In Gonzalez v. Google, the high court is set to examine whether the tech giant can be held liable for aiding and abetting the death of a U.S. citizen in the 2015 terrorist attacks in Paris by allegedly recommending and failing to remove Islamic State content.
+
+Advertisement
+
+The showdown, the first time the court is poised to directly weigh in on Section 230, could have massive implications for the internet.
+
+The tug-of-war over the legal shield ramped up a notch this week, with groups filing a flurry of briefs to the court both defending the protections and urging justices to scale them back. Here’s a breakdown:
+
+Justice Department, others takes aim at amplification
+
+In a closely watched filing, the Justice Department argued that Section 230 shielded the company against the plaintiffs’ claims that they could be held liable under anti-terror laws over its “alleged failure to block or remove ISIS videos from its site.” But the Justice Department argued that the law “does not bar claims based on YouTube’s alleged targeted recommendations of ISIS content.” The arguments add momentum to a mounting push to hold tech companies liable when they promote user material that leads to harm.
+
+Advertisement
+
+Sen. Josh Hawley (R-Mo.) in a solo filing made a parallel argument, urging the court to treat platforms more like “distributors,” so that “platforms that knowingly spread unlawful content via recommendation algorithms should not enjoy broad Section 230 immunity.”
+
+Texas, whose own legal bout over its “censorship” law could soon rise to the court, also argued that Section 230 “does not shield Google’s decision to go beyond merely hosting content and to instead promote certain videos over others.”
+
+Google has argued that “curating and displaying content of interest to users” is a “central function of publishers,” and thus those actions are covered under Section 230 protections barring “claims that treat websites as publishers of third party content.”
+
+States say Section 230 has hamstrung their enforcement
+
+A bipartisan coalition of over two dozen state attorneys general argued that federal courts’ broad interpretations of Section 230 have trampled the states’ ability to fashion relief in cases, creating “widespread preemption of state law” in instances where user content is “at best ‘tangentially related.’”
+
+Advertisement
+
+“When it comes to the internet, however, the campaign toward ever-expanded ‘publisher’ immunity increasingly eliminates States’ ability to allocate losses for internet related wrongs,” they wrote, adding that “instead of letting state law sort it out, courts have almost completely prevented people from holding internet companies ‘accountable for harms.’”
+
+Republicans target protections for policing content
+
+A group of 17 GOP lawmakers led by Sen. Ted Cruz (Tex.) called for the court to affirm a particularly “narrow” interpretation of Section 230, arguing that the law does not explicitly “immunize” platforms when hosting user content and that the courts have given them far too much discretion to restrict content under the protection for “good faith” moderation.
+
+They wrote that “conservative viewpoints on social and political matters do not rise to the level of being ‘obscene, lewd, lascivious, filthy, excessively violent, harassing, or otherwise objectionable,’ … and thus removal of such content is not eligible for immunity at all.”
+
+Advertisement
+
+In a separate filing, the Anti-Defamation League made a countering plea, urging the court to affirm that the law “protects a platform’s power to exercise editorial judgment through publishing and removing third-party content to mitigate the virality and impact of hateful and extremist content.” Tech companies have made similar defenses.
+
+Children’s safety advocates zero in on platforms’ use of data
+
+In a joint filing, Facebook whistleblower Frances Haugen and children’s safety group Common Sense urged the court not to overextend Section 230 protections to “non publishing activities,” including its “collection and utilization of users’ personal information.”
+
+“Google’s activities — creating profiles from the billions of collected data points about users and amplifying harmful content by regularly recommending targeted videos and ads based on user profiles — is simply not covered by the plain text of section 230,” they wrote.
+
+Advertisement
+
+And they argued that those non-publishing functions can be especially harmful for younger users, “who are more receptive to harmful content, such as videos encouraging disordered eating, self-harm — or in this case, terrorism activity.”
+
+Google has said that YouTube’s algorithms surface “content most likely to interest users” and that, “Users post torrents of content on the internet, to such a degree that it is ‘impossible for service providers to screen’ all third-party content for illegal or tortious material.”
+
+Civil rights groups call for ‘balance,’ without barring discrimination cases
+
+A coalition led by the Lawyers' Committee for Civil Rights Under Law argued that platforms should be held liable when they “materially” contribute to civil rights violations, but struck a more cautious tone on broader crackdowns against the legal shield which they said could harm marginalized communications.
+
+Advertisement
+
+“When interpreting Section 230, this Court must adopt a balanced approach that neither impedes enforcement of civil rights laws, nor increases censorship of people of color and other historically underserved communities,” they wrote.
+
+Our top tabs
+
+FTC goes to battle in antitrust cases
+
+The Federal Trade Commission sued to block Microsoft’s deal to buy game developer Activision Blizzard as it faced off against Facebook parent Meta in court over the company’s purchase of a virtual reality start-up, Cat Zakrzewski, Naomi Nix and Shannon Liao report.
+
+“In both cases, the Federal Trade Commission argued that the acquisitions would squash future innovation in emerging gaming markets, a relatively novel interpretation of antitrust law that FTC Chair Lina Khan (D) and her allies have championed as they seek to usher in a new era of competition enforcement,” my colleagues write.
+
+Advertisement
+
+In a statement, Microsoft President Brad Smith signaled that the company plans to fight the lawsuit. He said that Microsoft has “been committed since Day One to addressing competition concerns,” and that “while we believed in giving peace a chance, we have complete confidence in our case and welcome the opportunity to present our case in court.”
+
+Meta argued in court that Facebook faces significant competition in the virtual reality space. The company is trying to defend its ability to make acquisitions as it seeks to build out the “metaverse.”
+
+Lawmakers threaten to subpoena FTX founder
+
+House Financial Services Committee Chairwoman Maxine Waters (D) said her committee is “prepared to subpoena” FTX founder Sam Bankman-Fried if he doesn’t cooperate ahead of a Dec. 13 hearing, Reuters’s David Morgan reports. The threat came after Senate Banking Committee Chairman Sherrod Brown (D-Ohio) told Bankman-Fried in a Wednesday letter that Brown and his Republican counterpart are “prepared … to issue a subpoena to compel your testimony” if he chooses to skip a Dec. 14 hearing.
+
+“Waters said she has the authority to issue a subpoena herself but could put it to a committee vote, adding she would first work out the procedure with Representative Patrick McHenry, the Republican lawmaker who will chair the panel when his party assumes control of the House in January,” Morgan writes. “She said no decision has been made so far. ‘I could really do it myself. We’d probably do a vote,’ she said. ‘I have to work it out with Mr. McHenry how we do it. But we will issue a subpoena.’”
+
+Advertisement
+
+A Bankman-Fried spokesperson declined to comment to Reuters. McHenry’s office didn’t respond to the outlet’s request for comment.
+
+Union leader loses appeals case over racial bias at Amazon
+
+A three-judge panel said a judge correctly found that Amazon’s firing of Chris Smalls, a leader of the Amazon Labor Union, wasn’t connected to his race, Reuters’s Daniel Wiessner reports. The appeals judges last week said that Smalls’s firing was apparently related to his safety complaints and not because he’s Black. Amazon and Smalls’s lawyers didn’t respond to Reuters’s requests for comment.
+
+“Amazon fired Smalls in March 2020, saying he joined a protest at the Staten Island warehouse where he supervised other workers despite being on paid quarantine after he had close contact with someone diagnosed with covid-19,” Wiessner writes. “Smalls in a lawsuit filed that year said he was targeted because of his race and his advocacy for the warehouse's largely non-white workforce.”
+
+Rant and rave
+
+Inside the industry
+
+Hill happenings
+
+Workforce report
+
+Trending
+
+Before you log off
+
+This is Django. He's not allowed to sit on people's laps at the table, but he found a loophole. 13/10 pic.twitter.com/Qc3KGnXllB — WeRateDogs® (@dog_rates) December 8, 2022
+
+That’s all for today — thank you so much for joining us! Make sure to tell others to subscribe to The Technology 202 here. Get in touch with tips, feedback or greetings on Twitter or email.
+
+GiftOutline Gift Article

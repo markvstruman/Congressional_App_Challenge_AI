@@ -1,0 +1,103 @@
+Comment on this story Comment Gift Article Share
+
+Happy Wednesday! If you’re in talks to lead any major social networks, we want to hear from you: cristiano.lima@washpost.com. Below: What TikTok is offering the U.S. government as Congress weighs banning the app on government devices, and Meta chief Mark Zuckerberg testifies at an antitrust trial. First: Wp Get the full experience. Choose your plan ArrowRight Tech companies may have to cough up research data under this bill Tech companies including YouTube, TikTok and Facebook could be forced to turn over more data to outside researchers under a major bipartisan proposal set to be formally introduced Wednesday.
+
+The updated Platform Accountability and Transparency Act would require digital platforms to fork over data for research projects approved by federal agencies — or face the threat of liability. Sens. Christopher A. Coons (D-Del.) and Rob Portman (R-Ohio) are the lead sponsors.
+
+Advertisement
+
+First unveiled as a discussion draft last December, the bill marks one of the most serious congressional attempts yet to bring light to the inner workings of social media platforms, whose sprawling but often-opaque networks are facing mounting scrutiny over their impact on society.
+
+Under the plan, the National Science Foundation would review and greenlight “qualified” research proposals provided they meet privacy and security safeguards crafted by the Federal Trade Commission. Failure to comply could result in companies losing their liability protections under Section 230 or facing charges of unfair or deceptive trade practices.
+
+The proposal would also create a path for platforms and researchers to receive immunity while sharing user data, which lawmakers hope will ease fears of potential legal blowback. And it would separately require that tech companies regularly disclose to the public data on viral content, their moderation calls and digital advertising.
+
+Advertisement
+
+In an exclusive interview ahead of its introduction, Coons said the bill will “empower academics and independent researchers to look under the hood and to see what the machinery is that is driving these social media platforms and whether or not they're genuinely harmful in some way.”
+
+While the thrust of the original draft remains unchanged, lawmakers have tweaked the legislation to widen the pool of researchers eligible, streamline the process for getting it up and running, and expand privacy protections.
+
+Here are the key changes in the new version, shared first with The Technology 202:
+
+It allows for researchers working with nonprofit organizations to apply to gain access to company data, in addition to those affiliated with universities.
+
+It no longer requires the Federal Trade Commission to set up a new office to oversee the research program, granting the agency more leeway over implementation.
+
+It raises the threshold of monthly users a platform must have to be covered from 25 million to 50 million, which would still catch most major social networks.
+
+It expands the scope of companies covered to explicitly include “augmented or virtual reality,” which could help future-proof the proposal.
+
+It sets new privacy limits on what data researchers can request by excluding direct or private messages, biometric data or geolocation data.
+
+Coons, a close ally of President Biden and chair of Senate Judiciary’s privacy and technology subcommittee, said he plans to push to get the bill marked up and moved to the president’s desk next Congress.
+
+Coons described it as a “centrist proposal” that could help policymakers turn “opinions about social media” and its impact on users into “facts” that could prove actionable. Sens. Amy Klobuchar (D-Minn.) and Bill Cassidy (R-La.) are co-sponsors.
+
+Advertisement
+
+In recent years, lawmakers have voiced growing concern that major platforms may exacerbate mental health issues and contribute to political polarization, leading some to push Congress to swiftly step in and set new rules of the road for the internet.
+
+“I respect my colleagues who say, ‘We don't need to study this endlessly. We need to begin acting.’ I still think we need more information,” Coons said. “To me, that's not an either or.”
+
+Coons said having more data could also help lawmakers “secure broad bipartisan support for legislative action,” including for tech bills that have yet to garner “strong enough” backing to pass.
+
+State efforts to regulate social media are increasingly facing legal hurdles, with courts wading into thorny disputes about how to interpret old legal standards in the internet age and apply fresh digital rules.
+
+Advertisement
+
+“If our courts had more confidence that the legislating we were doing … was well-informed, I would think that we’d have a better chance of resisting court challenges,” Coons said.
+
+Coons cited Elon Musk’s takeover of Twitter — which had been seen as an industry leader in sharing data with researchers — as a “cautionary tale” of how a company’s approach to transparency can change without more guardrails in place.
+
+“Twitter was the one platform that was relatively transparent and had made some investments and efforts around guardrails and accountability and some transparency around its metrics,” he said. “All of that has been blown up by the change in ownership.”
+
+Our top tabs
+
+Congress pushes limits on TikTok as company seeks to allay privacy fears
+
+A provision in a must-pass omnibus spending bill would ban federal employees from downloading TikTok to government devices, Eugene Scott, Julian Mark and Drew Harwell report. Lawmakers’ inclusion of the ban in the bill — which Congress faces a Friday deadline to pass — comes as the U.S. government and TikTok continue to work on a potential deal to allay U.S. concerns over the app.
+
+Advertisement
+
+TikTok has agreed to separate decision-making from Chinese parent ByteDance, and will also give U.S. authorities the power to veto appointments on its proposed three-person board and its top executives. U.S. officials would also set hiring standards for TikTok’s U.S. staffers. The details were outlined by four people with knowledge of the discussions between TikTok and the secretive Committee on Foreign Investment in the United States (CFIUS).
+
+TikTok presented the plan in August, and officials still haven’t approved it, the people said. TikTok has started to outline the blueprint to Biden administration officials, and a CFIUS working group expressed some initial support for it, they said.
+
+Biden administration officials say an agreement isn’t imminent and that government agencies are still looking into what the best approach would be. TikTok spokesperson Brooke Oberwetter called the decision to include a TikTok ban on government devices in the bill a “political gesture that will do nothing to advance national security interests.” Oberwetter said the company was “disappointed” that Congress made such a move “rather than encouraging the administration to conclude its national security review,” and that TikTok continues to brief lawmakers on its plan.
+
+Zuckerberg testifies at antitrust trial in California
+
+Meta chief executive Mark Zuckerberg told a federal court that fitness apps aren’t key to the company’s metaverse ambitions, Naomi Nix reports. Zuckerberg was testifying at a trial in which the Federal Trade Commission is seeking to block Meta’s acquisition of Within, which made the popular VR workout game Supernatural. The FTC is arguing that Meta probably would have made its own VR fitness app if it didn’t purchase Within, and the acquisition deprived consumers of that competition and choice.
+
+Advertisement
+
+“Zuckerberg, who was called by the FTC as a witness, defended Meta’s reliance on acquisitions to build out virtual and augmented reality services,” Naomi writes. “He said under current economic conditions, Meta would be unlikely to take on developing a fitness app of its own.” Lawyers for the FTC have pointed to Meta employees debating how to get into the fitness app business.
+
+FTC intensifies Twitter investigation
+
+Two top former Twitter executives — former chief security officer Damien Kieran and former chief information security officer Lea Kissner — have spoken with Federal Trade Commission lawyers about whether Twitter — under owner Elon Musk’s leadership — will be able to obey a 2011 consent order with the FTC, Bloomberg News’s Kurt Wagner and Leah Nylen report. The FTC began probing Twitter after former chief cybersecurity officer Peiter “Mudge” Zatko filed a whistleblower complaint this year.
+
+Advertisement
+
+“The probe marks at least the third time the FTC has scrutinized the social media platform over its privacy and data security practices,” Wagner and Nylen write. “The review could lead to millions of dollars in fines and a new FTC order imposing obligations on Musk himself that would apply across his companies and remain in effect even if he steps down as chief executive officer or leaves Twitter.”
+
+An FTC spokesman declined to comment to Bloomberg News, but FTC spokesman Douglas Farrar previously said that “no CEO or company is above the law, and companies must follow our consent decrees.”
+
+Workforce report
+
+Competition watch
+
+Agency scanner
+
+Hill happenings
+
+Privacy monitor
+
+Trending
+
+Before you log off
+
+That’s all for today — thank you so much for joining us! Make sure to tell others to subscribe to The Technology 202 here. Get in touch with tips, feedback or greetings on Twitter or email.
+
+GiftOutline Gift Article

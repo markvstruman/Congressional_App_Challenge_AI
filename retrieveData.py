@@ -9,7 +9,7 @@ import re
 import newspaper
 import traceback
 
-query = 'politics'
+query = 'liberal'
 # These traits are used when you go to a website, it basically confirms your a real user
 api = NewsApiClient(api_key='c8b7f53e7eca48adae6cdcc7e7361ea7')
 user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
@@ -17,7 +17,8 @@ headers = {'User-Agent':user_agent}
 # Making a call to the newsapi to ask for articles, in this case the query is 'politics'
 API_request = api.get_everything(q=query,
                                      # sources='bbc-news,the-verge', # You can specify sources
-                                      domains='foxnews.com, cnn.com, thefederalist.com, washingtonpost.com, huffpost.com, infowars.com, occupydemocrats.com, americanlibertyreportnews.com', # Or domains
+                                      #domains='foxnews.com, cnn.com, thefederalist.com, washingtonpost.com, huffpost.com, infowars.com, occupydemocrats.com, americanlibertyreportnews.com',
+                                      domains='wsj.com', # Or domains
                                       from_param='2022-12-06', # The dates your pulling between
                                       to='2022-12-12',
                                       language='en',
@@ -28,13 +29,19 @@ API_request = api.get_everything(q=query,
 
 # Making a list of the articles' urls to parse for their HTML
 numberOfArticles = len(API_request['articles']) 
-articleCount = 379
+articleCount = 2592
 urlList = []
 articleOn = 0
 
 for i in API_request['articles']:
     urlList.append(API_request['articles'][articleOn]['url'])
     if(API_request['articles'][articleOn]['url'].__contains__('foxnews')):
+        g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
+        g.write("1")
+        g.close()
+        articleCount = articleCount+1
+        articleOn=articleOn+1
+    elif(API_request['articles'][articleOn]['url'].__contains__('wsj')):
         g = open("Congressional_App_Challenge_AI/articleBiases/article%dBias.txt" % articleCount, 'w+', encoding="utf-8")
         g.write("1")
         g.close()

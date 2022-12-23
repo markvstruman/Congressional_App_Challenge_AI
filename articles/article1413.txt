@@ -1,0 +1,59 @@
+CNN —
+
+The United States is facing a triple threat, with a confluence of viral infections due to respiratory syncytial virus, influenza and Covid-19. Many children’s hospitals are overwhelmed after surges of RSV, while the level of influenza is the highest it has been at this point in the year for more than a decade. And after a lull in cases, new coronavirus infections are on the rise across the country as well.
+
+All of this is happening as holiday season begins, with more people traveling and gathering indoors, likely with fewer precautions than in the previous two years.
+
+How much should people be concerned? Which individuals should be the most cautious? Can people get all three viruses at the same time? What steps can be taken to reduce risk and stay safe? And should mandates such as masking and social distancing return?
+
+To guide us through these questions, I spoke with CNN Medical Analyst Dr. Leana Wen, an emergency physician, public health expert and professor of health policy and management at the George Washington University Milken Institute School of Public Health. She is also author of “Lifelines: A Doctor’s Journey in the Fight for Public Health.”
+
+Video Ad Feedback Seasonal flu: What you need to know 01:46 - Source: CNN
+
+CNN: Why should people be concerned about the convergence of RSV, influenza and Covid-19?
+
+Dr. Leana Wen: There are several reasons to be concerned about this so-called tripledemic.
+
+One is the impact at the societal level. Already, children’s hospitals across the United States are filled with kids infected with viruses, including RSV and influenza. Some experts speculate this is due to an immunity gap as a result of mitigation measures taken over the last two years. The situation is so bad that children’s health leaders have requested a formal declaration of emergency from the Biden administration to better assist these hospitals. (The administration has not declared an emergency, but the US Department of Health and Human Services sent a letter to governors last week saying it “stands ready to continue assisting you with resources, supplies, and personnel.”)
+
+When hospitals exceed capacity, care for patients suffers. People who come to the emergency department end up waiting much longer because there isn’t enough staff to care for them. Patients who need to be hospitalized may wait for days for a bed to open up. Some patients, especially in rural areas, may need to be transferred hours away for the care they need.
+
+These delays could be harmful, even deadly. And this doesn’t just affect patients with respiratory ailments; it leads to delays in care for broken bones, asthma attacks and appendicitis, too, among other medical emergencies.
+
+Another is the consequence for particularly vulnerable individuals. While most people who contract RSV, influenza, Covid-19 and other respiratory illnesses will have mild symptoms, those most vulnerable could become severely ill, require intensive care and even die. The higher the rates of infection in their community, the more dangerous it becomes for vulnerable people.
+
+Of course, no one wants to be sick. Even a minor viral illness can cause inconvenience, such as missed work and school. And even if someone does not need to be hospitalized, they could still feel unwell and be contagious to others. So a high level of infection of these viruses is something that concerns all of us.
+
+CNN: Which people should be the most cautious during this period?
+
+Wen: Individuals who should be most cautious are those are at the highest risk for severe illness. That includes older people, newborns and people with multiple chronic medical conditions. These are people most susceptible to viruses, and what is a mild infection to someone who is a healthy young adult could result in hospitalization for them.
+
+Another group that should consider being cautious are those in direct contact with people at high risk. A spouse of someone who is immunocompromised, family members who live with elderly individuals, parents or caregivers to a newborn — these are all individuals who should reduce the risk of infection to themselves to prevent transmission to someone vulnerable in their immediate household.
+
+CNN: Can people contract all three viruses?
+
+Wen: In theory, yes. Someone can certainly, over the course of a year, contract all three viruses. Generally, though, they don’t get them all at the same time. The “tripledemic” phrase refers to all three viruses surging in the population at once, not necessarily (and not usually) in the same person simultaneously.
+
+CNN: What steps can be taken to reduce risk and stay safe?
+
+Wen: Vaccines exist for Covid-19 and for the flu to prevent severe disease and death. People should follow guidance from the US Centers for Disease Control and Prevention about staying up to date with their coronavirus and flu vaccine.
+
+The coronavirus is airborne. Good ventilation helps to reduce spread, so gathering with others outdoors will be safer than indoors. Indoor settings can be lower risk if there is improved ventilation, for example, through open doors and windows and the use of HEPA filters.
+
+Testing for the coronavirus remains an important tool in combating the pandemic. Lindsey Wasson/Reuters
+
+Influenza and RSV are spread primarily through droplets. People should stay away from those who are coughing and sneezing (and individuals with symptoms should avoid public settings). Everyone should wash their hands frequently — and well. That is especially important for young children who often put their hands in their mouths.
+
+There are other important tools, too, including testing and masking. Taking a Covid-19 test before gathering can reduce risk, as can wearing a high-quality N95 or equivalent mask (KN95 or KF94).
+
+CNN: Is a cloth mask or regular medical mask enough?
+
+Wen: No. The virus that causes Covid-19 is spread through microscopic droplets that can pass through cloth and regular medical masks. The N95 mask is the gold standard and will offer the best protection against respiratory viruses.
+
+There will be some people who cannot tolerate an N95. Those individuals can wear two medical masks or a cloth mask on top of a medical mask. But these options are still not as protective as a well-fitting N95 or equivalent.
+
+CNN: Should mandates like masking and social distancing return?
+
+Wen: I think it will be very difficult to ask everyone to return to masking, distancing and avoiding indoor gatherings with loved ones — especially over the holidays. My view is that top-down mandates from the any level of government should be reserved for truly dire situations for which there are no other options — for example, if a new highly transmissible variant emerges that is far more dangerous and resistant to existing vaccines. That’s not the situation at the moment.
+
+That said, just because mandates across the board aren’t likely doesn’t mean that people shouldn’t take care themselves. Individuals — especially those vulnerable to severe illness and their household contacts — should choose to wear well-fitting N95s or equivalent while in crowded indoor spaces. They can choose additional protective measures, including staying outdoors or in well-ventilated spaces when possible. And everyone should make sure, again, that they are vaccinated with the vaccines that currently are available against Covid-19 and influenza.

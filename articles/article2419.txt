@@ -1,0 +1,49 @@
+New York CNN —
+
+As federal prosecutors seek to imprison former crypto darling Sam Bankman-Fried, Sen. Elizabeth Warren is attempting to push through Congress a bipartisan crackdown on money laundering in the crypto industry.
+
+The Massachusetts Democrat is teaming up with Republican Sen. Roger Marshall of Kansas to introduce new legislation on Wednesday that would seek to close loopholes in the financial system that pose national security risks by allowing digital assets to be used for money laundering, Warren’s office told CNN.
+
+Due to time constraints, the Warren-Marshall crypto legislation has little chance of getting through this Congress. The bill would need to be reintroduced when the new Congress is seated.
+
+The effort aims to level the playing field by forcing crypto firms to play by the same rules that apply to banks and traditional firms.
+
+“I’ve been ringing the alarm bell in the Senate on the dangers of these digital asset loopholes, and I’m working in a bipartisan manner to pass common-sense crypto legislation to better safeguard U.S. national security,” Warren told CNN in an exclusive statement.
+
+Alluding to the FTX scandal, Warren said the bankruptcy of a major crypto platform and criminal prosecution of its former CEO means that digital assets are “under serious scrutiny across the political spectrum.”
+
+The push from Warren and Marshall comes just a day after Bankman-Fried, the former CEO of crypto exchange FTX, was indicted for money laundering and multiple other federal offenses. Prosecutors allege Bankman-Fried engaged in a global scheme to deceive and defraud customers, investors, lenders and the campaign finance system.
+
+The new bill, called the Digital Asset Anti-Money Laundering Act, would attack money laundering by attempting to bring the digital asset ecosystem into compliance with the existing system of anti-money laundering in the worldwide financial system.
+
+The legislation would direct the Financial Crimes Enforcement Network (FinCEN) within the Treasury Department to designate digital asset wallet providers, miners, validators and others as money service businesses. That in turn would extend responsibilities in the Bank Secrecy Act to the crypto industry, including Know-Your-Customer (KYC) requirements.
+
+The Treasury Department warned earlier this year that ransomware hackers, drug traffickers and fraudsters are using digital assets to launder illicit proceeds. US officials have also alleged that North Korea, Iran, Russia and other countries have turned to crypto to launder money and even get around sanctions.
+
+“Following the September 11, 2001 terrorist attacks, our government enacted meaningful reforms that helped the banks cut off bad actors’ from America’s financial system,” Marshall said in a statement. “Applying these similar policies to cryptocurrency exchanges will prevent digital assets from being abused to finance illegal activities without limiting law-abiding American citizens’ access.”
+
+The legislation comes as Warren and other lawmakers are scheduled to hold a hearing on Wednesday about the crypto crash and the harm to consumers.
+
+The bill would also force regulators to push ahead with new restrictions aimed at closing a gap for digital wallets that lets people bypass anti-money laundering and sanctions checks.
+
+Specifically, it would direct FinCEN to finalize and implement a rule proposed in 2020 that would require banks and money service businesses to verify customer and counterparty identifies, keep records and file reports linked to unhosted wallets or ones in jurisdictions that are not compliant with the Bank Secrecy Act.
+
+Other requirements in the legislation include:
+
+- Banning banks and other financial institutions from using or transacting with anonymity-enhancing technologies such as digital asset mixers and from handling or transacting with digital assets that have used those technologies.
+
+- Extending Bank Secrecy Rules on reporting of foreign bank accounts to include digital assets by requiring Americans engaged in digital asset transaction greater than $10,000 through offshore accounts to file a report with the Internal Revenue Service.
+
+- Directing regulators to strengthen enforcement of Bank Secrecy Act compliance by establishing compliance examination and review process for money service businesses.
+
+- Cracking down on digital asset ATMs by making sure operators and administrators submit and update the physical addresses of their kiosks.
+
+The stunning revelations in the Bankman-Fried charges underscore how crypto remains the wild west of the financial world. But it’s not clear whether the FTX scandal will be enough to prompt Congress to take major action.
+
+Isaac Boltansky, director of policy research at BTIG, told CNN that despite all the “finger pointing” over FTX, it is “exceedingly difficult” to see Congress passing comprehensive crypto reform anytime soon.
+
+“Everyone on Capitol Hill can agree that Bankman-Fried is a crook,” Boltansky said, “but when we move from the high level to the ground level, it becomes clear that legislative hurdles and potholes remain.”
+
+Boltansky said those obstacles include jurisdictional battles and the “reality that Congress tends to have a relatively short attention span.”
+
+Still, a more targeted legislative package aimed at stablecoins or money laundering has potential to get through Congress next year, he said.

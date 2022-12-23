@@ -1,0 +1,79 @@
+Substack writer Matt Taibbi dropped his latest installment of the "Twitter Files" on Friday that detailed the FBI's ties with the tech giant.
+
+"The #TwitterFiles are revealing more every day about how the government collects, analyzes, and flags your social media content. Twitter’s contact with the FBI was constant and pervasive, as if it were a subsidiary," Taibbi began the thread on Friday. "Between January 2020 and November 2022, there were over 150 emails between the FBI and former Twitter Trust and Safety chief Yoel Roth… a surprisingly high number are requests by the FBI for Twitter to take action on election misinformation, even involving joke tweets from low-follower accounts."
+
+In response to the "Twitter Files," a spokesperson for the FBI told Fox News Digital, "The FBI regularly engages with private sector entities to provide information specific to identified foreign malign influence actors’ subversive, undeclared, covert, or criminal activities. Private sector entities independently make decisions about what, if any, action they take on their platforms and for their customers after the FBI has notified them."
+
+Taibbi highlighted the FBI's social media task force established after the 2016 presidential election that assigned as many as "80 agents" to monitor foreign interference prominently featured in the Twitter Files.
+
+"Do agencies like FBI and DHS do in-house flagging work themselves, or farm it out? ‘You have to prove to me that inside the f---ing government you can do any kind of massive data or AI search,’ says one former intelligence officer," Taibbi wrote.
+
+BARI WEISS CLAPS BACK AT CRITICS SAYING TWITTER FILES ‘CHERRY-PICKS’ REPORTING: ‘TWITTER MISLED THE PUBLIC’
+
+He then shared an email sent to "Twitter contacts" from an FBI official listing multiple Twitter accounts that "may potentially constitute violations of Twitter's Terms of Service."
+
+"Twitter personnel in that case went on to look for reasons to suspend all four accounts, including @fromma , whose tweets are almost all jokes (see sample below), including his ‘civic misinformation’ of Nov. 8," Taibbit tweeted.
+
+Taibbi highlighted two additional accounts, one he described as being "blue-leaning" whose tweets were clearly joking, writing "Of the six accounts mentioned in the previous two emails, all but two… were suspended."
+
+Taibbi then shared an email from November 5, 2022 from the FBI’s National Election Command Post to the agency's field office in San Francisco, where Twitter Headquarters is located, with a lengthy list of Twitter accounts that "may warrant additional action."
+
+Agent Elvis Chan forwarded the list to "Twitter folks."
+
+Twitter replied with a list of accounts it took action on, including actor Billy Baldwin.
+
+"Many of the above accounts were satirical in nature, nearly all (with the exceptions of Baldwin and @RSBNetwork ) were relatively low engagement, and some were suspended, most with a generic, ‘Thanks, Twitter’ letter," Taibbi reported.
+
+The Substack writer included the reactions to several of the Twitter users whose accounts were flagged by the FBI, many expressing shock at the revelations from the "Twitter Files."
+
+Taibbi then revealed a September 2022 exchange between Twitter's then-legal executive Stacia Cardille and then-deputy general counsel (and former FBI general counsel) Jim Baker, sharing the results from her "soon to be weekly" meeting with law enforcement agencies like FBI, DHS, DOJ, and the Office of the Director of National Intelligence.
+
+"The Twitter exec writes she explicitly asked if there were ‘impediments’ to the sharing of classified information ‘with industry.’ The answer? ‘FBI was adamant no impediments to sharing exist,’" Taibbi reported. "This passage underscores the unique one-big-happy-family vibe between Twitter and the FBI. With what other firm would the FBI blithely agree to ‘no impediments’ to classified information?"
+
+He added, "At the bottom of that letter, she lists a series of ‘escalations’ apparently raised at the meeting, which were already 'handled.'"
+
+The thread displayed numerous examples of correspondence between the Twitter and the FBI, mostly pertaining to tweets the FBI had flagged as "possible violative content."
+
+"FBI in one case sent over so many ‘possible violative content’ reports, Twitter personnel congratulated each other in Slack for the ‘monumental undertaking’ of reviewing them," Taibbi wrote, showing a screenshot of the exchange.
+
+Taibbi then reported, "There were multiple points of entry into Twitter for government-flagged reports. This letter from Agent Chan to Roth references Teleporter, a platform through which Twitter could receive reports from the FBI," adding "Reports also came from different agencies. Here, an employee recommends 'bouncing' content based on evidence from ‘DHS etc.’"
+
+"State governments also flagged content," Taibbi reported. "Twitter for instance received reports via the Partner Support Portal, an outlet created by the Center for Internet Security, a partner organization to the DHS… Twitter execs – receiving an alert from California officials, by way of ‘our partner support portal’ – debate whether to act on a Trump tweet… video was reported by the Election Integrity Project (EIP) at Stanford, apparently on the strength of information from the Center for Internet Security (CIS)."
+
+"If that’s confusing, it’s because the CIS is a DHS contractor, describes itself as "partners" with the Cyber and Internet Security Agency (CISA) at the DHS. The EIP is one of a series of government-affiliated think tanks that mass-review content, a list that also includes the Atlantic Council’s Digital Forensics Research Laboratory, and the University of Washington’s Center for Informed Policy," he continued.
+
+Taibbi wrapped up his thread by telling his followers, "The takeaway: what most people think of as the "deep state" is really a tangled collaboration of state agencies, private contractors, and (sometimes state-funded) NGOs. The lines become so blurred as to be meaningless."
+
+"Instead of chasing child sex predators or terrorists, the FBI has agents — lots of them — analyzing and mass-flagging social media posts. Not as part of any criminal investigation, but as a permanent, end-in-itself surveillance operation. People should not be okay with this," Taibbi added.
+
+Taibbi went viral with the first installment of the "Twitter Files" earlier this month which focused on Twitter's internal discussions leading to it censoring the Hunter Biden laptop story during the 2020 presidential election, with some officials struggling to explain how it violated its "hacked materials" policies.
+
+It was later revealed that the first batch of "Twitter Files" were vetted without Musk's knowledge by Twitter deputy general counsel Jim Baker, who previously served as the FBI's general counsel and was involved in the Russia probe. Musk fired Baker shortly thereafter.
+
+EX-NYT COLUMNIST SWIPES MEDIA DOWNPLAYING TWITTER FILES: ‘LESS INTERESTING’ FACEBOOK LEAKS MADE FRONT PAGES
+
+Baker was swept up Taibbi's reporting about the suppression of the Hunter Biden story, telling his colleagues at the time, "I support the conclusion that we need more facts to assess whether the materials were hacked" but added, "it's reasonable for us to assume that they may have been and that caution is warranted."
+
+Additionally, Taibbi initially reported, "Although several sources recalled hearing about a ‘general’ warning from federal law enforcement that summer about possible foreign hacks, there’s no evidence - that I've seen - of any government involvement in the laptop story." It is unclear whether Baker's involvement in vetting the "Twitter Files" led Taibbi to draw that conclusion and whether Baker omitted files that would have shown the federal government intervening in Twitter's suppression of the Hunter Biden laptop story.
+
+The second installment published by Bari Weiss revealed Twitter's "blacklisting" of prominent conservatives, including Fox News host Dan Bongino, Turning Point USA's Charlie Kirk, as well as Stanford University's Dr. Jay Bhattacharya, a longstanding opponent of COVID groupthink during the pandemic who expressed opposition to lockdowns.
+
+CNN'S ‘TWITTER FILES’ COVERAGE INVOLVING HUNTER BIDEN LAPTOP STORY HAS GLARING OMISSIONS
+
+Internal communications also reveal Twitter staffers admitting that the popular account Libs of TikTok never violated its "hateful conduct" policy despite being punished several times for allegedly doing so.
+
+The third, fourth and fifth installments of the "Twitter Files" focused on the permanent suspension of former President Trump around the Capitol riot events in January 2021.
+
+Taibbi reported how Twitter circulated election-related tweets from various users leading up to the 2020 election that were "flagged" by the FBI as being problematic.
+
+Independent writer Michael Shellenberger revealed that Dorsey was phoning it in as he was on vacation while his deputies were pushing to deplatform Trump with Roth in particularly spearheading efforts to censor other users pertaining to tweets about the 2020 election.
+
+On Monday, Weiss delved into the pressure Twitter management was facing from its employees who called for Trump's permanent suspension, though the Free Press editor also revealed several Twitter staffers who enforce policies did not believe Trump's tweets from Jan. 6 actually violated its rules.
+
+CLICK HERE TO GET THE FOX NEWS APP
+
+However, it was Vijaya Gadde, then-Twitter's head legal chief, who asked if Trump's tweets could be "coded incitement to further violence." Moments later, the so-called "scaled enforcement team" suggested that based on how Twitter interprets Trump's tweets, it could violate the violence incitement policies.
+
+Elon Musk had been vocal about being transparent when it comes to Twitter's past and present actions curating content on the platform, including censored content.
+
+Fox News' Adam Sabes contributed to this report.

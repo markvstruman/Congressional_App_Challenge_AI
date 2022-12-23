@@ -1,0 +1,73 @@
+Listen Comment on this story Comment Gift Article Share
+
+The third-most important story of Oct. 7, 2016, was a warning from the federal government about Russian efforts to interfere with that year’s presidential election. It was an unusual message and a relatively vague one, focused more on alerting elections administrators to possible intrusion attempts than “the recent compromises of emails from US persons and institutions," something that had been established several months prior.
+
+It was the third-most important story because two other big stories soon buried it. The first was the release of the “Access Hollywood” tape by The Washington Post. The second was the release of material by WikiLeaks of communications involving Hillary Clinton’s campaign chief, John Podesta — material obtained through a compromised email account by hackers working for Russia, as the later investigation by the office of special counsel Robert S. Mueller III would establish clearly.
+
+If any interference effort by Russia had an effect on the election, it was that one. WikiLeaks dropped a cache of new emails over an extended period, triggering negative news stories about Clinton’s presidential campaign day after day as the election neared. But Russia was also actively trying to leverage social media platforms to stir up dissent, an effort that attracted outsize attention despite not having had any discernible effect. That the WikiLeaks material was shared over social media almost certainly had a far more damaging effect than any ads Russian trolls purchased.
+
+The presidential election had been tainted — perhaps only slightly, but tainted nonetheless — by a hostile foreign actor. It worked because it effectively leveraged American information-sharing systems, including social media sites. As a result, social media companies began implementing more tools aimed at uprooting or disrupting misinformation.
+
+Advertisement
+
+This context is critical for understanding what happened in 2020. By then, companies like Twitter had (imperfect) systems in place aimed at shutting down false claims or abusive behavior. They and federal law enforcement were on the lookout for efforts by Russia or other foreign powers to interfere with the presidential race once again. There were trainings focused on the possibility of “hack and dump” operations — stealing enormous amounts of information and releasing them publicly, letting a deeply bifurcated American public do the hard work of crafting damaging narratives out of the individual emails that were published.
+
+That never manifested, at least not in 2020. Instead, two years later, hostile actors pored over a cache of emails to create a damaging narrative more tangentially linked to politics. That’s the ongoing effort, facilitated by Twitter’s new owner, Elon Musk, to use internal Twitter emails to portray the FBI’s efforts to block potential foreign interference as itself being an intentional attempt to influence the campaign. His goal is political; he wants to reinforce the sense on the right that government actors in the “Deep State” conspire with the American left to hold power.
+
+What’s been presented to date doesn’t show what is alleged by Musk and the writers tasked with picking cherries from Twitter’s email archives. What the actual evidence shows, instead, is an often ad hoc response to what happened in 2016, a response that is at times kludgey or dubious but not one that obviously shows a federal institution trying to reshape an election outcome.
+
+Advertisement
+
+But Musk promised a narrative and the writers working for him have created one, and a huge number of people appear to believe it to be accurate. It’s a robust demonstration both of how framing can affect understanding of a story and of the way in which cherry-picking from a cache of information allows for the creation of nearly any narrative that’s desired.
+
+Here was the front page of the New York Post on Tuesday.
+
+There are three snippets of text focused on how Twitter was working with the FBI. In large bold text, the cover reads, “How the FBI pressured Twitter to censor Hunter story agency knew was TRUE.” In smaller text, a snippet from the story: “... the FBI repeatedly warned the social-media company that ‘misinformation’ about Hunter Biden was coming — even though the feds had been given Hunter’s laptop in 2019.”
+
+Advertisement
+
+The New York Post, of course, sits at the center of Musk’s effort. When that newspaper released a story in October 2020 alleging to contain information obtained from a laptop belonging to presidential candidate Joe Biden’s son Hunter, it immediately triggered concern about Russian interference. After all, here was a cache of emails centered on someone close to the Democratic presidential nominee appearing a few weeks before Election Day — emails with a sketchy provenance, including having been presented to the media by Rudy Giuliani, an ally of President Donald Trump who had been repeatedly linked to Russian intelligence.
+
+(The New York Post declined to share the laptop material with other news sources, stymieing efforts to validate what was included. When The Washington Post did eventually receive a copy of the drive, we were able to validate a number of the emails it included, though it was obvious that files had been added or altered. Even the computer repair-shop owner who was Giuliani’s original source for the material noted that files had apparently been added to the collection.)
+
+Information about Twitter’s decision to block sharing of the Post story — a decision quickly reversed — has been published in caches by writers working with Musk.
+
+Advertisement
+
+The New York Post cover story is largely based on a cache produced on Monday by conservative writer Michael Shellenberger. The process isn’t precisely mirroring WikiLeaks’ 2016 document dumps. Instead, Shellenberger and others are given access to documents (it’s not clear whether that access is itself limited) and draw out narratives to present to the public. And the story Shellenberger wanted to tell was the one the New York Post amplified: The FBI tried to cast the Hunter Biden story as misinformation.
+
+But he doesn’t have evidence to that effect. The Post’s story is headlined, “FBI pressured Twitter, sent trove of docs hours before Post broke Hunter laptop story,” capturing the intended narrative. What Shellenberger shows, though, is that the FBI sent documents to Twitter the evening before the first story about the laptop was published — but not what those documents said or even what they dealt with. It’s all insinuation: Hunter Biden’s team had learned about the soon-to-be-released story (as evidenced by an email sent to the repair-shop owner) and, a few hours later, the FBI sent something to Twitter. That’s it.
+
+As for the “pressure”? That’s all framing as well. The FBI repeatedly discussed possible interference efforts with Twitter which, again, makes sense in the context of what happened in 2016. Shellenberger presents various communications between Twitter and the FBI — a cherry-picking that gives someone reading through his Twitter thread a sense of constant communication even though the messages are often months apart.
+
+Advertisement
+
+There are, of course, obvious reasons for the FBI to have a process for working with Twitter. The rise of the Islamic State and its use of social media tools for recruitment made clear the potential national-security issues at stake from instantaneous, global communications systems. Russia’s 2016 efforts made that challenge more directly tangible to American observers.
+
+One of the unintentionally revealing revelations from Shellenberger is that a Twitter executive participated in an exercise aimed at dealing with a “hack and leak” operation centered on Hunter Biden. “Efforts continued to influence” the Twitter executive, Shellenberger writes, as though this third-party exercise was somehow linked to the FBI. But it also makes clear why Hunter Biden might have been a point of concern: He’d become a central point of attack for the right when Trump was first impeached. Trump, you’ll recall, tried to pressure Ukraine into announcing an investigation of Joe Biden based on Hunter Biden’s work with a company called Burisma. In January 2020, it was reported that Burisma had been hacked. So the exercise focused on a potential dump of emails related to Hunter Biden stolen from the company.
+
+In the context of the moment, that focus made sense. In Shellenberger’s narrative, it is made to seem nefarious. And the New York Post — like Musk, eager to cast Twitter and the FBI as bad actors — is happy to elevate Shellenberger’s presentation.
+
+Advertisement
+
+One of the most important essays assessing the way in which enormous amounts of information are available online was published by the New Republic in 2009. Written by lawyer and activist Lawrence Lessig, it is called “Against Transparency” — itself a provocative title but one that gets at Lessig’s point.
+
+Too much information, he argues, can be a dangerous thing.
+
+“To understand something — an essay, an argument, a proof of innocence — requires a certain amount of attention,” Lessig writes. “But on many issues, the average, or even rational, amount of attention given to understand many of these correlations, and their defamatory implications, is almost always less than the amount of time required. The result is a systemic misunderstanding — at least if the story is reported in a context, or in a manner, that does not neutralize such misunderstanding.”
+
+Advertisement
+
+He predicted situations like the one that emerged in October 2016 and in December 2022: Bad-faith or misinformed actors had enough information at their disposal to tell whatever story they wanted, with average readers unable to recognize what exonerating information might have been left out of the presentation.
+
+“The point in such cases is not that the public isn’t smart enough to figure out what the truth is,” Lessig writes. “The point is the opposite. The public is too smart to waste its time focusing on matters that are not important for it to understand. The ignorance here is rational, not pathological. It is what we would hope everyone would do, if everyone were rational about how best to deploy their time. Yet even if rational, this ignorance produces predictable and huge misunderstandings."
+
+Now inject a motivated audience — the New York Post, Musk’s followers on Twitter, supporters of Trump eager to think the election was stolen from him — and you lose interest in taking time to understand ameliorating information entirely. A recent study found that it’s the favorability of a news story, not the source of the story, that predisposes people to believe inaccurate information.
+
+Advertisement
+
+There are legitimate questions about how Twitter moderated — and currently moderates — its content. And the FBI, of course, has a long history of dubious behavior. But neither of those things diminishes the fact that the allegations Musk is eager to elevate are predicated on an unfailingly ungenerous interpretation of select documents. That there is no evidence to support his most extreme claims, but instead only a narrator’s injected presentation of how nefarious things might be.
+
+The worry isn’t that Musk might nonetheless believe the story he’s presenting the world. It’s that so many other people, unable to know what’s being withheld or unable to take the time to understand the fuller context, are eager to believe it too.
+
+GiftOutline Gift Article

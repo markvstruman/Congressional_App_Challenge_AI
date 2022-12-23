@@ -1,0 +1,37 @@
+Editor’s Note: Katie Harbath is a fellow at the Bipartisan Policy Center and former public policy director at Facebook. BPC accepts funding from some tech companies, including Meta and Google, in their efforts to get authoritative information about elections to their users. The views expressed in this commentary are the author’s. Read more opinion articles on CNN.
+
+CNN —
+
+Every day, social media companies working on content moderation must balance many competing interests and different views of the world and make the best choice out of a range of terrible options.
+
+Katie Harbath Kate Andreya Photography
+
+This is what the Twitter Files — a recent release of internal Twitter documents about company decisions on topics such as the Hunter Biden laptop and banning then-President Donald Trump — show us. They are giving us a glimpse into the everyday workings and decision-making process of balancing free speech and safety. I saw this firsthand in my 10 years at Facebook — now Meta. It’s messy and imperfect, and someone will always be upset with the decision.
+
+When thinking about this problem, it’s important not to just tackle it by looking at what any piece of content says. Instead, a multi-pronged approach is needed looking not just at the content but also the behavior of people on the platform, how much reach content should get, and more options for users to take more control over what they see in their newsfeeds.
+
+First, a platform needs to ensure that everyone has the right to free speech and can safely express what they think. Every platform — even those that claim free expression is their number one value — must moderate content.
+
+Some content, like child pornography, must be removed under the law. However, users — and advertisers — also don’t want some legal but horrible content in their feeds, such as spam or hate speech.
+
+Moreover, no one likes when an online mob harasses them. All that will do is drive people away or silence them. That is not a true free speech platform. A recent example is Twitter, where its former head of trust and safety fled his home due to the number of threats he received following Elon Musk’s criticism against him. Other platforms, such as Meta, have increased their efforts to shut down brigading — when users coordinate harassment online.
+
+Second, there are more options beyond leaving the content up or taking it down. Meta characterizes this as remove, reduce and inform; instead of taking potentially problematic, but not violating, content down, platforms can reduce the reach of that content and/or add informative labels to it to give a user more context.
+
+This option is necessary as many of the most engaging posts are borderline — meaning they go right up to the line of the rules. Here the platform may not feel comfortable removing content such as clickbait but will want to take other action because some users and advertisers might not want to see it.
+
+Some argue — as they did about one installment of the Twitter files — that the reduction in reach is a scandal. But others, such as Renee DiResta from the Stanford Internet Observatory, has famously written that free speech does not mean free reach.
+
+People might have a right to say something, but they don’t have a right for everyone to see it. This is at the heart of many criticisms about platforms that prioritize engagement as a key factor in deciding what people see in their newsfeeds because it is often content that evokes an emotional response that gets the most likes, comments and shares.
+
+This leads to the third point: transparency. Who is making these decisions, and how are they ranking competing priorities? The issue around shadow banning — the term used by many to describe when content isn’t shown to as many people as it might otherwise be without the content creator knowing — isn’t just one person upset that their content is getting less reach.
+
+They are upset that they don’t know what’s happening and what they did wrong. Platforms need to do more on this front. For instance, Instagram recently announced that people could see on their accounts if they are eligible to be recommended to users. This is because they have rules that accounts that share sexually explicit material, clickbait or other types of content won’t be eligible to be recommended to others who don’t follow them.
+
+Get our free weekly newsletter Sign up for CNN Opinion’s newsletter. Join us on Twitter and Facebook
+
+Lastly, platforms can give users more control over the types of moderation they are comfortable with. Political scientist Francis Fukuyama calls this “middleware.” Given that every user enjoys different content, middleware would allow people to decide the types of content they see in their feeds. This will allow them to determine what they need to feel safe online. Some platforms, such as Facebook, already allow people to switch from an algorithmically ranked feed to a chronological one.
+
+Tackling the problem of speech and safety is extremely difficult. We are in the middle of developing our societal norms for the speech we are ok with online and how we hold people accountable.
+
+Figuring this out will take a whole-of-society approach, but we’ll need more insight into how platforms make these decisions. Regulators, civil society and academic organizations outside these platforms must be willing to say how they would make some of these difficult calls, governments need to find the right ways to regulate platforms and we need more options to control the types of content we want to see.

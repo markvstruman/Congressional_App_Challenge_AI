@@ -1,0 +1,23 @@
+Ever get a note from a doctor that is essentially illegible?
+
+Google is working on an artificial intelligence (AI) and machine learning model that can identify and even highlight medicines on handwritten prescriptions from physicians.
+
+Google Research India said in a Monday release that the system will act as an assistive technology for digitizing handwritten medical documents by augmenting the humans in the loop, such as pharmacists.
+
+It noted, however, that no decision will be made solely based on the output provided by the technology.
+
+SUPREME COURT RELEASES FEBRUARY CALENDAR: BIDEN STUDENT LOAN HANDOUT, TWITTER AND GOOGLE ON DOCKET
+
+"You may be thinking, we’ve had the technology to interpret text from images for decades now: so what’s new, and what sets prescriptions apart?" Google India said. "Ironically, what makes prescriptions hard for computers to digitize is the same thing that makes them hard for you and me to read – they’re unstructured, in shorthand and full of clues for pharmacists to decipher."
+
+It said that the system is currently under development – later telling TechCrunch that the feature is in research prototype and that the company has not yet committed to launching it – and that Google India would share updates on its broader rollout in the future.
+
+APPLE, GOOGLE, AMAZON, AND FACEBOOK ARE ALWAYS LISTENING UNLESS YOU CHANGE THESE SETTINGS
+
+The feature was also announced at Google's annual Google for India conference.
+
+Google Research India also noted that the need to develop AI responsibly is "fundamental," and that the search engine giant had invested $1 million in grants to the Indian Institute of Technology, Madras, to establish the first-of-its-kind multidisciplinary center for Responsible AI.
+
+CLICK HERE TO GET THE FOX NEWS APP
+
+Gizmodo reported that the technology will be a part of the Google Lens library of applications, which already has the ability to digitally transcribe handwritten notes.

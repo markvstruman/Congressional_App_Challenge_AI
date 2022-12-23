@@ -1,0 +1,65 @@
+A version of this story first appeared in CNN Business’ Before the Bell newsletter. Not a subscriber? You can sign up right here. You can listen to an audio version of the newsletter by clicking the same link.
+
+CNN —
+
+It’s been a harrowing year for markets and investors are tired. Months of sky-rocketing inflation and interest rates, the peaks and troughs of unpredictable economic data, churning geopolitical chaos and warning sirens of imminent recession were enough to make even the most hardened trader weary.
+
+But a number of signals this week are pointing to calmer waters ahead. The question is whether we’ve made it past the worst of things or if we’re simply in the deceptively sunny eye of the storm.
+
+What’s happening: Price increases in the United States cooled more than economists expected last month, recording the lowest level of growth since last December. Annual inflation in November was 7.1%, down from 7.7% in October, according to the Bureau of Labor Statistics’ closely watched Consumer Price Index.
+
+This is the second consecutive month of moderating price pressures and could mean the underlying trend of inflation is finally decelerating. That’s a welcome and hopeful sign for consumers, policymakers and investors, said Jim Baird, chief investment officer at Plante Moran Financial Advisors. “There’s growing evidence that the worst of the inflation scare may be in the rearview mirror,” he wrote in a note on Tuesday.
+
+Recession fears are also ebbing a bit. The economy is cooling in some sectors — housing has taken a hit, manufacturing is slowing and consumer and business confidence are lower. But Americans have proved resilient. They’re still spending and the job market remains healthy. A soft-landing is not a given, but the runway appears wider than it did a few months ago.
+
+That leads us to today’s Federal Reserve policy rate decision where officials are largely expected to ease up in their painful fight against inflation. Investors are pricing in a half-point increase in interest rates after four consecutive three-quarter point hikes.
+
+The economy is still in flux. Inflation is two percentage points lower than it was at its June highs but the typical American household still needs to shell out $396 more per month than a year ago to buy the same goods and services, according to Moody’s Analytics. Federal Reserve officials have also made it clear that rates will remain elevated for some time. But we could be nearing a turning point.
+
+If this momentum continues, “we could then see the Fed pause over the next few months at a still restrictive policy-rate, but not one which would put potentially excessive pressure on the economy,” said Rick Rieder, BlackRock’s chief investment officer of Global Fixed Income.
+
+Monitoring the tide: Fed watchers will keep a close eye on the central bank’s Summary of Economic Projections today for clues about where policymakers think inflation, economic output and unemployment will land over the next year. They’ll also be paying attention to Federal Reserve Chair Jerome Powell’s press conference to see if he strikes a hawkish or dovish tone about the prospect of future rate hikes.
+
+But barring unexpected bad news, the Fed is getting ready to shift its messaging from the United States falling behind the curve on inflation to moving more gradually and allowing time to see the effects of their previous rate hikes on the economy, said the Yale School of Management’s Bill English, a former Fed senior economist.
+
+“I’m still expecting some more rate hikes, but if there are no surprises by March they’ll be in a place where they can reevaluate their current regimen,” he said.
+
+At that point, traders might be able to breathe a sigh of relief as the economy becomes relatively boring again.
+
+The Fed is hoping that monetary policy also becomes less exciting, said English. The next few months will determine how quickly we get there.
+
+Sam Bankman-Fried’s bad day
+
+It’s been a heck of a week for Sam Bankman-Fried, the 30-year-old founder and former CEO of FTX and Alameda Research.
+
+Federal prosecutors from the Southern District of New York charged SBF with eight charges of fraud and conspiracy. They say he misappropriated FTX customers’ deposits by using those funds to pay expenses and debts of Alameda, his crypto hedge fund, reports my colleague Allison Morrow (check out more of her very smart reporting on the debacle here).
+
+US Attorney Damian Williams called the FTX case “one of the biggest financial frauds in American history.” If found guilty, SBF could face up to 115 years in prison.
+
+That’s not all: US markets regulators also filed civil lawsuits accusing Bankman-Fried of defrauding investors and customers, saying he “built a house of cards on a foundation of deception while telling investors that it was one of the safest buildings in crypto.”
+
+John J. Ray III, who made his name overseeing the liquidation of Enron in the early 2000s and is now in charge of sifting through the rubble of FTX, spent Tuesday telling Congress what a mess SBF has made of things.
+
+Ray testified before the House Financial Services Committee, relaying what he could about the company he took over just four weeks ago. When a congressman asked Ray how his experience with FTX compares with Enron, Ray was quick to make the distinction clear:
+
+“The crimes that were committed [at Enron] were highly orchestrated financial machinations by highly sophisticated people to keep transactions off balance sheets,” Ray told lawmakers. FTX, on the other hand, was “not sophisticated at all.”
+
+“This is really old-fashioned embezzlement,” Ray continued. “This is just taking money from customers, and using it for your own purpose.”
+
+Mark Cohen, a lawyer for Bankman-Fried, said his client “is reviewing the charges with his legal team and considering all of his legal options.”
+
+Knock knock: Senate comes for TikTok
+
+A trio of US lawmakers has introduced new legislation that aims to ban TikTok from operating in the United States, reports my colleague Brian Fung.
+
+The new bill by Sen. Marco Rubio, the top Republican on the Senate Intelligence Committee, and a bipartisan pair of congressmen in the House, reflects the latest escalation by US policymakers against the Chinese-owned short-form video app. TikTok has faced doubts about its ability to safeguard US user data from the Chinese government.
+
+The proposed legislation would “block and prohibit all transactions” in the United States by social media companies with at least one million monthly users that are based in, or under the “substantial influence” of, countries that are considered foreign adversaries, including China, Russia, Iran, North Korea, Cuba and Venezuela.
+
+The bill specifically names TikTok and its parent, ByteDance, as social media companies for the purposes of the legislation. Rubio and one of the House sponsors of the bill, Wisconsin Republican Rep. Mike Gallagher, had indicated their intention to introduce the bill in a Washington Post op-ed last month.
+
+The legislation comes as a wave of states led by Republican governors have introduced state-level restrictions on the use of TikTok on government-owned devices. In the past two weeks, at least seven states have introduced such measures, including Maryland, South Dakota and Utah.
+
+“The federal government has yet to take a single meaningful action to protect American users from the threat of TikTok,” Rubio said in a statement. “There is no more time to waste on meaningless negotiations with a CCP-puppet company. It is time to ban Beijing-controlled TikTok for good.”
+
+Hilary McQuaide, a spokesperson for TikTok, said in a statement: “It’s troubling that rather than encouraging the Administration to conclude its national security review of TikTok, some members of Congress have decided to push for a politically-motivated ban that will do nothing to advance the national security of the United States.”

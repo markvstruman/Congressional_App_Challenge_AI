@@ -1,0 +1,49 @@
+Listen Comment on this story Comment Gift Article Share
+
+After last month’s election, some critics blamed Sen. Rick Scott’s (R-Fla.) leadership of the National Republican Senatorial Committee for his party’s failure to take the Senate. Under Scott, the NRSC invested heavily in raising money online and through text messages. Although at first the strategy seemed to work, the committee was cash-strapped in the crucial final weeks before Election Day. After Republicans performed poorly at the polls, Sens. Marsha Blackburn (R-Tenn.) and Thom Tillis (R-N.C.) called for an audit of the committee’s spending.
+
+The NRSC controversy offers a look at issues that affect most U.S. political campaigns. Candidates and parties invest heavily in both digital and TV advertising, and in doing so, pay political consultants very large sums of money. Billions of dollars are spent each year on political advertising, even if it isn’t always the most effective use of campaign money.
+
+The NRSC spent a lot of early money on digital ads
+
+Advertisement
+
+We don’t need a financial audit to see how the NRSC spent its money. As NRSC spokesperson Chris Hartline recently tweeted, “we get audited every month. It’s called an FEC report.”
+
+He’s right. Federal law requires candidates and committees to report in detail on who they pay and for what purpose. What do they spend it on? To find out, my co-authors and I used machine learning to categorize millions of expenditures reported to the Federal Election Commission between 2004 and 2020. Our research finds dramatic growth in spending on online advertising. As you can see in the figure below, 2020 was a watershed election for digital campaigns. We estimate that campaigns spent nearly $2 billion (in 2012 dollars) on digital advertising in 2020, more than each of the previous cycles combined and twice as much as in the 2016 presidential cycle. We don’t yet have final numbers from the 2022 cycle, but FEC data through October suggests that digital spending exceeded $1 billion, less than in 2020 but roughly double what was spent on digital ads in the 2018 midterm elections.
+
+Scott’s NRSC committee spent $55 million on digital ads and services in 2022. His strategy stands in contrast to spending by the Democratic Senatorial Campaign Committee.
+
+The two figures below show how many millions the NRSC and DSCC spent each week on digital ads and traditional media. The NRSC spent heavily on digital in early 2022, compared to the low DSCC spending on digital. That may have left the NRSC short on cash in the final weeks of the campaign, when the DSCC outspent it on traditional media platforms such as television.
+
+It’s not clear how consultants used the money
+
+Advertisement
+
+The current system of FEC reporting doesn’t reveal enough about how this money actually gets spent. Campaigns report on which consultants and vendors get paid, and for what purpose. But the consultants and vendors don’t disclose how much they spend on ads and how much they keep in commissions and fees.
+
+This lack of information has led to controversy. In 2020, the Trump campaign paid over $600 million to a newly established LLC, American Made Media Consultants, for the purchase of digital ads. The watchdog group Campaign Legal Center filed a complaint alleging that the Trump campaign used the company to divert funds to the Trump family and its allies. The FEC deadlocked on whether the Trump campaign violated campaign finance law, but the complaint highlights a general lack of transparency in how the consulting industry operates.
+
+It’s very difficult to figure out how much money consultants get for making and placing ads. Previous research estimated that for every dollar of ads purchased on television, consultants charged more than 40 cents in markups and fees. Our own work found that candidates and committees paid consultants an additional 28 cents for every dollar of ads appearing on television.
+
+Advertisement
+
+Campaigns may not spend money in the best ways to win campaigns
+
+Here’s what we do know: Campaigns spend more on advertising, which benefits consultants, and less on getting out the vote. That may be inefficient.
+
+Research shows that TV advertising can sway voters, especially for congressional and state races. Our knowledge about the persuasive effects of digital ads is much more limited, but it’s thought to be very small. Meanwhile, some research on the effects of direct voter contact (canvassing, phone calls and direct mail) finds it can increase turnout by seven or eight percentage points.
+
+It is difficult to compare advertising, which aims to persuade people to support a particular candidate, and get-out-the-vote efforts, which aim to get people to the polls. But campaigns spend vastly more on advertising than on mobilizing voters. In 2020, for example, our research found that campaigns spent about $7.8 billion on all types of media, traditional and digital, compared to only $311 million on voter contact and $500 million on direct mail. That may be because consultants have a financial incentive to steer funds toward strategies that bring them more money. Get-out-the-vote efforts typically rely on volunteers to knock on doors and make phone calls. Eight billion dollars in advertising might translate into $1.7 billion in consultant markups and fees.
+
+Fear of losing
+
+Advertisement
+
+As my book on the consulting industry explains, consultants exploit the fear of being outspent on the air or online to channel campaign resources toward advertising. In the words of the veteran political consultant Matt Reese, there is “nothing better than a scared, rich candidate.”
+
+Because we cannot see exactly where the money goes, it is difficult to know where a consultant’s commitment to a candidate ends and their financial interest begins. We don’t know whether the NRSC mismanaged its spending in 2022, as critics have alleged. But we do know that the existing system of election spending gives political consultants ample opportunity to steer money toward inefficient but profitable activities.
+
+correction A previous version of this article used an incorrect initialism for the National Republican Senatorial Committee in the headline. This version has been corrected.
+
+GiftOutline Gift Article

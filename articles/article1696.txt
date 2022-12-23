@@ -1,0 +1,31 @@
+CNN —
+
+One of President Joe Biden’s most senior cybersecurity advisers is expected to step down in the next two months, three people familiar with the decision tell CNN.
+
+Chris Inglis, who has decades of government cybersecurity experience, has served as national cyber director in the White House since July 2021.
+
+Congress established the office by law last year to try to bring coherence to how the executive branch responds to major hacks. The office is also charged with keeping a close eye on how agencies manage their cyber defenses in the face of an array of threats from state-backed adversaries and criminal groups.
+
+Kemba Eneas Walden, a former Microsoft executive who joined the National Cyber Director’s office in May, will serve as acting director for the time being, the sources familiar with the personnel change told CNN.
+
+Inglis is expected to retire after he steps down, the sources said. There is not a firm timeline for Inglis’ departure, one of the sources said. It could come after the White House releases a much-anticipated new national cybersecurity strategy to protect critical infrastructure from cyber threats and encourage private companies to raise their defenses.
+
+Reached by phone Wednesday, Inglis did not deny that he was planning to resign, but would not comment further on the move. His goal, he told CNN, was always to get the nascent White House office up and running and to leave it in good hands.
+
+Inglis, a nearly three-decade veteran of the National Security Agency, began his White House post after a string of serious cyber incidents in Biden’s first year in office, including a ransomware attack on a major fuel pipeline operator.
+
+Inglis has looked to raise the profile of the office, holding meetings with executives from health care and the electric car sector to hash out ways to improve their cyber defenses. The office has been on a hiring spree, bringing in cybersecurity analysts from other federal agencies to lend their expertise.
+
+There is a bipartisan push on Capitol Hill to get Inglis to stay on longer as national cyber director.
+
+The offices of Republican Rep. Mike Gallagher of Wisconsin and Democratic Rep. Jim Langevin of Rhode Island – two influential lawmakers on cybersecurity issues – told CNN they hope Inglis stays in his position at least until the new cybersecurity strategy is being implemented.
+
+“I hope that Chris stays in the job until [the strategy] is complete – and beyond – but at the end of the day, he will make the decision that’s right for him and his family,” Langevin said in a statement to CNN.
+
+It’s unclear what effect those calls from Capitol Hill will have on Inglis.
+
+Part of Inglis’ and his colleagues’ work has been a crackdown on sloppy cybersecurity practices that make damaging hacks more likely.
+
+The White House in January issued a directive requiring federal employees to sign onto agency networks using multiple layers of security to make it harder for hackers to break in. The directive was inspired in part by a 2020 spying campaign by alleged Russian hackers that infiltrated several US agencies and went undetected for months, leaving US officials frustrated at their blind spots.
+
+It is a long-term struggle: Inglis has compared cybersecurity challenges to climate change in that both are “long in the making, sharp now in the escalation, and can’t be turned around [quickly].”

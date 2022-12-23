@@ -1,0 +1,105 @@
+Listen Comment on this story Comment Gift Article Share
+
+Western intelligence officials are investigating whether a network of wealthy and well-connected expatriate Russian investors is part of a covert effort to aid their native country in developing cutting-edge technologies such as quantum computing and artificial intelligence through start-ups they funded in the United States, according to people familiar with the inquiries.
+
+Before moving abroad and backing high-tech companies in the United States and allied nations, several of the expatriates were affiliated with one or more of three high-profile Russian tech initiatives: the government-subsidized Skolkovo technology area intended to rival Silicon Valley in suburban Moscow; the Russian Venture Company, a government investment vehicle to help Russian businesses develop innovative technology; and the nonprofit research administrator Russian Quantum Center, which operates 12 laboratories near Moscow.
+
+Russian government money was included in venture funds managed by one of the expats at least as recently as 2019, according to fund postings, interviews and Russian media, an issue that has drawn investigators’ attention.
+
+Advertisement
+
+Western authorities expressed concerns over Russian technology funding as far back as 2014, when the Boston FBI publicly cautioned the Massachusetts Institute of Technology over an alliance with Skolkovo and its founding president, Viktor Vekselberg. Those concerns have intensified in the wake of Russia’s war in Ukraine, as authorities expand their lists of Kremlin allies to sanction with restrictions on assets or business dealings.
+
+The Russian Venture Company was sanctioned by the U.S. government in February, and the Russian Quantum Center was added to the list in September. Also that month, the government said it might add anyone who had worked on quantum computing for Russia in the past.
+
+Some of the expatriates have denounced the invasion of Ukraine, and many say they ended or reduced ties to Russia years ago. But those claims are not being accepted at face value, according to the people familiar with the inquiries. It is unclear what conclusions have been drawn by counterintelligence and other officials, since intelligence cases are rarely made public. The FBI declined to comment.
+
+Advertisement
+
+The investigations have proven challenging because of sparse or contradictory public disclosures, the role of shell companies, and the closed nature of venture capital and private equity firms, which have far fewer regulations requiring disclosures than publicly traded companies.
+
+Beyond that, records show some of the people at issue have changed not only their professed political beliefs but also the records of their past positions, their company names and rosters, and their own names. But the network’s high-level Russian government connections and its focus on strategic technologies have unnerved investigators, the people familiar with the probes said.
+
+“If they were going to put Russian money into strategic technology in the U.S., this is exactly how you would do it,” said one U.S. intelligence officer familiar with the inquiries. “Dark money going into [venture capital firms] in tech and politics we care about.”
+
+Advertisement
+
+The reach of Russian technology has surprised officials in the past. In 2017, Russian security company Kaspersky Lab disclosed that its software had taken secret code for a U.S. hacking tool from an American customer. The discovery led to a directive that Kaspersky software be removed from U.S. government computer systems and prompted Kaspersky to abandon plans for expansion in the United States.
+
+An official at another intelligence agency confirmed that one of the people at the center of the new network, tech security company founder and investor Serguei Beloussov, was being tracked, but said the United States had not found proof of a security breach of the sort it found with Kaspersky. Beloussov said in an interview that he had not been contacted by U.S. authorities and that he is not close to the Kremlin.
+
+Of particular interest to investigators is Vekselberg, who has used a Northern California venture firm, Maxfield Capital, to invest in technology companies. He was named president of the Skolkovo Foundation on its launch in 2010.
+
+Advertisement
+
+Sanctioned in 2018 and again this year, Vekselberg had two U.S. properties raided in September and a yacht seized in April by authorities who said he had committed money laundering and bank fraud. Vekselberg has not been publicly charged with a crime. He could not be reached for comment.
+
+Joining Vekselberg on the Skolkovo board was Alexander Galitsky, a talented engineer and inventor behind early virtual private networks and other gear. Long a partner with U.S. technologists, Galitsky served as coordinator for the government’s Russian Venture Company and helped start the Russian Quantum Center, which took in millions from Skolkovo to put Russia ahead in the race for next-generation computing. He also created a venture firm in California, Almaz Capital, drawing such prominent co-investors as Cisco Systems and Andreessen Horowitz and pouring hundreds of millions of dollars into tech companies. A person close to Cisco said it last invested in an Almaz fund in 2013 and does not intend to do so again. Someone close to Andreessen said there had been one small investment.
+
+The concerns about foreign pursuit of technology know-how go back decades. Attention focused on Russia not long after Skolkovo launched, when Galitsky helped set up the partnership between Skolkovo and MIT that drew the rare warning back in 2014.
+
+In the Boston Business Journal, a deputy agent in charge of the city’s FBI bureau wrote in a guest column: “The FBI recently released a notification to technology companies and research facilities, which include colleges and universities in the Boston area, warning them of the possible perils of entering into joint partnerships with foreign venture capital firms from Russia.
+
+“The warning was based on the FBI’s growing concern that the purported reasons offered by the Russian partners mask their true intentions. The FBI believes the true motives of the Russian partners, who are often funded by their government, is to gain access to classified, sensitive and emerging technology from the companies.”
+
+Advertisement
+
+The article said Skolkovo “may be a means for the Russian government to access our nation’s sensitive or classified research, development facilities and dual-use technologies with military and commercial applications. This analysis is supported by reports coming out of Russia itself.”
+
+Galitsky said by email that he had left Skolkovo and Quantum Center boards long ago and quit the board of the sanctioned Alfa Bank, the biggest private Russian bank, one day after Russia invaded Ukraine.
+
+As the war in Ukraine escalated, Galitsky’s activities drew increased scrutiny in the United States. In April, Almaz said that despite a track record dating to 2008, it was getting revetted by Silicon Valley Bank. “We needed to prove that we are a good fund,” Galitsky told the venture capital publication PitchBook.
+
+Advertisement
+
+Galitsky told The Post that review had ended without a change in the fund’s relationship to the bank and that Almaz was continuing to invest in U.S. companies. The bank declined to comment.
+
+American and Swiss officials have also made inquiries about Soviet-era emigre Beloussov, according to two people informed of the matters. Beloussov has led a series of major companies, including the large security company Acronis, which won U.S. government contracts, including for backing up Pentagon computers, through at least 2017. Beloussov’s first big company, a computing firm named Parallels, was backed by Vekselberg’s Maxfield Capital and others. Acronis, officially Swiss, spun off from Parallels.
+
+Though neither his corporate nor his personal webpage mentions it in recounting his career, Beloussov helped start the Russian Quantum Center, which worked with partners as sensitive as the national nuclear authorities. Beloussov took the role of chairman of the board of trustees.
+
+In a 2019 interview, Russian President Vladimir Putin’s special envoy for digital development, Dmitry Peskov, paid tribute to Beloussov’s work for Russia and blessed his move abroad, saying that he could do more for the country from outside its borders.
+
+Advertisement
+
+“Acronis teams, even in private, do a lot for the country. The role, for example, of Serguei Beloussov, the leader of the Acronis team, in launching a large state-owned quantum computing system in Russia is not very public now, but it cannot be overestimated. He understood this before others, drove ahead of others and did a lot to make this story go. Therefore, they will find how to pay their debts to the Motherland,” Peskov told the Russian business news site BFM.ru.
+
+“If they are purely Russian, they will take on all the risks that Kaspersky took. Why would they fall into this trap? … A variety of income, profits, feedback for the country will be much greater than if they remained in Russia as a small 100 million [dollar] company.”
+
+Beloussov said he was not paid for his work at the Russian Quantum Center, formally known as the International Center for Quantum Optics and Quantum Technologies, and that he had helped because “at the time, it seemed to everyone that scientific collaboration was a good thing.” He said his business ventures since then had no ulterior motive.
+
+Advertisement
+
+Beloussov, who has Singapore citizenship and changed his name to Serg Bell, also founded Runa Capital, a venture firm with offices in multiple cities, including, until this year, Moscow. After Russia invaded Ukraine, Beloussov criticized the attack on Twitter and told The Post he was moving Acronis employees out of Russia.
+
+He said Acronis had already stopped selling in Russia. But a company called Akronis-InfoProtection modified and resold Acronis’s security wares, which were government-approved for use in ministries. When Akronis changed its name last year to Cyber Protect, its chief executive said Acronis “remains the key technology partner.” Beloussov said Acronis had ended the licensing deal.
+
+Runa’s portfolio includes many companies in cutting-edge technology, including quantum computer maker Pasqal of France, Swiss “quantum-safe” security and encryption company ID Quantique, and Enteria, a German company making an operating system software for industrial devices.
+
+As previously reported, Beloussov also hired Masha Drokova, now married and known as Masha Bucher, who was once an ardently pro-Putin teenager who starred in a documentary that featured her kissing the autocrat. Drokova became a spokesperson for Nashi, a youth group that physically harassed Putin opponents. She has since publicly repudiated Putin, adding that her disavowal put her Russian family at risk.
+
+Drokova worked for Beloussov at Acronis, at Runa, and at his 2012 fund for investing in quantum computing, called Quantum Wave Fund, which aimed at Silicon Valley. Then Drokova began investing through her own new fund, Day One Ventures, which also took money from Beloussov. This year, she denied acting for Russia or even taking money from Russians. Fundraising pitches to potential Day One investors, seen by The Post, touted connections to Russian billionaires who were later sanctioned. Drokova said the pitches were fakes.
+
+While independent, Quantum Wave Fund had connections to the government-funded Quantum Center besides Beloussov. The president and then chairman of the nonprofit, Sergey Viktorovich Kuzmin, became managing partner of the Quantum Wave Fund’s initial effort, according to Russian regulatory filings. Kuzmin told The Post he had never worked with the Russian government and that his name is better translated as Kouzmine.
+
+Beloussov served as an adviser to the Russian Venture Company through 2015. After the Quantum Wave Fund, Beloussov started a new investment fund, Phystech Ventures, with others including Galitsky and former Skolkovo investment manager Petr Lukyanov.
+
+Lukyanov said Phystech took over management of the Quantum Wave Fund. Then it launched another fund, called TF II for Terra Fund, with money from the Russian Venture Company and others. The Russian fund put in about $15 million, according to its 2015 annual report. That was still in play at least in 2019, when it combined with another fund.
+
+Beloussov said he did not participate in that fund, and Lukyanov said he resigned from it this year. Instead, the men are focused on a new firm, registered in December as Terra.VC.
+
+Most of the money for it was to come from Russian investors, according to internal documents reviewed by The Post. But after the invasion of Ukraine, Lukyanov and the rest of the management knocked them out.
+
+Beloussov said he has not been to Russia since 2017, and he has spoken out against the attack on Ukraine.
+
+But he has stood by multiple previous high-level Putin supporters, including Robert Schlegel, who spoke for Nashi when it claimed credit for cyberattacks on Estonia, then served in the Russian parliament in Putin’s United Russia Party. While in parliament, Schlegel traveled abroad to facilitate alliances with movements in other countries, including Germany’s far-right Alliance for Democracy Party.
+
+Schlegel disappeared from the Duma and the spotlight in 2016 until he was rediscovered in 2019 by a German newspaper, which found him working in Munich as a director of strategic projects for Acronis.
+
+After the newspaper story, Acronis had one of its law firms interview Schlegel. A partner at that firm, former U.S. federal judge Eugene Sullivan, told The Post that Schlegel had committed no crime and that if he had been an intelligence risk, he would not have been granted German citizenship.
+
+Schlegel resigned from the company but has continued to consult for it, Sullivan said. He did not respond to an interview request.
+
+He joined Beloussov on a trip to Montenegro this year as Beloussov looked for possible business locations, according to the capital city’s investment office.
+
+GiftOutline Gift Article

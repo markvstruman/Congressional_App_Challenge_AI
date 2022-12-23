@@ -1,0 +1,73 @@
+The justices on the Supreme Court appeared split Wednesday over whether to back a fringe theory that would upend election and redistricting law in every state.
+
+The court heard arguments in the case of Moore v. Harper, which involves the independent state legislature theory. It holds that state legislatures were unbound by state constitutions and state courts when enacting law governing federal elections or drawing congressional district maps. This highly controversial theory has never been accepted by the judicial branch and has been deemed “historically implausible” and “antithetical” to the Constitution by historians of the founding era and judicial scholars, conservative and liberal alike.
+
+Advertisement
+
+The case came to the court after the North Carolina Supreme Court struck down the congressional district map adopted by the state’s Republican-controlled legislature for violating the state constitution’s provision for “free and fair elections.” The state court ordered a new, less partisan map drawn by a lower court. Republicans in the state legislature asked the U.S. Supreme Court to toss out the state court’s order by arguing that the federal Constitution’s elections clause provides state legislatures, and only state legislatures, with the power to set the “time, place and manner” of elections.
+
+Were the court to assent to the theory, it would end any oversight of partisan gerrymandering short of federal legislation, threaten the continued application of hundreds of laws and state constitutional provisions and thousands of election regulations, and potentially encourage partisan legislators to subvert future elections as former President Donald Trump attempted following his 2020 loss.
+
+With three of the court’s conservatives — Justices Clarence Thomas, Samuel Alito and Neil Gorsuch — appearing supportive of the theory, and the court’s three liberals — Justices Sonia Sotomayor, Elena Kagan and Ketanji Brown Jackson — strongly opposed, the case will be decided by the opinions of the Chief Justice John Roberts and Justices Brett Kavanaugh and Amy Coney Barrett.
+
+Among these three conservatives, Roberts appeared the most skeptical of the plaintiff’s argument, while Kavanaugh and Barrett both appeared to question the breadth of the theory put before them while pressing the lawyers on both sides for a possible middle-ground solution.
+
+Advertisement
+
+Roberts questioned David Thompson, counsel for the North Carolina legislature, about how the theory squares with both the history of Massachusetts and New York having either gubernatorial vetoes or a form of judicial review for election law, and the court’s past precedent supporting gubernatorial vetoes of congressional redistricting plans.
+
+The gubernatorial veto was acceptable under the independent state legislature theory, Thompson argued, because it was procedural and not substantive. This differentiated the act from the North Carolina Supreme Court’s rejection of the legislature’s map and order to a lower court to draw a new one.
+
+Chief Justice John Roberts (center) and Justices Amy Coney Barrett (left) and Brett Kavanaugh (right) were the three conservative justices most skeptical of the independent state legislature theory put forward in Moore v. Harper. Saul Loeb - Pool/Getty Images
+
+But Roberts didn’t entirely buy this answer. Why would the governor’s veto automatically be treated as a procedural, Roberts asked. What if the governor vetoed the district map for his own partisan reasons?
+
+“You do have a problem with why these procedural limitations are OK but substantive limitations are not,” Barrett followed up.
+
+Advertisement
+
+Thompson’s argument in support of the theory did not come from the text of the Constitution, Barrett said, but was just “pulling some things from the history” and “saying James Madison’s comments support this procedural-substantive line.” And that line, Barrett appeared to argue, would be an extremely difficult standard for a court to determine in a consistent manner. This would be a point that Barrett, an expert in procedural law, would come back to throughout the arguments.
+
+The liberal justices followed Roberts and Barrett by hitting the theory and the arguments made in support of it like a piñata.
+
+“We know that before the founding, at the founding of the Constitution, decades after, and even today that state constitutions have regulated ‘time, place and manner,’” Sotomayor said, noting that a significant number of early state constitutions allowed for the regulation of federal elections.
+
+When Thompson said he could counter the fact that early state constitutions provided for the regulation of federal elections with one argument, Sotomayor shot back, “If you rewrite history, it’s easy to do.”
+
+Kagan noted that Thompson’s insistence on citing precedent “gives you a lot of problems.” She proceeded to cite the court’s precedents in Smiley v. Holm and more recent cases, like Arizona State Legislature v. Arizona Independent Redistricting Commission and Rucho v. Common Cause, all contradicted the basis for the theory.
+
+Advertisement
+
+“In all recent cases, we have said of course state courts applying state constitutions typically constrain state legislatures when they redistrict, when they enact election laws,” Kagan said.
+
+Later, Kagan drove home what was at stake in what she called a “novel theory,” that the court had not heard before.
+
+“This is a theory with big consequences,” Kagan said. She noted that the theory would provide “no state constitutional remedy” for “the most extreme forms of gerrymandering,” enable legislatures to “enact all manner of restrictions on voting,” and insert themselves into “the certification of elections.”
+
+“In all these ways, I think what might strike a person is that this is a proposal that gets rid of the normal checks and balances on the way big governmental decisions are made in this country,” Kagan said. “And you might think that it gets rid of all those checks and balances at exactly the time when they are needed most. Because legislators, we all know, have their own self-interest. They want to get reelected. So there are countless times when they have incentives to suppress votes, dilute votes, negate votes, to prevent voters from having true access and true opportunity to engage the political process.”
+
+Sen. Amy Klobuchar (D-Minn.) speaks at a rally outside the Supreme Court against the independent state legislature theory on Dec. 7. OLIVIER DOULIERY via Getty Images
+
+Advertisement
+
+Neal Katyal, counsel for the nonprofit group Common Cause, followed Thompson by arguing that the independent state legislature theory is wrong because it has no basis in the history, text or structure of the Constitution.
+
+“For 233 years, the states have not read the elections clause the way you just heard,” Katyal said. Adding that, “Petitioners say, for two centuries, nearly everyone has been reading the [elections] clause wrong. That’s a lot of wrong … past elections.”
+
+The “blast radius” of the decision “starts at the extra large size,” Katyal said, arguing that the theory would eliminate a vast swath of state constitutional provisions. “It starts with invalidating 50 different state constitutions today. Elections clauses are in 27 of them. All states have equal protection clauses. Speech clauses. Assembly clauses. Thirty of them guarantee the right to a secret ballot. Five of them, voter ID.”
+
+Katyal’s opposition to the independent state legislature theory brought exasperated, often sneering, questioning from Gorsuch and Alito.
+
+Repeatedly, Gorsuch sought to ensnare Katyal and back him into saying that his anti-independent state legislature theory position would have supported the three-fifths clause, which treated enslaved people as three-fifths of a person for congressional apportionment purposes, because Virginia’s antebellum constitution enshrined the three-fifths clause.
+
+Advertisement
+
+But then Roberts, Barrett and Kavanaugh pressed Katyal and the other two counsels, Donald Verrilli and Solicitor General Elizabeth Prelogar, on whether there could be any limitation imposed by federal courts on state supreme courts that they could deem as acting out of control.
+
+The debate largely revolved around the late Chief Justice William Rehnquist’s concurrence in the 2000 Bush v. Gore case, which first surfaced the independent state legislature theory. Rehnquist argued that federal courts can intervene when state courts make novel interpretations of state constitutions in election law and redistricting cases.
+
+A standard for any such intervention, Katyal argued, would have to be “sky-high.” That standard could be “whether the state decision is such a sharp departure from the state’s ordinary mode of state constitutional interpretation,” Verrilli added later on. And the North Carolina Supreme Court’s actions in this case would not violate such a standard, he added.
+
+Tuesday’s arguments follow two years of attempts by Republicans to get the independent state legislature before the court that began in the final months of the 2020 election.
+
+In those late-2020 cases and in the emergency applications by North Carolina and Pennsylvania earlier in 2022, Thomas, Alito, Gorsuch and Kavanaugh all either endorsed the theory or made sympathetic statements about it. Roberts was the lone conservative to side with the liberals. The only unknown quantity in this case is Barrett, who joined the court after the 2020 cases and did not indicate any position on the 2022 applications.

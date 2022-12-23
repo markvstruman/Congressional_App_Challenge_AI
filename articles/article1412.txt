@@ -1,0 +1,77 @@
+CNN —
+
+The Supreme Court is taking on the future of federal elections Wednesday, discussing a case that could upend electoral politics and embolden state legislatures to act without judicial oversight.
+
+Supporters of former President Donald Trump relied on versions of the so-called independent state legislature doctrine during the efforts to overturn the 2020 election. Now, North Carolina Republican lawmakers are asking the justices to adopt the long-dormant legal theory in a fight over redistricting maps, saying it allows state legislatures to set rules in federal elections without any constraints by state courts or other state authorities.
+
+Voting rights groups say the lawmakers’ position would lead to state legislatures having absolute authority without judicial oversight, even perhaps choosing their desired election winners. They fear that if the court were to adopt the theory it would abolish necessary checks and balances, upend states’ time-tested election systems, spawn litigation and require states to conduct separate state and federal elections.
+
+The dispute comes amid the recent explosion of litigation surrounding voting rules and a renewed effort by Trump to allege massive fraud at the polling place – a baseless claim rejected by Democrats and Republicans alike.
+
+As recently as last week, Trump called for the “termination of all rules, regulations, and articles, even those found in the Constitution” in a social media post.
+
+As things stand, Republicans currently control the majority of state legislatures and have seen multiple proposed congressional legislative maps struck down by state courts.
+
+“There’s a lot that could be implicated in this decision if the court were to say basically that the legislature of a state has free, unchecked rein to decide federal elections,” said Abha Khanna, a lawyer for Democratic voters in the case. “That would be just a complete, fundamental shift in the way we have always done business.” She stressed that it could impact not just claims of partisan gerrymandering but other rules on issues such as voter id and absentee voting regulations.
+
+Four conservative justices interested in the issue
+
+On the surface, the case before the justices presents a redistricting dispute out of North Carolina involving a lower court decision that invalidated the state’s congressional map. The state Supreme Court struck the map as an illegal partisan gerrymander and replaced it with a temporary court-drawn map more favorable to Democrats.
+
+Republican legislators raced to the US Supreme Court in March 2022 asking the justices to freeze the decision by the state Supreme Court.
+
+They relied upon the Elections Clause of the Constitution that provides that rules governing the “manner of holding Elections for Senators and Representatives” must be prescribed in “each state by the legislature thereof.”
+
+Under the independent state legislature theory, the lawmakers argue, state legislatures should be able to set rules with no interference from the state courts.
+
+A 5-4 US Supreme Court declined to block the court-ordered map on an emergency basis.
+
+Justice Samuel Alito, writing for Justices Clarence Thomas and Neil Gorsuch, said that he thought the lawmakers in the case will ultimately prevail.
+
+“If the language of the Elections Clause is taken seriously, there must be some limit on the authority of state courts to countermand actions taken by state legislatures when they are prescribing rules for the conduct of federal elections,” he wrote.
+
+Critically, Justice Brett Kavanaugh said that he agreed with Alito that the underlying Elections Clause questions were important.
+
+“The issue is almost certain to keep arising until this Court definitively resolves it,” Kavanaugh wrote. Yet he ultimately voted against the lawmakers cautioning that it was too close to the impending midterms to change the map.
+
+All eyes will be on Justice Amy Coney Barrett during arguments. She has not previously opined on the issue and did not join Alito’s dissent back in March. While it only takes four justices to agree to hear a case, five votes are necessary to decide it.
+
+Inside the case
+
+On Wednesday, the justices will review the opinion by the North Carolina Supreme Court that went against the lawmakers, saying that legislators do not have “unlimited power” to draw electoral maps.
+
+The state court acknowledged that redistricting is primarily delegated to the legislature but said it must be performed in conformity with the state constitution. The court said the maps violated the North Carolina’s free elections, equal process, free speech and free assembly clauses.
+
+Traditionally, legislatures have set ground rules for conducting an election, but have not acted alone or with the final word. Processes set in place have been subject to intervention by elections administrators and state courts.
+
+But the strictest reading of the independent state legislature theory says that state courts, when it comes to federal elections, must stay out completely.
+
+The Republican lawmakers argued in court papers that the “text of the Constitution directly answers the question presented in this case.” The Elections Clause provides “unambiguous language” concerning the manner of federal elections and makes clear that the rules will be drawn by the legislatures.
+
+“The North Carolina Supreme Court decreed that the 2022 election and all upcoming congressional elections in North Carolina were not to be held in the ‘manner’ prescribed by the Legislature,” David H. Thompson argued on behalf of the lawmakers.
+
+He argued that the lower court did not point to a distinct state constitutional provision when it struck down the congressional map but instead seized on “vague and abstract state constitutional language.”
+
+“The Constitution’s drafting history confirms that the allocation of authority to regulate elections specifically to each State’s legislature was a deliberate choice,” Thompson said.
+
+John Eastman, the lawyer who served as a key architect of the push to overturn election results for Trump, has filed a sweeping amicus brief in favor of the lawmakers. Lawyers for the Republican National Committee scaled back on some of Eastman’s arguments, but they, too, want the justices to adopt a version of the theory.
+
+Democratic solicitors general oppose the lawsuit
+
+Two former solicitors general of Democratic administrations will argue in favor of voting rights groups and the state supporting the state Supreme Court ruling. They are supported by the current solicitor general of the Biden administration, Elizabeth Prelogar.
+
+Don Verrilli, who served as solicitor general during the Obama administration, argued on behalf of the state in court papers, pointing out that in North Carolina, the General Assembly passed a law authorizing judicial review of congressional redistricting to ensure that it complies with state constitutional requirements.
+
+He told the court they could resolve the case on that factor alone, never wading into the independent state legislative doctrine.
+
+“It is inconceivable that the founding generation would have understood the Elections Clause to forbid state legislatures from authorizing state courts to enforce the state constitution and remedy proven violations,” Verrilli argued.
+
+He urged the court not to entertain the independent state legislature doctrine warning it could create serious election administration problems, upend time-tested systems, spawn protected litigation and possibly require states to conduct separate state and federal elections.
+
+Neal Katyal, who served as acting solicitor general for the Obama administration, will argue on behalf of voting rights groups as well as individual Democratic voters. Notably, J. Michael Luttig, a conservative legal luminary who played a critical role in the run up to the January 6, 2021, US Capitol attack advising then-Vice President Mike Pence’s legal team, is serving as Katyal’s co-counsel.
+
+“The independent state legislature doctrine was the centerpiece to Trump’s effort to overturn the 2020 election,” Luttig said in an interview with CNN. “I have believed since January 6th that I had a responsibility to the country to explain why I rejected the theory in advising the vice president,” he said.
+
+Prelogar also critiques the theory, leaning on historical tradition in an attempt to attract the more conservative members of the court.
+
+“More than two centuries of practice confirms that state legislatures are subject to state constitutional constraints” when they exercise their authority under the Constitution, she told the justices in court papers.
